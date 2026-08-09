@@ -1,0 +1,54 @@
+[
+ {
+  "name": "Croma",
+  "category": "Electronics",
+  "city": "Lucknow",
+  "space": "",
+  "locality": "Gomti Nagar",
+  "signal": "Croma expanding across UP — Lucknow store likely",
+  "source": "example",
+  "link": "",
+  "date": "",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Croma%20retail%20expansion",
+  "stage": "Detected"
+ },
+ {
+  "name": "UNIQLO",
+  "category": "Fashion / Footwear",
+  "city": "Lucknow",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "UNIQLO entering Lucknow — large-format EBO",
+  "source": "example",
+  "link": "",
+  "date": "",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=UNIQLO%20India%20real%20estate",
+  "stage": "Detected"
+ },
+ {
+  "name": "Haldiram's QSR",
+  "category": "QSR / F&B",
+  "city": "Lucknow",
+  "space": "",
+  "locality": "Faizabad Road",
+  "signal": "Haldiram's named Lucknow a key QSR expansion city",
+  "source": "example",
+  "link": "",
+  "date": "",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Haldiram%20expansion",
+  "stage": "Detected"
+ },
+ {
+  "name": "Delhivery",
+  "category": "Warehouse / Logistics",
+  "city": "Lucknow",
+  "space": "20000 sqft",
+  "locality": "Transport Nagar",
+  "signal": "3PL warehousing demand rising in the logistics belt",
+  "source": "example",
+  "link": "",
+  "date": "",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Delhivery%20network%20expansion",
+  "stage": "Detected"
+ }
+]
