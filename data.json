@@ -120,7 +120,7 @@
   "id": "r5"
  },
  {
-  "title": "RBI’s new SNFA rules: Banks barred from selling assets to loan defaulters - The Indian Express",
+  "title": "RBI’s new SNFA rules: Banks barred from selling assets to loan defaulters - indianexpress.com",
   "type": "Auction",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -131,8 +131,8 @@
   "fit": 3,
   "margin": 4,
   "timing": 4,
-  "reason": "Auction signal via The Indian Express",
-  "source": "News: The Indian Express",
+  "reason": "Auction signal via indianexpress.com",
+  "source": "News: indianexpress.com",
   "date": "Thu, 16 Jul 2026",
   "phone": "",
   "lat": null,
@@ -204,7 +204,7 @@
   "id": "r9"
  },
  {
-  "title": "Sena leader Dhangekar rejects suicide abetment charge, blames stalled project - The Indian Express",
+  "title": "Sena leader Dhangekar rejects suicide abetment charge, blames stalled project - indianexpress.com",
   "type": "Stalled",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -215,8 +215,8 @@
   "fit": 4,
   "margin": 4,
   "timing": 4,
-  "reason": "Stalled signal via The Indian Express",
-  "source": "News: The Indian Express",
+  "reason": "Stalled signal via indianexpress.com",
+  "source": "News: indianexpress.com",
   "date": "Fri, 17 Jul 2026",
   "phone": "",
   "lat": null,
@@ -288,6 +288,27 @@
   "id": "r13"
  },
  {
+  "title": "7 long-awaited Kanpur projects that are still stuck in the pipeline - Knocksense - Knocksense",
+  "type": "Stalled",
+  "city": "Lucknow",
+  "corridor": "Lucknow",
+  "price": 0,
+  "rent": 0,
+  "area": 0,
+  "distress": 4,
+  "fit": 4,
+  "margin": 4,
+  "timing": 4,
+  "reason": "Stalled signal via Knocksense",
+  "source": "News: Knocksense",
+  "date": "Wed, 19 Aug 2026",
+  "phone": "",
+  "lat": null,
+  "lng": null,
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWWRVTmJYN0xNRDZXNWhrVDZocDZhUjJiVTVPb3JGMjRKNjJmMjhZcmU2bmpnZVhQaHpzQzBfbUtManRYMWNjb2hRaTNiUzY0U1hKcFdac0hsVG8wb0JyZFBac1pNOC16RTZhOHpjWjQzMHh3MVg4VW13enVVRUJmR0w5MG11Y3pTYnUxdkJ2STVXM2Y3WVh0RGRobVVRXzdlYVFSdzNWYXpDSk8x0gGsAUFVX3lxTE9ZZFVOYlg3TE1ENlc1aGtUNmhwNmFSMmJVNU9vckYyNEo2MmYyOFlyZTZuamdlWFBoenNDMF9tS0xqdFgxY2NvaFFpM2JTNjRTWEpwV1pzSGxUbzBvQnJkUFpzWk04LXpFNmE4emNaNDMweHcxWDhVbXd6dVVFQmZHTDkwbXVjelNidTF2QnZJNVczZjdZWHREZGhtVVFfN2VhUVJ3M1ZhekNKTzE?oc=5",
+  "id": "r14"
+ },
+ {
   "title": "UP RERA Half-Yearly Report Shows Sustained Investor Confidence In UP Real Estate - Outlook Money",
   "type": "Stalled",
   "city": "Lucknow",
@@ -306,7 +327,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRnVHZnJnV0t4VGhtMks2NUl1alU5cTJyeTU0TkF5eld3cWJ0dHhiaml3eWdQbUUzZFJMcXpiazZGS2N6SlFiQ1RNN2Fuc3hlbmswS3RKWGFLSnM4NS14UHZtRVo5a3QtMEptcllhb2VVNVgwLThHb0FRY3pDT01TeDFNTEtEakQza0RrQzd1QTkwWGRFdWY0RmROMGJ4UE5XWE9pVmxGLUlNNVFadGY0THJZVTc4YWfSAcQBQVVfeXFMT042bXI4alEwRHR2bWNmWThYX2tzbEIyUHhyNlA4RzhfVkRHcmUtYkhxOVVabHRLb2puV3Vuc3N0dkNGY1JBczJLN0lqZ2dHTHNwZ0ZMSHFhVFlDQkowQVJWTmFHRy1PUlZoNHZ3T3V4TzZSU0ZFc2dfdkxBMFhoa3EzQUkxRUZCV3k2MVk0d25KSXR1LXdBTWZJUVFYYTVRYmNUQUU3WnduamdLRk55MzdhZ0FzYTdZQ2pGQ0RoZ093anRYZg?oc=5",
-  "id": "r14"
+  "id": "r15"
  },
  {
   "title": "Looking to buy a home in UP? RERA clears 10 new real estate projects - The Times of India",
@@ -327,7 +348,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRVRTSW1BalJwbDluMW1BeTRjbkg4cVFlc1BDMktVdzdtV3VOZEdWaklPWEpGMEw2OWpCYmdZODEtYmxDY2U2MlJEbzcxSmhJMzJkMnZ3VTZ6R3BGWGxWbHN2RWV3MkU1ckk4OUZQZThiZkVLemJQUTdqQkRic3o4dGdlXzVaWVJ6ZUdaVkZkNDZjQWtZN3pRaFk2UzhNZC1EUTluUzdCbmNqekE0dXpiY29ua3daUVl6N1p5S25EaTgtcVp3a2o1M0lDRVF5eDhuQmI1WkpuZkNBcC1Jak000gHkAUFVX3lxTFBTSXduLThMTWItMDdrYmdzdFlkUXFESUZOZVlwcXBXYk1TX0NpUWFXMTlFN25qdjZ3UjdTTW9QaVg2VVBSdTMzNDRSU1d1WnN3cF81NURNT24wRW9CMzJaWFNubXgxM04xSFBWM2gwZmNjT1B2dFByd0JlU0lqNjZxV3ltZGw3V2dYbFRCME05ZldMd3JXRFlocUFWT3ZwMGhLdmE5Ti1qNlVxYW1IZlFQUTF0RWEzWG95N1RvM2x2bjMtaHdMOGVfdzB0OThNckpJTXRHUV9vOEp0M0paYzc5cEt2eQ?oc=5",
-  "id": "r15"
+  "id": "r16"
  },
  {
   "title": "Lucknow is emerging as north India’s most liveable growth hub: MD Shalimar Corp Khalid Masood - ET Government",
@@ -348,7 +369,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTEtVMmExdHZfVm80MU44bXNlTzhfZFFEWThUdm9IWWxQOXVEQ0NFeDJYQ21xSUUxMkx3QTZlV3ktRmlrVm56SXFqRWJ6N09yVVE4UWU3akZXejRMdEtqMHJ2bDRWMjhPN09VNlVFWHAteWNoZW9FSFVTMmVmTXRjSVJvX3B5RUNiZlJuTHNMOHpNOEQzTFJVOW95cXBMcVg3NTZ6aUZIenNOcWlhbWd6LWQ2clZ6VTlnbWN2Z0tkWU0xQjVydnN0cWJVdC15dk92T0EwRGFwX05LMUZGeDc3U1lHbnN0emJJdDB5blg5VFhPWUnSAfgBQVVfeXFMUFZiYW1nZTVRakw0bXpDTjRrNzRKbWZ1N3dJQVRyS1Q1c0k3d2g2MGRWcWhpc3pJZVNBQmY5MHR6RlphVS1wYVFDZk5wS010Tm15eENjTzVoTWNwOERveUpmc21vLUdLLWNWejU5LV83MlZvTnFPeHRwZHg1VlBhTGZuUTR0NFZib3QyektkWnhwMnBydGkxUlQ4R0t0UDJPT05sc0JpT05hYV90RkU3YzNSZ2RHREJxSG42NEJUNXoybm5Idms5LTlXd0stdUdreG9fT1VlYzVmZ19mMHNDcDB5RnpvVXliSWkyWmhDNHFkRVZJQXFoR1g?oc=5",
-  "id": "r16"
+  "id": "r17"
  },
  {
   "title": "Embassy Developments Signs ₹1,500 Crore Deal for 3 Million Sq Ft Office Hub in Lucknow - Sahi",
@@ -369,7 +390,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT0NwQXoxYUlCMGJBOTBpU1ZsdUtWYmJOUDJkaGxuUGhwSjUzWXRYSEUwd20yU1MyTjZuemJnUWNRRTd5Nm9WdTJMY0JySUd6TmpEd0VzdjBISDVYTGlWQ2dZa01CZ0FJYzN1LXNzXzVGLUpLNlhhbmIxX0JJdWh2M3pGenJ1XzlFaU5rcklUVDh2Wm1uemUyWHVjYXhrSlp6RzVKcDlHWmFxSEFPWXdWbDRRMGlaZmQ5bWNpY1BpbkRfZw?oc=5",
-  "id": "r17"
+  "id": "r18"
  },
  {
   "title": "In Lucknow, just 60,000 of 7.65 lakh tax-paying properties approved by LDA | Hindustan Times - Hindustan Times",
@@ -390,7 +411,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORHowbTNHdWh1Q08wSFg1ME9SSG9xSG9oeW1YVlhjWDRkRkdBb1pJMzFlMUJObVBqLW52SHYxbjlKWnV6eEZaRTV0LWEwQXNUSWxmVkJ6U3ZSbTQzMmxtdkdMeEE1TkdFbXRMVjlURlVEYXpEQUg0d3d3ZkRhQldWWHFwS1JKVnlLSGdmTDEwOV9wX3ktSlRudkM5TDZtM2c5V1JQU3hPajJuU05IeThuMmVPNUE1ZGd4Z2ZrUHhwLW5QOGRfMW03TTEtOFhfVlZvbHJUZFR4MzQtSFl5T1HSAeMBQVVfeXFMTUE4RDN4ZXd5dVE5aWtKdHNLcGZxZXRGZnB2aTc1cGZZZlM4RUtXb0V5ZmxXb2xPME4zdW5hTnY5bzAxcjlTSHF6dzRtVjhCMXNRbGZ1UFVDSzZ3WWJtNzRvTmoydjFPcDM4N1U3Q3BzX0puUnVoNmx1MDBtSGRWMkgtY3dROU4tTW9lN3dMRlVXYm1kd3pMRzVlSUhaUFFFNnlMTE54THAwdnZPS2tPd0k4R3VfQVpwRG5QSG9RaDZSWEZHaGw0U2tQeU1iNFI1Z1E4MlkzdHhjZlQwRDBUMlhnT0U?oc=5",
-  "id": "r18"
+  "id": "r19"
  },
  {
   "title": "Lucknow-Kanpur Expressway To Open New Growth Corridor For Uttar Pradesh's Real Estate Market - Outlook Money",
@@ -411,7 +432,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUF9HMjJWSEVvVlg1TmRUXzhzSUVtd1hxOVFoMEx6NWcwMnE2TnNRYTY3MWlrMWpPYURCc0FtelVkSE02TkdqNmszVlZyel9jWXU1Qy1fWXB6ZkExQ1ZCNkdfWDhsZG1NWjRVWFVLbmF2U09pY05nSjVrQjdQR3ROLTRpQjVyZ01Ecnlaa2JPQmtQLTBTWElXSFBxRjNBTnlRUTBHeGMteHoyaDV6dEFzcGZMZE40enFTS0lQV196LURUenBWTGZjNVgtYVpJdnZpV1930gHgAUFVX3lxTE1leklCcEplOG1jQTlUTUJBRnBsdldRdEU5bURwRGlzajZDS0ZGZXRWeDNydTFRdFNCRS15S1E2c042OHo5algzeWFLZlBIX2R6Z3RFWnVfWGlOTjJBU2g0b19iaVZybkZUNjNrU1Nwc193Y01OMHBVVUw3WUJ0TnFpSEZ1bE9fSzRrRUtTcjVSSmttSHhLYmhTMEZKeXFrVFlybUpSQVFkcEY0Rk13Z2VDLUhGTEhNT0FuWVRWZzJMMHl4X0ZyR0F4S2NnVm9HZjlvTlFZdGk2MVBSY0VSRi1o?oc=5",
-  "id": "r19"
+  "id": "r20"
  },
  {
   "title": "Embassy Developments rises after signing MoU for Rs 1,500-cr Lucknow project - Business Standard",
@@ -432,7 +453,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOU1Q1R0dCYk00ZjZSN2UxWFA5N3dtRU5ldnlkUlhLTXBZMjRMVzdyYWJuZmdLUVBzRS12cm1JQVd1Y1F1SmlpRnJ5TWlIRGgxZlh3cHBsV0NYLWFxYVQyTXFiNFlDdjhqWmVTZ0hSZkZ5NHlmbnpqOFpxNUNlbVlqVUNHSGItbGppOXB2LWRQa3BIM3VUUFJBbENjclpRNUE5Z19MZWtzdG1xd01VTkNiNnVnYmNBdDBaU1dnWkhIT0d5X1U2cUJkRWNZUFMxdGM1WHhEcDRPMnkzZFhxSzQ4YWhid3JUSHh1V3VYM3F2ONIB9AFBVV95cUxOSkoxU0RLaVd2ZGxxNGEzd1k2TkNlSGlaS1lyanJqbnpUVnBoZjRfZ0FzQjFob0Y2OUdiM0NuMFh1TnFiRUgxM20wSHFDQVl0VU42LVNRVTNLNF9tSy00TlJZRXVqQjNTTDhOMGdfeVAzUHZZVWx1QkpWM1JHUms3aXdDd0FCTEhiS3k0WERNbmtDT3BuX2l0UHQtbGNjWmRxNlRxNmhqOHVZOHltN3Z3c1dqZk1ZRHF0QXZFSzNLdVU3YTZsYUhYd2Vya0hBQU8tdWh6T1A4ZzRJMFRBRHY2U0dOdjk5SUt1VTczdVdablZ6V1dP?oc=5",
-  "id": "r20"
+  "id": "r21"
  },
  {
   "title": "Embassy Developments signs UP MoU worth ₹1,500 crore - Construction Week Online India",
@@ -453,7 +474,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUld5M3hDdEZsNGIwdmtpRFVGZlhrTUJaeU1rbGxwaUY4djhWZkczRHk2VHd3NG1VdEstVUlKTUljV0ZFTVZuUVZYaEFwSVBNNW5yRDNJbGZDcXVFTDVwaVZ6MGF2dXRqSGRYTlYyUXAxcmYya3hsOHpPR1dkaUJPNGxDZGFnc2FmU0l4MjBaSDBBZHNCMS0wUUFUYmMyWXAyVXAxNg?oc=5",
-  "id": "r21"
+  "id": "r22"
  },
  {
   "title": "Embassy, UP Govt Sign MoU for Rs 1,500 Crore Commercial Project in Lucknow - Realty Plus Magazine",
@@ -474,7 +495,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOHRoV21FSWV6V3lUeEdHUzBZZ2NlS3pEMTZMbnZDWTZFOFhhbnpzT2REQTJkbFhwNnAyWWRmdjd3aW84WEZqMHpTOGMzMWR1a05rRGE1TDg1QmZYNXFEWTVBVGQ4eVhOckRmVUV0VWlYMkpueUlLUmQ0YkxlSi1RWTdVbUhIeGVXd253bUMyNE5Ic3JmSVNDQ2s0N0J0akJmRHN0QVhTS0hqWnJqazdEMW5GMlk3T0VWbUVxbnZQZ21ldw?oc=5",
-  "id": "r22"
+  "id": "r23"
  },
  {
   "title": "UP RERA clears 10 real estate projects worth INR 1,278 crore across four districts - Prop News Time",
@@ -495,7 +516,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeXh5cUUyZXRabEVvRWV3UC1IWE82R0hvRkhxbGY3dzUtTm1uUDM2YUxUdUZoeHlSbVR2Zm5CNU95c05WWFdKS3NDODN4dVNRR0dFREhLUGdQN2tkUmdpMmtEdjkxXzZ3RVlTdWlnZ1R5Rno4RnhwVUR5U1FuT1V2SFhGbmtRRjlaX2lxRDFjUVoyV255YUR3TnBNUlFOQklpZU00VGRUVkx0VVM2QWtJd0IwREwyTlBLRFJqdy1EVzBFSmtqck1vZV9TbjlqZTA?oc=5",
-  "id": "r23"
+  "id": "r24"
  },
  {
   "title": "Embassy Developments Signs ₹1,500 Crore MoU for Lucknow Commercial Project - scanx.trade",
@@ -516,7 +537,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcUhLMGxnNFVWNmNQclhqUHFocmJSZnJDVXp2cmpjb3lQOEF6NW9FbTdGOWxZRVJFNWdzamtLS1pPdS1DMWdfekNLT2pXTF9wYmxUWVBuaG1OS0xtbGhidUdOU0t4NVhxbXA1U3BWWklIUU5vQU5IdzFwbFFIbmZtd0lkcktYX2YzNjByM1Zfb2ZZZjR6eEdweVYwU19tbWd3SWJ0SkdJcFB5c0FWYlZfaXFzamxvcHFJbWJYYXBR?oc=5",
-  "id": "r24"
+  "id": "r25"
  },
  {
   "title": "Embassy Developments to enter UP with 1,500 crore Lucknow office project under Invest UP - ANI News",
@@ -537,10 +558,10 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcnk0UzQzR0tVVTJmT1dUUmhjRHk5RVJIaHY4VUZFUUxQRk81ZXpydFRaY3ZlM3B5Yk1NUENMYkRlZGdQZVRybDloS01FV1B5MnRVVXd6bUJhcWR1bzFURUtMQjJXY092c3VuWjVLSjY3aGdPbk5UR1VJZVJhSnVlR25BQ1F0czdrVGtkVWVEWTBOMmdvQVl4Z1NhSGlJS0Jtbmdla3M5WnhOOS1TcGJXQXdkTzlfcm5RbFZSalk2UC1LcExkNmhQU3lyYm8yeERkdXpPbw?oc=5",
-  "id": "r25"
+  "id": "r26"
  },
  {
-  "title": "Government Moves to Auction Enemy Properties in Uttar Pradesh and Uttarakhand - IndiaTomorrow",
+  "title": "Government Moves to Auction Enemy Properties in Uttar Pradesh and Uttarakhand - indiatomorrow.net",
   "type": "Listing",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -551,14 +572,14 @@
   "fit": 4,
   "margin": 4,
   "timing": 3,
-  "reason": "Listing signal via IndiaTomorrow",
-  "source": "News: IndiaTomorrow",
+  "reason": "Listing signal via indiatomorrow.net",
+  "source": "News: indiatomorrow.net",
   "date": "Sat, 15 Aug 2026",
   "phone": "",
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQnRUUVc5NkhMeTVEZXJTaW1rLVJaUTJNMC1rOW1YckJKWTVYZ2ZXVzV5VXNWbENNV2ExQkdsUElMdG9xeWM2aEZtU3M3VXZXY0xqYXROSC1yZmhiZUhGZ0lPcDE5MkszN3k4bkpLd1NnVmFaVzQ5cHRPNnJ4NWZOT3F6MGhVWmZZWXhvVDJaakYwb2VScXJFa19XSEZLZmFDMHNlUzVhUjF6N3lpN0JVMGE5Z2dvUQ?oc=5",
-  "id": "r26"
+  "id": "r27"
  },
  {
   "title": "Embassy Developments signs non-binding MoU with Uttar Pradesh govt for ₹1,500 crore commercial project - realty.economictimes.indi",
@@ -579,10 +600,10 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMFJVMHhwNGU1c3U1eWZrbnJVWVFUZHgxcTNjVnV0djFqc0Vqa0x1Wk1CdTAzTk0xWWgwRmkxQU5QdE8xUTZaYk5lSnhUaXBYLUpENlkxOEJVUW9IZGhNaDRNUVVKUmktdUJ2akZyelFDcGwxaXVIWm9DN0ZLQllvNG9tWjVWRHRRWjBhVWNQcS1QRjkwdi1nVTJGZzZPTkRBS0RLUWxjNVFqNG1FUXcxWmdLa3JmNHRnRDBVVHZjTlNxbjdxaExxYlNaTGVkOFhMNld6RnJXalZUbVg5WnBMZ0Uta2Zqczl0ZEJNR2VJY3h1UFHSAfgBQVVfeXFMUFByQkM0MzJnMnFoRXc2WVVNRFRmNVJyVmUwQkI2SzBkTnczNkIwdXpmUkZ0dVlzTXRDWEtCd2hyWWVHUUJjbHpWOTc1bkpObEdINWpYbmhHQlc1UVpPeFFtMTJJcENhYjBkNDFLQ1ExY0xCMmdWenRUTk1FQzM3eEotM1RIOTNRemVrYVBFSG5sZm1nZFBnc1FFWEcxdUdOaGtHSUVfQmZQQUFFMGEtOEttSVNjaGt1dEYxSFRreUNTVlViYzZVTlVSTnM5aU5CcTlUcl9iMWd5WmJyY0JscDI4ellyZGZseUtZSnI1MjhkelNKaTBUdjU?oc=5",
-  "id": "r27"
+  "id": "r28"
  },
  {
-  "title": "FIR in Lucknow fire case cites illegal commercial use, single entry/exit in building - tribuneindia.com",
+  "title": "FIR in Lucknow fire case cites illegal commercial use, single entry/exit in building - The Tribune",
   "type": "Listing",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -593,14 +614,14 @@
   "fit": 4,
   "margin": 4,
   "timing": 3,
-  "reason": "Listing signal via tribuneindia.com",
-  "source": "News: tribuneindia.com",
+  "reason": "Listing signal via The Tribune",
+  "source": "News: The Tribune",
   "date": "Tue, 23 Jun 2026",
   "phone": "",
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcW0yQlJGUkpkT0hhZWZVZS1DMTFGdEJycHVmZHJUeHYydm5GdDVDYUZQSXFVc1YzQlNybVVSbVJDZFl2dmtLWkt2ZF9WNHhvQURIVkhwekxsX0RrRllvZEFkNHEtb0s5WkszVWdndENxcmEyVVd5X1VEZjByUXh6QTY4c3JESWh0eVROR0NOVm5oaHdpOFZnVWxpZzlsR3QxZjVHT19EOWk1UFc5dUpDV1NKbDVQaVEyUmFpTFNkNXBQM2VjVGsxUFBoUUrSAdABQVVfeXFMTkg2WU9MeXpOZmxoSFhhU2taWWtOSWRacWJYSXo1SWNjZ21OY1V2T1JrQUF3QlhmeWZaa3g5aXlvQm5zLTNLaXlnOXE4bWxKQlNQbThMVUVNR21aUW5adGUtdGczOU5DN0kzS19zTHhpMTlhQ1kyQzQ3dlRpRmZjTFIxOVIwQTRCV3VTRjRkcC14TmpmYnM5V2RVSWZJR0xXdm1YUDBaTVo4azNMcHNId1hOdjRGa3Z6QkhrcmN4Q1prbWZSNmxNV2pwa0k5MlFGcQ?oc=5",
-  "id": "r28"
+  "id": "r29"
  },
  {
   "title": "15 killed in Lucknow fire, records show building's demolition order was withdrawn in 2016: Here's why? - livemint.com",
@@ -621,7 +642,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQN00tWm40TnFGejdXRUFjYlMySXY0V0k3LWFrcjRGRGdBeDhXZzlKTy1ZWm5OTDNvR1ZjRlBPbnhNUGRfX20yNkNGZUhkNEMyYTlHSTNzSk85V3JCN0VSMHZwN2F5LWhUclBPS0luNE5lbl9idzhEbmU4VTBjQ2Vtd1lLMzViSVZ3eUdndjJqQWdZWVRndjltb3NuSkQ5SEFVdWdIcE9jUkxEdEpOc1FQendLNDQwRks5a3lMNmtXY0FnanRTOFFvZy1ocDNxZE1SdldOR2VfZnZTWTh4dUpfYWVLa0hJX3VZcEFIaUg5djRBVVp4c0s2OU93WUs2eGvSAYQCQVVfeXFMUGFKREctbXJOLWlUU1RFNWVVWnBYU3NqejAwdWNjYWh4LVhIQUQ1ZFdDTEtxaXQwVl9MTmZ1UVNJbTRoRnI3elo1WGlKa2dhY1R4c3FzQUNVYWQ0cDNmbzNPQ003cTZFbzVJTzFUSXBnMTdkT3pUWFNfOEYxRUtmMHdJSmh5YVhzb1pBYjRlb3ZsOGxMZXBicTJtb0FyTDNFSkNmWGJrOU0yYjRtaTBEcEFfVXhPSTlrQlNQdDhSaWFON0NVUktOeDVjdXJsMXAtMmFxRUM2SmJ1NE1kclJaUmVTeTh5VXpKdS0tOTFXTVBCdy1FU2pTTWZGQUJVTXhWbWJfMUk?oc=5",
-  "id": "r29"
+  "id": "r30"
  },
  {
   "title": "Embassy Developments signs MoU for proposed ₹1,500 crore commercial development in Lucknow - CNBC TV18",
@@ -642,7 +663,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaGxmbmZjY1pXc0hvSVZwa0lQY1BFNTBTU242MFB4UERhc1RxX3hzUmkwalhTdC1WMFZkUjBwN1hWczk2RTNLRFlmVlVYdmFMUDF2UkRtMGFpa0RUNURIcEtVbWdmWVk2OWFyMHh6NmotUUprakd5d1VZTFYyd2FlcjhkTGEyQURFMlhFQllhcXpxbFI3cUFRc2RoWG1PSFpPVGxuVG9YUU82WVc2aXVqNjhObHJGeGFObHBHSmZveV9NUVV6b05DMk5tTXBWWDhmZERPdUx5enVxQmhGVXE0MmdmckhqT29HMGVr0gHwAUFVX3lxTE9oblRrNWhheDFLb1RYaThsR0NWTmQxam1vQ1lReEpTejkxaC1DemZHVWRENGdIRUdxRG1MbDI3Tnp4eVlMdjRWWDVLY0hLZTE5U3VSSkhGSjlvUFpHbGVBb3FldnJMcWRiLWhIcUFXRk9BQ19tYWxwaTFxSlJEd1A1ZjdmcWNsRVZ5OENzWXlZWkNQQ1VBbFA4OGE4VW45TVVpSkpscXk2ak9Nc3NqeXpoMG1XTzVJb0hvUHVqT3BzMlFuckEyNGFNMFhNYlJ1VV9Vb3FpZUVNenNvZFhBaHIzSjlKVU9hZkRZOE9rODUxUg?oc=5",
-  "id": "r30"
+  "id": "r31"
  },
  {
   "title": "How did a 1992 sq ft plot turn into a commercial complex? | Hindustan Times - Hindustan Times",
@@ -663,7 +684,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUU4zbGdaMHRwMWVKY003X1RWbHF2dFV5ZkdwOUdLeDRuMGZXRFExWFB3MFlyWjVRZW1sNUpZaUx3TWFpaHJuQldBckpxZXcxekg1SkgzR3RNSXhjQUZfYXowZ0NGNVNLSUlKU2drbjlvMHVvZzdOc1h2OXk4YnJZekpUZk5xNjZBb1pzNU5CU3V2a3c1eGlXOWE3NmxzVnJUNGkyUzQwNDhZbk9MMThmNHMwZHFrajJpTVBCa3FpU2pWOHdpbUI00gHMAUFVX3lxTE93R2hPa2J3TGV2RUZXUFRjcEUzYk01VkQ4T184c084M29nTkJ1ZDRpMm9IS0syelA1RWtOc2huMFpacEE0MVprNk5rcUNBNTZVMGVtN3hhamowWXJibi1hZlhiLWc0UWRTdFoyVzdvbUNEQXUzR2k5WVdESlF5V1hSVGlheGlDVmNGQVlBMThTOFh1cTJ3dHB4V09qeEhwNWlRWXlRX3Z0T3dZR0hQVTk4XzlaMUZYR21BSXc2SnlkcEZLM2d6VFZxMC1NQQ?oc=5",
-  "id": "r31"
+  "id": "r32"
  },
  {
   "title": "Reits: Real Estate Equaliser - Outlook Money",
@@ -684,7 +705,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPUHFQQWJ1clNLVnktaWVRd3lWWHR6UnNITWVIclV0RFdfYkV5S2ZqWVR6dmQ1NndZNFk5NWRnUFJiX0tpNEZMNnVlVk5tc01ESTE1TUxDWEk4OEZhRTdtei1jblFWQkxqSG1obnlZVF9sNk3SAYABQVVfeXFMT1FhTkxxbTN4aFNzN1N3QzQ2YWkwT0p5cWxwV3ZMcHB6ckN5VXRKc0RLMDcyN3AtYnFjdmdvWGdPaE9adGtCcXVkbTgzUDVvaGJfNEI1MVVPRmxzV0xmczNPRFk5bVpyQUhCdmc1RF9yZExJcEprSHZjaVc4LU9rVG8?oc=5",
-  "id": "r32"
+  "id": "r33"
  },
  {
   "title": "Lucknow fire: Building faced demolition order in 2016, later withdrawn - Business Standard",
@@ -705,7 +726,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOc0oxZVNjOEw0TG5VSUUxSDRkT01US2d1VnBjR0NUSXRKU1MybFJhYXBnOUh5T1VLX2E3c1FaWWxpMkE0M2NfSmJWRnplSjJxaTZUTm9ncXMwb01LUXhzWER5dWlXWmlFSlhZTHdCdk9YbFZNZmk2MEpOWkVGbGx1anNmMnBjWE1ncnk0VTFiaHZ0b3lOV2VlYVlIcWh4MEFyTnl1Y2dxUThOOHpWMGR1T3RZRnp1cFdId1hFdF9IM3BSUmpxY2lsc1l6NFkwQdIB0wFBVV95cUxQUnpaNjd2NWl2Q3FRZUVOQWVoWE1TbVBmYllXZkd0VlRReXV3Y1VEQkJ0WGtRM3BxSURKbUhva3ZuOXpYSzBBZlRnZjJKZXF5bjA4dkNuOHM4WjFWYTctaE0xSVFVeHZ0T2hjcTJsTW5JVkp0U1kxX2ZEcGlTTEJ2ZG1mazhYLUZ2OEdHYkhoTWNUa1ZCNFl4TXlFVXJUSlVQV0taT21wN1dickZMU1VIRFFkampEYlg0MG04SEVORkRzMFEzNjZCVVM1QncxelhDZ0Nr?oc=5",
-  "id": "r33"
+  "id": "r34"
  },
  {
   "title": "How GCCs are reshaping India’s commercial real estate market - The Times of India",
@@ -726,7 +747,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxON2xESlotZlBST1NBTW1LWUVyNl82Zm1xakswa2M3Q2hETnhGMkZtR051WC1obFNRM2VtWFVwb2lodkxqWGplZGg5aVhjMjdVUFNkazRXQzI2Z0ttVWNySlRHZ0ZWN1RGX290amJoZ2pkR09KM2ZvNkNDbzM2a2lmTnc1UVp4dVBtdXVtVHhtTDQtRUh4OXd2TzBQTW94MXg1bW0xb0V3RGNJcUVhT0szQVBHSHBtYjZwWUljdEVoSkJmT0JETWQzcHhTdXRPVFNJOUd5adIB2gFBVV95cUxOYzhORzlwcGt0eXczUHA4Z0tyM1JJWlB0dXY1QlZ1TF84MTEwcHdmaUg4eVhtNDFIallVVlptRzY0NTRVNUhSMWtZWnVqdkEtaHpTRUh5Z2RWb1Z5Y294Y1ZNN2FRNXVTTkNoSHZHME5rRjVHeTJ5WTQ4RG9pSEtvY3hfMVhUc0E2N19WckhPallscWRwN2dIOW1JNzEya0taYm5Pd1l2VnY4dGhIX2JINW1vQU5vamhRbEl3dDY2aVpjZjhrRHpqU3F3a05YREd0eUs4Rmxib3BTUQ?oc=5",
-  "id": "r34"
+  "id": "r35"
  },
  {
   "title": "Illegal Lucknow building had 2016 demolition order, someone revoked it within 60 days; fire now claims 15 - The Times of India",
@@ -747,7 +768,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYkNKcjBQYlNaRHUycXdvYmFBYTVEbW91cXUxQTcxQmthcE02Q2JFeXcxN3JPZ3NlT1BiM05DU3VKdVZTSEZDdmZNNHJyRkJQYUhrRzFxZC1fRzJuZ1NXTjA5RW1ZSU8wcjdBX25XTmIxeFZkOUJYZ1hhS0hCSXl4Nl90WHlFSlZqRTE2MGRyN2RzVXhEZGVnY0FTc1ZrVHc1bWsxanl1bTJQQUdSTXlKVUJPbDltZFd3aWtmRzU3b3RKVXpHLU5N0gHMAUFVX3lxTE1QSW1wYkkxOGNQUXVwN0taZWM3am9UYk8yeDJPS3JIMHFkdjZTNFluSnBISkllV1ZRbUNiQXRxWjNIQkNfWWlwSkIyRXlvN25uc1E3cktnUHRzZnZzSkFnejBTN3lrbW1UYkZDbE0ySGNFM0p2WEVsLUNKWDkxbDZfT2VsUlVlU3dCQk5ub2tOWC1iNnlRZmVYOHlYOHVBMTYyVm5uNm9JSlVYQlNUSXF4ZmFTYWZSNTRJQXlmNWI1cWlIRnI0SGZYQThrSw?oc=5",
-  "id": "r35"
+  "id": "r36"
  },
  {
   "title": "Why Embassy Developments shares jumped 8% today: The Lucknow project explained - Upstox",
@@ -768,7 +789,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUjRxRml5VmNPcWNRQUxFWlcySHlaSEdRTDdnOTBjTGVxdXM4U0FqSVB6MlplOEdxeGhWWjhwYTdhRGl1VjN1ejZPb0FfZ3p5ZjhDSnE3SVFSQzZTSUNhMDFCTy01b3Nla3RWTnQ4Tjk3UkNQVVdrS0paLUVkWG5yME9JUGNyTWoxRTRsMlJKNW42R2hDQTZGSWdfRjdWR3dQX3RVYUx5dXI1SmN0dUhMQlFaOTZwc0VNd1FScXVkeG5tV2F0TE5nc3gtSjJuZ1Zn?oc=5",
-  "id": "r36"
+  "id": "r37"
  },
  {
   "title": "Lucknow fire: Building got demolition order in 2016, revoked within 2 months - Rediff",
@@ -789,7 +810,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUTJ0aXVHTVZ3NE15R216aVZCR0w1ckNVdXZRUFd4OGxUSHVNcDYyWTRWVk4wdFlwQl9EaWlzZ20tdU5zM2RxbWVIVGNxY0N6M2FnOHJaQnNaNno4MFFybjVXR3pPMkpvVmNUM1pZN05OdHFVRG1BZGxGekhhbV9wcExZaGdjVDdVaGlpNHZySjhJZkwwQkRHanh4eW9kYzNxdnpwMlVHN3JPUWxnR1VfOEExODMxNFFHbWRycXZOVdIBwgFBVV95cUxPSXNLMEduZkR3NVVvcjZJSTRCYlBaQmJ4TExURDFJQmk4TlJDaDh3eG9lcUd3RTJSLXFFUF9ZVUd3S1M0QWhYc3FldkNOV3lmZmYxZjdmYlE4b2xjMkRVb0ZNUkFocW1HOTBYRWJRdXMzaV93Ul9SSmpUOXZuSzdDMG1mOV9wYkV1YzZhSk5LQlh5dHFLT2J4VXVjYU1pd25KYVZOWk8weFpXV0VpNDN5a09Zb0QySVVaODdNTGRRS1VMQQ?oc=5",
-  "id": "r37"
+  "id": "r38"
  },
  {
   "title": "UP to set up 500 GCC units by 2031, says Yogi - The Times of India",
@@ -810,7 +831,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZTdtODZ3cElZN2xpdGdUaklPaVk0ZVJKWVFScHYyWllIMmtQVkVEdG5VOXJVTEdfUGFYMlp0bE5KUEJRMk9hMDhJU3BwdWF0eGhwODlfS3NydFFva0cwMF9NSlA0c2dUU0JRcGtfa1BJdW5zSHdOcUtSeC1MR1pfOW1tc3puNjB4Nk5mRDVvN203Vjd1QUgzYlJGcDdLUEtkb2d4R05FUXY4eTYyNTN2U1JLOGRMdi1KRUNB0gHAAUFVX3lxTE1RQ3UzSG9PaU43YlZyS3NlUnViZ0NPRTVHdU9pX0pMOUJmc2NBMGMxZ0Frdnh2TUo2OFlaMHRFanNnQ0REc0R2YTI3OVBXeUVmSGFVaXMwNHVKTDcwU1Utb2lBaC1hbTZ5SjJJX0JOQU1MajNwaDhMamFDb01NVk03R0lDUHIxeVZVbnk0OEEwOHJkZWVHdUlrTV9EeUZKVmJJYnczSWhTTHZmYTBjVG1NR3cyd1hDNjFEUnhuOVV0eA?oc=5",
-  "id": "r38"
+  "id": "r39"
  },
  {
   "title": "Uttar Pradesh logs 53% jump in real estate investment at ₹68,328 crore - Business Standard",
@@ -831,7 +852,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeTZVMGJjQUktbXVRczNRYUQzeENzenJaazY1ZFA5VldzTlpwVG5vODg1U2R1OWpaLWJybGtJZDdLT0hOV0FqQ0ZrMDFYV182SkY2M0w3U1RSa3J4SjViZHp0UWNCbk1KQTBraGY0T1FOMjJIUWpHVG41cEs1QUktckhHYUo5aWZlSTM3N09qU3pZSGZiUHFnaUJULWNCbGdZR3lnVkdMUmRsY184RkNlQ2VzSDJYWktVMmtfYUtOaC1UUHgtWHfSAcsBQVVfeXFMTTJ0RXd2QWlZMWZ2TmRnek5jRnVrODNERTBpWkljUDNseE11WFl1djd2OE5LNngyT3lfMXF3bG9wODNoSnhtcEtjV3RiOUFONFluUmU1NjVjUEg1Z0YxYnZhNWc3UDBGT2pudmxDbjk3ZUl2Z09FaUQ2ajZvQm9tb05vbWgwMVBPdnFEeDY5MmFOLURyVVloR19jZnpwSTRYWWszQ1g5NHh0MEdRbzE5SVFEYi1CN2NBZUYwa3NmdG14WldKS2xHMWNJVmM?oc=5",
-  "id": "r39"
+  "id": "r40"
  },
  {
   "title": "Tier-II cities become real estate developers' next address for growth - Business Standard",
@@ -852,7 +873,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWFJ5WFk5anRKYXdqRXdQOGZGZW9Wd3NmWFhXQTlQazBfVlpoSkFqMjllc2JPdl9vSEFKcDJoWVl2UWtNaDBIVks3WG9UZnFqVi03NE5GMEFUb2wwSDdUYkNMSmluMnpkN19zdTNDbUxIRWF0OFdodDRMaDU0NFRhVm1JVzBLWGRxQkF3bXo0Z1loS0VMb1kwbEFxLVhSYnBCRnNOUnNzNGFTekdHTkplMzhXYjNHTUlRU3hWX2dBSlJlaUkxY0J0UUtiUnlKR1dPQVHSAdcBQVVfeXFMTVZMN0U2aklMWHNHelBsVWc1MXBhMldBRkVHZFotNHZhWVQyZkR0a2pOcHg1OV9GUUIzMEMzMUY1QTBsbXdpZjdOQlBfbDJRRWtSVDNKdDczVWJaSDZLYXRBSEFINm9VQmlNNTRkUktNamQzZVJhVnlUakw3c1lYRmptNm9SN19TcTYtMzBxbmFPYTFaRUtIRUlHS1g5Xy15bE45SkVfZms1LTEyclhwODUxeEJFTTNPUkZNenowemJkOFVvTzd3VS0ydkYwZGY5bE92Q2xjeVE?oc=5",
-  "id": "r40"
+  "id": "r41"
  },
  {
   "title": "LDA orders to raze Aliganj bldg after fire tragedy - The Times of India",
@@ -873,7 +894,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYThqd1dLTE5KYXpRMTlObzdLeWhDSzVKR3pycVo3RTJ1LWR2U19KOTVKMExuaGxKeVoxSXdGYV9fMFpkZ2tNNlFaSFUtT3BydkRnUVRFZzc0bXQ4MUlLZ1U5YXQ4ajF5Y0ZxM2FpRFdnSXlJdlgwNGVtNmZON3ludU1xTHRjZFR5dnhXWExGdmMyU1N3MUZlNjkzWXhmaHBkSnNVTWpxRWVDVHlXUFZxM19PM1Q2ODN0Tnl6QkZKZ3o2MzDSAcgBQVVfeXFMTVZNNGkxMUxtZlYxRFp0bTMzaWVqcUNtS0t4YUUzc1lIWlFaTHFCdGsyOFNoOXpiRjJ3aTJkR0ctNDhDeTNMYnZ4dGd0Uk5yZVg1NUJqNkktQVF5Q0s0Y3ozSy1GSHFpZWNWMkdhNmtVdjZhZFpkbDRsUE96WlphZnBFUmVEOC1yOTZXWklXR1JvZmhPTFd5NmVBYW96aEF1TGVsb3lqeVVXYU9mS0R2LURRVGQ3YjJhSXdWdUFpc2pYckEybU1HeDc?oc=5",
-  "id": "r41"
+  "id": "r42"
  },
  {
   "title": "Jeetendra's real estate investment playbook: From a ₹4.25-lakh Pali Hill bungalow to an ₹855-crore commercial deal | Real Estate N",
@@ -894,7 +915,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQSzZVcE1rVnVTUGhkbk14eHJUOUhlNkpzNzZ5U25VTmt3bDdhNWw3WXlHS2FyV2J1NG5OMHh3RG1tR05wcGJBZkY0cmczUDJnUzVxX2JJYkUxNk5JSlpGdm9xcGN1WC0xLVlZVW1yckN5UFNKR3U4dmVtZXFJUVBCcV91aWZsQWFGNWJXTm9URWo5YUV1SkRGSkNuQy1RSkRCaW8xaUJaTFFpbEJDNHhhcmhzb2t4aEwyejZ3YXBRZEJRbGNtZzhjS2hLdEI5U2pLaXR1VzJ5Z3Q0M1lRdUFNM2VIYVFJcXJBZllHYm9vUmI0U2xKc1ZQSG9kNzQ5MEpKT2dj0gGIAkFVX3lxTE1POVlPSXBQckN0cFVfU3ZvYlV5c1VQRkxJRnlhRWdINnRHVGpkM2dtNVRXTnVWY2RNZXA1WGd1Q3UtdXBMc3o1Ql9pTWFaQWFiTklRaGN0TWp2SlpaZUg2YWpMZVNBRXpMa0Z1NnJCVVZQUF9hbkgzS0ZDVGo4cnIxS0oxZDdxRDA1UzJXRnV1Q0JPdFVXYW1sQ25wMzRobFJJN3RLV3JNaERmRkxBTVBKOEZBYnlWOVdkZmRMc2N6WVdienZxWmNJY0tpaU1uTU0wZHpmUFZxYlFtemZPR1RqRUV2TmhGTldvbF9TR0NvUVJaT3dvejVPT2w4UHJFSFUxaTNOMjE1dQ?oc=5",
-  "id": "r42"
+  "id": "r43"
  },
  {
   "title": "BEYOND BIG THE CITIES QUIETLY REDRAWING INDIAN REAL ESTATE MAP - Realty Plus Magazine",
@@ -915,7 +936,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdFZVcHZHNXlvTjFCekktQlBpNmdaeC1BT0pmR3dzaDlrZWMwZnkzREwtcjg1bnJrcDZ1R1BmTDhySWlRblZySFlNdVFsV2RZcHUyWlBlSFpmRjVxREZOclhQS2JkRVBQRkVwV1c5UDNkWmdINUMtdFg5NkdwMHVJdVE2Z0FzRmp5ODZURHZ3aVA5ZVZyckdHX1JHaUpualNwRGFCRkJucUp2dkgzTE5LMGlFN3JoQQ?oc=5",
-  "id": "r43"
+  "id": "r44"
  },
  {
   "title": "Stocks to watch: IRFC, Tata Steel, Vedanta among shares in focus today; check list here - livemint.com",
@@ -936,27 +957,6 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbUhrSmtkNkZrRmhKMEozTEQ2bXhDelhTY25iemtpWkNqQjZFRUN4emZBVGlDV0VER1loWTlVemhBa0FCQmZyajVHRFQ3N3JLUnpqYVpLNV94bjRCUEVXMzhhd0pJcUNUWXVTTDhRcXJVVmVGaHpzTTFqb3UzZFdJbXFyMzRQdkY3WmZPbThHeTVzQ3dlOFpmREVyQnVwa3Y2WlZnUkJ2aUEtc19zQnNPRkR0cDFOSi1fTEgyYWVCOFdjRlNaQUstbXVvMDN0LWIxbjdaZmtsWS1QSnVvZ3lRS2JURElRNWt10gHuAUFVX3lxTE10RzIxUEtZRE03c1ItbkdsbmhzTFptSkphRzhjeVNJOFJWTHd4ajdjdWFlVktjVGxaZGdFdjlwd1lza2N3VEk1S3V2azJVbVQ5ay1TcXdqOFdJS3E4UkxSdkw2aExqc2R1elpBTEJNVlhPb2hISkkzUWlIbzVacXFPR1JzQ1phczdwcEdVZHUtdEVJMk9hektJRlMwdUdiRG5jTVFOb21LTnAwcU9NZXlZd3FlaHNwTXFJek5TeERYN1QwOVB4Z1gwYXlmVHpPSWRSUzRrQURqQTlTY2N4ZjNZZWRUY3RZMjJKdGY5Vnc?oc=5",
-  "id": "r44"
- },
- {
-  "title": "‘Witness a new era’: Investments worth ₹29,000 crore committed at UP Global Growth Dialogue 2026 - Business Today",
-  "type": "Listing",
-  "city": "Lucknow",
-  "corridor": "Lucknow",
-  "price": 0,
-  "rent": 0,
-  "area": 0,
-  "distress": 2,
-  "fit": 4,
-  "margin": 4,
-  "timing": 3,
-  "reason": "Listing signal via Business Today",
-  "source": "News: Business Today",
-  "date": "Mon, 29 Jun 2026",
-  "phone": "",
-  "lat": null,
-  "lng": null,
-  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNTczamc1SW5XMU9KdVBqdUk0bmJJSHpDOWxSTVdZeVlpVnZSYTNuckN3dGJJbmt0eVpRWWhvZzVQTTlIYnpmeWxUaUdhZXl6d2FKNzdRNnZDUFdiY2toSjdfMmQ0elYyOVhBT0xlVVJ0Q1ZELUZpVldqUlRsUnpPSWFNaFJReGlRRUtCcWk2b3cxZzRNQXctWFlqbDJES29XVlZzVTVhU2VvVjZiRVQ2MzhUMmhXMXoxWXMtdzVvX2lfVU5Tenh0LTZqRXhtblds0gHWAUFVX3lxTFA2Z1djcmdNWTltNXFnM2hEa3hid3NTNU9zbVRJV0lWeFlIeXd6VDZJVVZtbnFLNTlfb1I0VUU0Z2xjaVhRa2ZEYVZuaV9BYUtRNGpzSmVRbm00UDZvanFrMi1UMmNJdkczck5LMG5HRVozak5meEt6OG1OZEZJZWtGam9OYmMtbTF5UXlIem9RYVZaRmF4X1VRaWV5QlhGbWZSWjI3UmRuanR2aW1aY1ZxZXdJcm5BelVZYjBoTnRWckk5Q0haUlYtUXdJRHBFQVpTMGpqNVE?oc=5",
   "id": "r45"
  },
  {
@@ -981,7 +981,7 @@
   "id": "r46"
  },
  {
-  "title": "Adani Airports Plans Airport Cities Across Six Indian Hubs - Aviation Business Middle East",
+  "title": "‘Witness a new era’: Investments worth ₹29,000 crore committed at UP Global Growth Dialogue 2026 - Business Today",
   "type": "Listing",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -992,14 +992,35 @@
   "fit": 4,
   "margin": 4,
   "timing": 3,
-  "reason": "Listing signal via Aviation Business Middle East",
-  "source": "News: Aviation Business Middle East",
+  "reason": "Listing signal via Business Today",
+  "source": "News: Business Today",
+  "date": "Mon, 29 Jun 2026",
+  "phone": "",
+  "lat": null,
+  "lng": null,
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNTczamc1SW5XMU9KdVBqdUk0bmJJSHpDOWxSTVdZeVlpVnZSYTNuckN3dGJJbmt0eVpRWWhvZzVQTTlIYnpmeWxUaUdhZXl6d2FKNzdRNnZDUFdiY2toSjdfMmQ0elYyOVhBT0xlVVJ0Q1ZELUZpVldqUlRsUnpPSWFNaFJReGlRRUtCcWk2b3cxZzRNQXctWFlqbDJES29XVlZzVTVhU2VvVjZiRVQ2MzhUMmhXMXoxWXMtdzVvX2lfVU5Tenh0LTZqRXhtblds0gHWAUFVX3lxTFA2Z1djcmdNWTltNXFnM2hEa3hid3NTNU9zbVRJV0lWeFlIeXd6VDZJVVZtbnFLNTlfb1I0VUU0Z2xjaVhRa2ZEYVZuaV9BYUtRNGpzSmVRbm00UDZvanFrMi1UMmNJdkczck5LMG5HRVozak5meEt6OG1OZEZJZWtGam9OYmMtbTF5UXlIem9RYVZaRmF4X1VRaWV5QlhGbWZSWjI3UmRuanR2aW1aY1ZxZXdJcm5BelVZYjBoTnRWckk5Q0haUlYtUXdJRHBFQVpTMGpqNVE?oc=5",
+  "id": "r47"
+ },
+ {
+  "title": "Adani Airports Plans Airport Cities Across Six Indian Hubs - aviationbusinessme.com",
+  "type": "Listing",
+  "city": "Lucknow",
+  "corridor": "Lucknow",
+  "price": 0,
+  "rent": 0,
+  "area": 0,
+  "distress": 2,
+  "fit": 4,
+  "margin": 4,
+  "timing": 3,
+  "reason": "Listing signal via aviationbusinessme.com",
+  "source": "News: aviationbusinessme.com",
   "date": "Fri, 26 Jun 2026",
   "phone": "",
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNlRJM0FqcmNhUHdKdjFaaVpuaHM5QnR0SjVKbnIyMWdkdTItQTZJcjZlUWRUQ3F6TDE3UGxhbGl1UU5CR09PX0loVUYzNXVyd1pDX0YzODNDYVpwYk1hZjlHZy1Oa3NMbzdZdHNfbEgxNFB4MGFIZmlONFdGa25PWGJPR2ZBd0ZnVnU5T1BIWEdpekJCNC1qNWdmTUhSZlk?oc=5",
-  "id": "r47"
+  "id": "r48"
  },
  {
   "title": "Omaxe Subsidiary Secures RERA Nod for Lucknow Commercial Project - TipRanks",
@@ -1020,7 +1041,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa3VUc215VkJNUHhibWhGblY3S3Ffb1dnRWFhWjRDNzJjWFNudWh5dkN1UW5KNVVqRE5PSGM0TEdITXBUM0JDNnYwcElEd0FDeElFR0JteWRQNzZKQUJMT19SQ3U0elBmdXhVUTJqR1dlWFRIMWZHNmlOenlwZlpOMkpISFRPd0piYWFOZUNqY2IxN29oYy1LcWVIbFMzM0VuazVNMVhhUjBSSmt0R0RoZll1WGJJaWs?oc=5",
-  "id": "r48"
+  "id": "r49"
  },
  {
   "title": "Planning to Buy Property in UP? RERA Clears 10 New Projects Across Noida, Ghaziabad and 3 Other Cities - grihik.com",
@@ -1041,7 +1062,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JZEVnYkpSeERqVnFDdEVCRHA5U2JKSDdVd0VBc2hBa1lUX2o1UEx4bTRuakNtTjNCQUx5ZEJvYVQ4TjhtLXZ1UTN5d25GTlJIeFJtQkN5aXRiSTRUdzN2YlhGV1RqSXV4Zy1fN25kcW9fWlE?oc=5",
-  "id": "r49"
+  "id": "r50"
  },
  {
   "title": "Eldeco Housing & Industries Posts 382% PAT Jump in Q1 FY27 - Whalesbook",
@@ -1062,7 +1083,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcHZjS21obFgzTFFpNk1PSFBmVU1mUzZoN3lPWFVPSzNnRmJvMkVLVE9jblpnMXlIN2J5bk9ETW1PeklWZF9JNFpUMVZLRTZxTVlpclU3ZTFCNVFoZ1lvbXRKa2p2aWRsS296YjRrZEZvSWFhNlFDbUxBRlNaWGdyLVk5Zy1VdXRqT1ZSakc3V3hGUGRnanctWjRaaFRiaFFYQlBQMEFWZTh0b082dmRmeVR6dnZpcmdmR3RBTThlMEdaOE9tMjBkMEZGODVPNE4xVmF2T3dGdXpZUzFaMDluYUdxLVZaVjE3?oc=5",
-  "id": "r50"
+  "id": "r51"
  },
  {
   "title": "Stocks in Focus: Embassy, Airtel, IRFC, and ICICI Bank - Whalesbook",
@@ -1083,7 +1104,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQm9sd2ljNkJlaVVDRkh1Ql9yUGdlVFBwYVdNUkVaaTFCdjVJUEdVd0dndl9UbVdJc3plUXRKZXJOaEhKWUZnWXNjNExVcEFDRXhjbDVFdTR3R1BVVXBmVzdLclpkYVBtY0ZlaU5SVzJWRERtYnBXZnZkdUt0bVZPdURJXzRVZWI3amhjdjNlS1dIbU1Qc2JlNDNScGU4Y3NlQ015N19IOFJtcTdPVG55cktnejVvaDk2M3h6bFFlUE5XM1FGM2c?oc=5",
-  "id": "r51"
+  "id": "r52"
  },
  {
   "title": "Uttar Pradesh Bets Big on Global Companies With 500 GCC Target and ₹50,000 Crore Investment Push - grihik.com",
@@ -1104,10 +1125,10 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVzZfVG5HYUMyS2xpV095MllYZ1BHTXNRM2dZMnpOMFFYd0Rob180eGZUa1JJX3ZwbVZ4NVJlMHNVM2ZUMGZqTHlTWVpwY2RwUFFsbE9mLVlIVzhWXzlrdFE3aGpvWHlWb2hsNHNISGxSY2xvazcxbEZicXlURFNsQlVaYVhlVkV4UkVPNzVqX0JJSTQzUnZ0bU9WdWNIOU41Qkd2T0xUUnlLc1U?oc=5",
-  "id": "r52"
+  "id": "r53"
  },
  {
-  "title": "Mercedes-Benz Expands Uttar Pradesh Footprint With New T&T Motors Luxury Showroom in Lucknow - autopunditz.com",
+  "title": "Mercedes-Benz Expands Uttar Pradesh Footprint With New T&T Motors Luxury Showroom in Lucknow - Autopunditz",
   "type": "Listing",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -1118,14 +1139,14 @@
   "fit": 4,
   "margin": 4,
   "timing": 3,
-  "reason": "Listing signal via autopunditz.com",
-  "source": "News: autopunditz.com",
+  "reason": "Listing signal via Autopunditz",
+  "source": "News: Autopunditz",
   "date": "Mon, 17 Aug 2026",
   "phone": "",
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOazduWDZ6US1UMG5sMUY4MGZteEJEcFpqcWcwZDItdHphcnJtUFRnbWZsT09FZjhFWF92eDZ0Q09LUldlaTEwQU1JQ0FxNG5ZZDFYamR4SWczUDllX1hQbHd0RnRaZHpYT0tqNWJfVDlfalNIdXR2aHpqTHZaVkg5NW83QlB3VGs?oc=5",
-  "id": "r53"
+  "id": "r54"
  },
  {
   "title": "Chinese manja: HC for probe into online sale - The Times of India",
@@ -1146,7 +1167,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeVlIemVfWUJIcVFIb0QzTjhJMHJyVmhIT2s2bFMwa0xVUHBaS2NHZm5oU182WXFmcmpEc2pHREJWMEt6T2NJeHphd0xUejhJT21SS2tvYU5BM2JVT0Y0VHFkWmkzOXJCd281MC0zMlJ5cHFyTVp6ODBLVy1OeFNleDNrek1pX2kyOFRiUmlMV0FUcmF6eWo0bWs4SjFRVnJoaDJ4SVFnODFmZmFRMDdSS21DRFpmRlRpeXfSAb8BQVVfeXFMTXRUOWJnMmpvM0xiaDBzcHdsYWhTOGUzaWpQYmhtcXFkMzZTQ3hrWjhscHNPQmVqQThJNnpyRzMwNlZRV0Z3MVc1OUNiNm5YZ3RhMDdKU1lsY1RNakF6SkFTOTg0V0Vfa2dPVm51eDA4ZU5pZkltS2lpdjRSRzNfdzM4WXpRUGFlMjNnWG5GR01YUEdZZU1vSE5BaWJMNDljNXFCNDJjT1FkMTZ5bmU5dGxWeWExalBCaG5fSDZyLWs?oc=5",
-  "id": "r54"
+  "id": "r55"
  },
  {
   "title": "Second Hand 2013 Maruti Suzuki SX4 ZDI for sale at Rs. 2,65,000 in Lucknow. - CarTrade",
@@ -1167,7 +1188,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zbG1DQXZCOS14YTRSSm1LVHloMTRoWU5xbVZtV2V3Q0VTV2VXdWl4RHNmM19ORm9nTUV2VjFjNjV5dnhRYzc1VEZDZTN3TWJObk8wbWNzOHU3WVRVTE9saEpXT0EtTDF4YWxzRkx3LUIzcGNEWXhWVzNxZjA?oc=5",
-  "id": "r55"
+  "id": "r56"
  },
  {
   "title": "Sanjay Singh submits Ram Mandir land scam evidence to SIT: AAP MP hands over 11 papers, questions delay in ... - Bhaskar English",
@@ -1188,27 +1209,6 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbGdYZjljQVRuZjV1TWc1MTFPb0NlaF9SWlVaTDFEWmczUVpZMHNHRzdhdWlDTFh1YzJsQnIxblVISmlLV0duM0otYXFkMHVyRDlWVUtFQkNIRVcwU3Q2ZFNTUmFQa1BibjBxZ3VVZ2RTSmhCTWlUWUgyZnhMQVh3VWFnTUZhSDFIZWNqODlSMVVUZ05MUWxWQWlmRmpBcXEzOEVEcGU5SkhMZGJ5S0lqZ3FoaUF3SG5oYWRuUjJnbDFhd9IBxwFBVV95cUxOQmJOWVdnOE02M0Rrc3hZQWFGQzV5SDVhRTh1enFVXzkxSzFqTk1vRk9fLXdRWF9CRTNhZmxCLWlKak9EV1NkSHB5VGl5QnVKdnc0ZFlIckVSX3FnTzVZUEdyT1lmbjh3d0JfLVI2Um1zR1prXzZGOTdsOTVLM0x4T1lMTFJJWTluN3FZTWRzSjFmM196UF91aHF3UDlNeVczSkhyWVBxbHZIR0toYk04bnhHOFd1TEVvZ1l3a2ZDdW5iRnp0RUJF?oc=5",
-  "id": "r56"
- },
- {
-  "title": "Embassy Developments to enter UP with 1,500 crore Lucknow office project under Invest UP - tribuneindia.com",
-  "type": "Listing",
-  "city": "Lucknow",
-  "corridor": "Lucknow",
-  "price": 0,
-  "rent": 0,
-  "area": 0,
-  "distress": 2,
-  "fit": 4,
-  "margin": 4,
-  "timing": 3,
-  "reason": "Listing signal via tribuneindia.com",
-  "source": "News: tribuneindia.com",
-  "date": "Wed, 24 Jun 2026",
-  "phone": "",
-  "lat": null,
-  "lng": null,
-  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcHdNOXdOMGdZMDRHcGxiNl9DaHBJeGxvY196SkZGbl9MT04xc2w2eF96QmRiVi1EWDlSOXR3bEN5WEdkMVdhcTRBd2NQZmZ3VTJGMm9RakJsVllJa3RGTzEyaV9GRnFpM3V2QVdJclN0eFRMc1k3X2wtTTloVjlnVDdQWTVpWlpqSVlPVXc5aS1QVV8tUlJlUTJCTmNxYlpCZTlLSFAtTUw0YTdLU1pqSnhxM3dfa09hU3h0eURTZ0xHeWNqNTRCRnFOd9IBzwFBVV95cUxOTHRmekowU2ZVblFFQUJpQ1Vpb0NRSE82YWZEUXdfbFRfR3h5TjFfX05mbGwyRy1CUTJScUMxV0tDRGJPTWc0Y3lNNGRXdVBsTzFaNXdxMUhhT1NsN3V3THJoS24yb2o0UkdVQ1lrZG0zZllLdFJiVjhnenhhcWdVVFVLSEVXRFZSb25IZ2I1b0oxVWY0bTBfYmprSXZCenA1bmFiaF9ZaHFGQTBFald2Y0x0NmdMZE9UdlFEN2ZQMkFaN1FIMk1kRTBqVGFZc0E?oc=5",
   "id": "r57"
  },
  {
@@ -1569,7 +1569,7 @@
   "id": "r74"
  },
  {
-  "title": "Lucknow building fire: FIR cites illegal commercial use, single entry/exit in building that claimed 15 lives - thehindu.com",
+  "title": "Lucknow building fire: FIR cites illegal commercial use, single entry/exit in building that claimed 15 lives - The Hindu",
   "type": "Demand",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -1580,8 +1580,8 @@
   "fit": 4,
   "margin": 3,
   "timing": 5,
-  "reason": "Demand signal via thehindu.com",
-  "source": "News: thehindu.com",
+  "reason": "Demand signal via The Hindu",
+  "source": "News: The Hindu",
   "date": "Tue, 23 Jun 2026",
   "phone": "",
   "lat": null,
@@ -1674,7 +1674,7 @@
   "id": "r79"
  },
  {
-  "title": "First dedicated Department of Military Medicine comes up in Lucknow - thehindu.com",
+  "title": "First dedicated Department of Military Medicine comes up in Lucknow - The Hindu",
   "type": "Demand",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -1685,8 +1685,8 @@
   "fit": 4,
   "margin": 3,
   "timing": 5,
-  "reason": "Demand signal via thehindu.com",
-  "source": "News: thehindu.com",
+  "reason": "Demand signal via The Hindu",
+  "source": "News: The Hindu",
   "date": "Wed, 29 Jul 2026",
   "phone": "",
   "lat": null,
@@ -2052,7 +2052,7 @@
   "id": "r97"
  },
  {
-  "title": "Aukera Raises ₹90 Crore as Lab-Grown Diamond Jewellery Market Gains Momentum - entrepreneurindia.com",
+  "title": "Aukera Raises ₹90 Crore as Lab-Grown Diamond Jewellery Market Gains Momentum - Entrepreneur India",
   "type": "Demand",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -2063,8 +2063,8 @@
   "fit": 4,
   "margin": 3,
   "timing": 5,
-  "reason": "Demand signal via entrepreneurindia.com",
-  "source": "News: entrepreneurindia.com",
+  "reason": "Demand signal via Entrepreneur India",
+  "source": "News: Entrepreneur India",
   "date": "Sat, 11 Jul 2026",
   "phone": "",
   "lat": null,
