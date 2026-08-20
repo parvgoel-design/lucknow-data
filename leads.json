@@ -127,21 +127,6 @@
   "stage": "Detected"
  },
  {
-  "name": "Taj Bush Lodge Opens",
-  "category": "General retail / office",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "Taj Bush Lodge Opens in South Africa’s Greater Kruger - safariindia.com",
-  "source": "safariindia.com",
-  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBOVFqRWNsNlZZbkRPQl9kNFFNdjVkZzVwYy0yRWJDOHI3M1JLdkhMR0xZWWhxWi1MbzA4TlUtdmM0QlNEUTNCY3lCQXRwUDlWcG1GbURwd2pUUmx3Rm53VTBOYnFwejhWeTBOeGlB?oc=5",
-  "date": "Thu, 20 Aug 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Taj%20Bush%20Lodge%20Opens%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
   "name": "Ed-a-Mamma",
   "category": "General retail / office",
   "city": "Lucknow",
@@ -322,18 +307,18 @@
   "stage": "Detected"
  },
  {
-  "name": "Bonkers Corner Opens New Streetwear Store",
-  "category": "General retail / office",
+  "name": "Tanishq Strengthens Gujarat Presence with New Store Opening",
+  "category": "Jewellery",
   "city": "Lucknow",
   "person": "",
   "budget": "",
   "space": "",
   "locality": "Lucknow",
-  "signal": "Bonkers Corner Opens New Streetwear Store in North Delhi - Indian Retailer",
+  "signal": "Tanishq Strengthens Gujarat Presence with New Store Opening in Bhuj - Indian Retailer",
   "source": "Indian Retailer",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFUwaTFVZV9HVEZrWFVZVGtTNnJlVkkxUUhhRXdabDdSSWE2UXdGa0FPcU41UG9reUdiVGpZWUM0blNtMUV2b3JDaWhtaXVxRkJycExGVG1kbGswWWZSRS12cm5YbmRfNHYxUC12UEZIb2pQTXZ0SkVFSXlXTms0Z0Z5b1BOUGNmVlk0ZnYyWUgyQjJwZmZKVEwxQS1NUUcwMG5EakhGczZMcWVVOUdr?oc=5",
-  "date": "Mon, 13 Jul 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Bonkers%20Corner%20Opens%20New%20Streetwear%20Store%20expansion%20real%20estate",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOTlXVWhWdmlmdWl2cVhmOGxhTi02Z3NXN3hKN0s4MExyT2l5eS11T21MQ3prS2JYWWRUMlp1T2RoOFJHd3dGWjJQeGtMSlNJT3lramtDNWQtSV9QbEs5M2lDLWtRRGxkamVKUzZYU0lEQ241SlNSdmVqLWY5RXJWS0s5REY5Ukk1U3lXSkI4S2F2ekVhTWc?oc=5",
+  "date": "Thu, 13 Aug 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Tanishq%20Strengthens%20Gujarat%20Presence%20with%20New%20Store%20Opening%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -394,6 +379,21 @@
   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaFpHUjhSdTFNRDItWmJUdXkyc0tNNjlwS3NCTy1qeXB5M3g2OUk3VlJTcXd0S0lpREs5U0RDcDk1d2YxSm94cHZrZlpCQ2FFTGlpSWs4OWRNYjRjZzhka1Zoc0ZTTHNQd2VaU3YyVzEyTVJKMGRFQUROY25HclJoVE9qTTNITkc4SW5QMUZpek43UEdEMUc5VUxBYk80MmgwdXVaY3NZVkdPcW1KQm1yeDM5b2NMYnFN0gG-AUFVX3lxTE9zOUNhbl8taTJiTldHbkpVTFhHWkdsYWJET1lJa3IwQ1pwY2wtdkdER2VWcmhvQkZCY2oyVzkzYzltUFBKZmd3d2pHa1A4MmhJN1JaVmlKbHJoUmJHbmNZaTNwREF1YUhubFg3bVZNc2p3eGRYSmNVOFVObzN4R0swdS1ZNkt6VUhjMlh5djJxd0F4c3NNY3NrazFWdURFQzNXNzVZcEVHei1EZ092bldMMXJVX3RHQ29HWi1XQ3c?oc=5",
   "date": "Sun, 28 Jun 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Photos%20of%20the%20week%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
+  "name": "LDA orders to raze Aliganj bldg after fire tragedy",
+  "category": "General retail / office",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Aliganj",
+  "signal": "LDA orders to raze Aliganj bldg after fire tragedy - The Times of India",
+  "source": "The Times of India",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYThqd1dLTE5KYXpRMTlObzdLeWhDSzVKR3pycVo3RTJ1LWR2U19KOTVKMExuaGxKeVoxSXdGYV9fMFpkZ2tNNlFaSFUtT3BydkRnUVRFZzc0bXQ4MUlLZ1U5YXQ4ajF5Y0ZxM2FpRFdnSXlJdlgwNGVtNmZON3ludU1xTHRjZFR5dnhXWExGdmMyU1N3MUZlNjkzWXhmaHBkSnNVTWpxRWVDVHlXUFZxM19PM1Q2ODN0Tnl6QkZKZ3o2MzDSAcgBQVVfeXFMTVZNNGkxMUxtZlYxRFp0bTMzaWVqcUNtS0t4YUUzc1lIWlFaTHFCdGsyOFNoOXpiRjJ3aTJkR0ctNDhDeTNMYnZ4dGd0Uk5yZVg1NUJqNkktQVF5Q0s0Y3ozSy1GSHFpZWNWMkdhNmtVdjZhZFpkbDRsUE96WlphZnBFUmVEOC1yOTZXWklXR1JvZmhPTFd5NmVBYW96aEF1TGVsb3lqeVVXYU9mS0R2LURRVGQ3YjJhSXdWdUFpc2pYckEybU1HeDc?oc=5",
+  "date": "Sat, 11 Jul 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=LDA%20orders%20to%20raze%20Aliganj%20bldg%20after%20fire%20tragedy%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -472,21 +472,6 @@
   "stage": "Detected"
  },
  {
-  "name": "LDA orders to raze Aliganj bldg after fire tragedy",
-  "category": "General retail / office",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Aliganj",
-  "signal": "LDA orders to raze Aliganj bldg after fire tragedy - The Times of India",
-  "source": "The Times of India",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYThqd1dLTE5KYXpRMTlObzdLeWhDSzVKR3pycVo3RTJ1LWR2U19KOTVKMExuaGxKeVoxSXdGYV9fMFpkZ2tNNlFaSFUtT3BydkRnUVRFZzc0bXQ4MUlLZ1U5YXQ4ajF5Y0ZxM2FpRFdnSXlJdlgwNGVtNmZON3ludU1xTHRjZFR5dnhXWExGdmMyU1N3MUZlNjkzWXhmaHBkSnNVTWpxRWVDVHlXUFZxM19PM1Q2ODN0Tnl6QkZKZ3o2MzDSAcgBQVVfeXFMTVZNNGkxMUxtZlYxRFp0bTMzaWVqcUNtS0t4YUUzc1lIWlFaTHFCdGsyOFNoOXpiRjJ3aTJkR0ctNDhDeTNMYnZ4dGd0Uk5yZVg1NUJqNkktQVF5Q0s0Y3ozSy1GSHFpZWNWMkdhNmtVdjZhZFpkbDRsUE96WlphZnBFUmVEOC1yOTZXWklXR1JvZmhPTFd5NmVBYW96aEF1TGVsb3lqeVVXYU9mS0R2LURRVGQ3YjJhSXdWdUFpc2pYckEybU1HeDc?oc=5",
-  "date": "Sat, 11 Jul 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=LDA%20orders%20to%20raze%20Aliganj%20bldg%20after%20fire%20tragedy%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
   "name": "Cantabil Fashion Expands",
   "category": "Fashion / Footwear",
   "city": "Lucknow",
@@ -532,21 +517,6 @@
   "stage": "Detected"
  },
  {
-  "name": "India building fire",
-  "category": "Education",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "India building fire: 14 students killed in Lucknow coaching centre blaze, many jump off 1st floor - Gulf News",
-  "source": "Gulf News",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb0J6Qm92SHprQl9FM205RzZDOUlYaW5BWnlMbUdQTVBlRG9uY3NKQ0RJekFGZ0NfaWVTS2NQQXZySUQwU3ZzZ1JrNGNtaV9URXoyWEF6ZzFwdVZLWkJnRnNiazJfSDJVam9QX2pWMUJxakFvbnN0Z3FOcWlBMHhIQjJYLXlaMzFYV3llaWRWYmY1M1o3YzlmX3NFUUV2VnV0NVJQUmxwZ1FxaFlpMlNj?oc=5",
-  "date": "Mon, 22 Jun 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=India%20building%20fire%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
   "name": "Indian grocery store opening",
   "category": "Grocery / Retail",
   "city": "Lucknow",
@@ -559,6 +529,21 @@
   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOLXpheGc1cUhyU1E4VDNaMFFhemt1d0Q4X0VsNVZwRXNBVUdCZ3hUVUgzSEQ1Mm9rbE9PNXA2RHJUXzdSR3lYVzBLVFA3RTlfSWN4RUtZLWpCV01aTm5POW93RGFxYTh5UEd4OGcxdmJJTmwxZ0ZfRGVuTXVUOGJEbEtIajRLOHEzSHBYZUZia1dubUJmWUVZU3ljZUNlbzh4VzlWc2JYSGZZOEQybzg4N1lrVUJUOExRaVZJRkpyRXJBdlk4dC1CbEZ0OGU4WWd2Z0dkMUNtb0x6NFJrQnVr0gHkAUFVX3lxTE5HWHc1am03N1oxMHR5cGx3UFZNQVp0X3JUaEpQdnZ3TXJGNEFDeGhzRU12RzhGTGpFYVRmbDJIWXdKMHdtZ1g1WTZWamF4cGY5SHFBVmd1bnUtN244TFh0YXRIbTR5NnVqbU5qbDczMW15S2Eya05xMFZFVkdFT2dSVVVOejlDbWowSjQ1Y3BFdmw2RVFHTWlxc1lhTzlsMjdTSW9tRUIwNGdCbzgtLUdtWVFaaVVSUHVfRnAzdDIwNGpXS3EtOXNHZmxubjM1UGEyZUlwbmpvUDJjb3VnRjRVQkxWdw?oc=5",
   "date": "Mon, 06 Jul 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Indian%20grocery%20store%20opening%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
+  "name": "India building fire",
+  "category": "Education",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "India building fire: 14 students killed in Lucknow coaching centre blaze, many jump off 1st floor - Gulf News",
+  "source": "Gulf News",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb0J6Qm92SHprQl9FM205RzZDOUlYaW5BWnlMbUdQTVBlRG9uY3NKQ0RJekFGZ0NfaWVTS2NQQXZySUQwU3ZzZ1JrNGNtaV9URXoyWEF6ZzFwdVZLWkJnRnNiazJfSDJVam9QX2pWMUJxakFvbnN0Z3FOcWlBMHhIQjJYLXlaMzFYV3llaWRWYmY1M1o3YzlmX3NFUUV2VnV0NVJQUmxwZ1FxaFlpMlNj?oc=5",
+  "date": "Mon, 22 Jun 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=India%20building%20fire%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -634,6 +619,21 @@
   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUnUtVFh0WHhVQWRadk44X1o2cE11U21yYlNHZ08yLUVZU3N2SDZ5TkRtY2ViWDdXMWZIaGhuUkhZMmZQcjRERkpVcUgtMGtTQ3NfNHZKYTcteTBfeXhYdjh1M2x6dkVuT1puejVGblRXY3ZLVU5mREpCUUtaQUJIcEtWM25ianZKcVI3cDZObGZ2YlJ0NkI4MDVHZ0NOOVpnZThYRjRYMVVIa1VKUzJ6RmJ1T0V4S2RYY010RkhWQzNYQ1dLbFBRVE9sY9IB0AFBVV95cUxPcFFMczZKV0RPaVp3LXNJdHN4Q2JnNTdsd3U4T0FSVFVOaHN3QWs2bWNOVU0tVlN4Z2NISUJRSFgydWFxOGJNTm1jTXB2dlNtVmdYQlFHM1R6MVBSbUlHbUJWX0o3QUcwMktZbkQtZkx1RkFzYjliWlI3Vm56c0txYThCcHZUMkpLUUUzNWxySnBqMTJYWGNlalJzUXFOYmlPX0lYZGNpSHVBdWRRaFYxa2V4TDAyd29mUkduQzJoSWtVSTBlSWY1aHU4eEU4VkZr?oc=5",
   "date": "Wed, 08 Jul 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=UP%20has%20a%20new%20start-up%20policy.%20Prototype%20grant%20%26%20seed%20funding%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
+  "name": "LDA to draft GIS-cased Master Plan 2051 for 6 districts incl",
+  "category": "General retail / office",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "LDA to draft GIS-cased Master Plan 2051 for 6 districts included in State Capital Region - The Times of India",
+  "source": "The Times of India",
+  "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTUQxRXFjQ3otby1QdkwxS1dGYnJZcm14VzhDM1Jkd0MydjRUc0JLTWNNVEhlcWVIOVkwWXBpMlkwWlMwcXltT3dOYkNTd2VpMzBBYU1abU1EUjBndmNGTzFZRElnNjlmb0RTeGZuWHVOSXhBQWZnR3FWSkZtUnZkYlFVcVY5ZGhRQUFROHVncWxPUGs2YUw1dE9leVF1a0l0eE10RXh6cWlOVXVhQVpPVmlXaFF1Z3BPakN0aGxJSTFlTzRMVUZBbzU2ZWpNdDllb2FQZ1BjTElZRV95ZnlOMmwtQUh1VlFnNUZ3eU0za1NnVlN5OEHSAfsBQVVfeXFMTklBcjFFMzJHZjdzN240clllcWZTZmZDdWxCNUZHZXRLeUxvWlEtMzFpSDU5Qjh4bHQ4UnVTWFpDYk04TldnLUZuTUVLUTVaaHF0ZXVRUUd0QVBzSFE2SnQ4SGxLNnBzd19fTHdxMVFhb0ZPTzd4cWxYVDd3ZVdFdFZ3UF92ZmswWGFMRjZQVVNQLVY3d3phR1Rxb0ttNnlCV1ZQT2pUSlotcHowMmZxMUFyUmx6NTdHdGZxLVBxbS13dERNaWJ1Nmo3RnI4VnNHSnF0cTNRa0N0WERnUzVHYWpWbXB2YVVMbmlpY2Z6OV9KNS04ak16UjYyNmM?oc=5",
+  "date": "Wed, 15 Jul 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=LDA%20to%20draft%20GIS-cased%20Master%20Plan%202051%20for%206%20districts%20incl%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -787,36 +787,6 @@
   "stage": "Detected"
  },
  {
-  "name": "Bonkers Corner Opens 39th Store In Nikol, Ahmedabad, Strengt",
-  "category": "General retail / office",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "Bonkers Corner Opens 39th Store In Nikol, Ahmedabad, Strengthening Its Retail Expansion - IFAB MEDIA",
-  "source": "IFAB MEDIA",
-  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Xald4dU0yWGs0V3JreFJhNFBtN0JKYUhhRVBwck1IVjEyaUFJT3BpZDJhVlNZa0h1MGhZQThoc0hoaWkyWmtkVUY0eklaNkJjR0ZDX1JxNkRScFlERWsyTnZyY3U1QQ?oc=5",
-  "date": "Mon, 17 Aug 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Bonkers%20Corner%20Opens%2039th%20Store%20In%20Nikol%2C%20Ahmedabad%2C%20Strengt%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
-  "name": "LDA to draft GIS-cased Master Plan 2051 for 6 districts incl",
-  "category": "General retail / office",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "LDA to draft GIS-cased Master Plan 2051 for 6 districts included in State Capital Region - The Times of India",
-  "source": "The Times of India",
-  "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTUQxRXFjQ3otby1QdkwxS1dGYnJZcm14VzhDM1Jkd0MydjRUc0JLTWNNVEhlcWVIOVkwWXBpMlkwWlMwcXltT3dOYkNTd2VpMzBBYU1abU1EUjBndmNGTzFZRElnNjlmb0RTeGZuWHVOSXhBQWZnR3FWSkZtUnZkYlFVcVY5ZGhRQUFROHVncWxPUGs2YUw1dE9leVF1a0l0eE10RXh6cWlOVXVhQVpPVmlXaFF1Z3BPakN0aGxJSTFlTzRMVUZBbzU2ZWpNdDllb2FQZ1BjTElZRV95ZnlOMmwtQUh1VlFnNUZ3eU0za1NnVlN5OEHSAfsBQVVfeXFMTklBcjFFMzJHZjdzN240clllcWZTZmZDdWxCNUZHZXRLeUxvWlEtMzFpSDU5Qjh4bHQ4UnVTWFpDYk04TldnLUZuTUVLUTVaaHF0ZXVRUUd0QVBzSFE2SnQ4SGxLNnBzd19fTHdxMVFhb0ZPTzd4cWxYVDd3ZVdFdFZ3UF92ZmswWGFMRjZQVVNQLVY3d3phR1Rxb0ttNnlCV1ZQT2pUSlotcHowMmZxMUFyUmx6NTdHdGZxLVBxbS13dERNaWJ1Nmo3RnI4VnNHSnF0cTNRa0N0WERnUzVHYWpWbXB2YVVMbmlpY2Z6OV9KNS04ak16UjYyNmM?oc=5",
-  "date": "Wed, 15 Jul 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=LDA%20to%20draft%20GIS-cased%20Master%20Plan%202051%20for%206%20districts%20incl%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
   "name": "UP Police SI PET Exam Date 2026 Revised",
   "category": "General retail / office",
   "city": "Lucknow",
@@ -829,6 +799,21 @@
   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PQ2l1el9NVFRFY3RTR1dVNGw5Zi03WWJIU01nNjZOWlNEanZOQ0IwQlBQX0ZXdDhoQVREQ1hET2Z0VFpMOEpnNkYtY2ZXN0ZXY1VncjBmb3BSSGJLU29nZVpkSFZOUE9oakZRR0dQZjJxQQ?oc=5",
   "date": "Mon, 29 Jun 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=UP%20Police%20SI%20PET%20Exam%20Date%202026%20Revised%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
+  "name": "Tata CLiQ to Launch Lululemon Stores",
+  "category": "General retail / office",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "Tata CLiQ to Launch Lululemon Stores in India, Strengthening Premium Athleisure Retail Push - Indian Retailer",
+  "source": "Indian Retailer",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdHVfWGdjZS1hWXh0OUNNZjNISFVaNEFXQnlBaEduUEttc0xEWGdjbHRXSklJbE5WWndXOUFBeGc1LS16OHJrcjBiLXFsc0MtcHFqRVQyejB2aDZnS25zcUpBV3otR0lUZzlnVWtvVFc2NWk0TGJYelV6NmVwTHVIUTFWT1JGQkc1cEM4MWI3emd0enRrZ2dHanVoeVJwWEt0LUh3OWN2NVcxcE4wblNDaVljUzBBQWMzRnlLVA?oc=5",
+  "date": "Tue, 23 Jun 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Tata%20CLiQ%20to%20Launch%20Lululemon%20Stores%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -934,21 +919,6 @@
   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOdnhUY0w3b2JXNTFKQkQ3S2NkYUZDYmc1ZGc4alBRQnh4LXNoeUp3TmEyUmVVRTRSejRHNkxrM19PaGRzeWhCUVNEY1BPREdfNlFQYTg1STJZdmV3cUZvbS1tcVJZUHExX3pubzQ3NjN3ZzZMUjFZcVJHejFKa0lNM1oxcjZkUDdBUWVHcjlEdC1yV2g2aGlyTFo0TFByaFhOQzZKdTlTbDM1MmJpUVA0a19VMnpBZDZKV204R0FnWFhEWVpidEw2UXAtdzg2U25GbHVyT2FnVzg4UmFRNHJmaGxieWh3OVFaT29OZW5Fb9IB9AFBVV95cUxQdkNQbXBSdFYycy1TdlhldU1wSWNSVlFIODZzZmlEeDhpNkpGQVRIU05NVjJ5WHE3b3JPQjhzaG16NDFmUW5QVktUSW83dEQtb1plb2Y5bGJjbVgzZWFjU3QyUHRKenpYN0xIa1hKekZGbGh4OFRKTmRablk1Um5PUy14dFAyb1JuelNRZGxrRjk2R0V2QXRmbUwwVEVwN3FSaGVUOWtRMWhFbGtpSmdvS3Y1Y1UtLWJ1bEl3TzZvcWRQYUcwQlhZaUt2S2QyY3g5RVF1ejhRU2RFZU85Wi16RHJXZ3dfc2xuZWNOWE9Uc3JTek4w?oc=5",
   "date": "Tue, 21 Jul 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Business%20News%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
-  "name": "Ahmedabad’s Dabgarwad Market keeps traditional drum making",
-  "category": "General retail / office",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "Ahmedabad’s Dabgarwad Market keeps traditional drum making in tune with time - Knocksense - Knocksense",
-  "source": "Knocksense",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcUdrU2QzVTRvZWxHeklDMDVWSk4tUDRrbHB0YXFxN05ZSVBJT2xBc3hHdDJhLTd6MWd6UVMtTl9HQkZkX1lSTThkQk50NEVJZnV1bWdQRnRrZkRvTVZTaEtxRms4N1ZheFdGTnZ6U2RmMm55S1VlM2ZhOHhoS0lwekJtcUhqbWtpYjZkZkY4MFNLOFUtQmRMTEdtY2ZDeU5uX21IMDJNU1N4eVNSdGRBa042YW9rSzVoamp2LThmOXTSAcABQVVfeXFMTnFHa1NkM1U0b2VsR3pJQzA1VkpOLVA0a2xwdGFxcTdOWUlQSU9sQXN4R3QyYS03ejFnelFTLU5fR0JGZF9ZUk04ZEJOdDRFSWZ1dW1nUEZ0a2ZEb01WU2hLcUZrODdWYXhXRk52elNkZjJueUtVZTNmYTh4aEtJcHpCbXFIam1raWI2ZGZGODBTSzhVLUJkTExHbWNmQ3lObl9tSDAyTVNTeHlTUnRkQWtONmFva0s1aGpqdi04Zjl0?oc=5",
-  "date": "Tue, 18 Aug 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ahmedabad%E2%80%99s%20Dabgarwad%20Market%20keeps%20traditional%20drum%20making%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -1132,21 +1102,6 @@
   "stage": "Detected"
  },
  {
-  "name": "'Save Us... We Are Trapped'",
-  "category": "Pharmacy / Health",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "'Save Us... We Are Trapped': Victims' Families, Eyewitnesses Recall Final Moments After Deadly Blaze In Lucknow - ETV Bharat",
-  "source": "ETV Bharat",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeDYzYlVLS2RJcFRHVkJvRU9uQWpST0k5b240R0RIaEhEZlF1Z3o5VnEzZlhpWWVMVEpZaDZRSGVYaHpsdXZTWUhMQzFaQnZoTWRMcnl2Z1pJNlFta3NNYjZqb01NRXUwZl9JNFc2UFFwUi1uMlVyeGlhTllmRnVVUmpSMTZQdmZzN0dOV0NoTHVUNmExMU9PSlQzb2paVWQzaXZPLVJjazdybkozZVJKUW1IR1FOT29SYUHSAb8BQVVfeXFMTXhiazY3OE5fUG1OcElFN1A5cldSQ2tId2hjc2ZqRWZnVFB2Z3FZb2JXN2xqUi1NTGFibFVjYS1RdzA0bk1KWmZkTkJla2xtbzV1Q2NCaUJvUG5oa3RNTkhfVS01Ni1mSlY4V2pYcWlXSU9md3c5ZWw0QUMzNVd3LVZEWHY2QlA1ajJYTjlBaVB6SUxtQVh2NGYxZm5FcW96dEwzX0hfR3VQQnJteFIxV3dYSXNUT1J2VFRwYnB4RzQ?oc=5",
-  "date": "Tue, 23 Jun 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=%27Save%20Us...%20We%20Are%20Trapped%27%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
   "name": "Royal Enfield Continental GT 650 (2018-2026) On Road Price L",
   "category": "Auto / EV",
   "city": "Lucknow",
@@ -1174,6 +1129,21 @@
   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTHJpTDRxUVg0S2ZFeFZCQlhwbThNTXVhRGV2MURwdDFPOV8zQnF5ekVQSG9UQk1ySVRoOGNwV2FtYXJNTVB1VVpHUU5yVWVzX1NGemt1bm5TMkt0OGdxMXpxUm9OelZ0YU5mTS1lZUtWUl8xTVRvNzdyZDNCZlJvSXRTWW1kc2wzVDhuTVc5OW1iVGVDREo2blRyR0pqMHZIZTNEZU5DejRKLVhPcHd0SFpXdy1uTzNobTktWktTOFhjdjZLVmV4NDFsQ0dFX1VwbmIyS256d1QwN2JrNG0tS1JyYWN5UmcwaUtOY9IB8gFBVV95cUxOaWt2aWFmVk91WHFJTDB1S0lTbjFIRC1DSlJzUHllTmpvcFpvTFdmT29oWXlSbTlRTExEWnM3SmI2VktPMXdqbWpHUDNVTWZFUlhpMnYzX1ZGbFJIdU1EMThoUHRFQ3J2aGVkaThubnBRZXZwWTVwbDJvNVNuQTF4UUVVVHk1bHdKWHdYckJzTDFXbGZ4ZHNxNHlEcFFVVWJkR2dPeXl2aGdVUmt6YUh4SXp3cEJYdDllRzdtOXp1QnR6TE9udkRxT0NDZy0xbWR0OXE0WWZzVjYyNnRQcXBlQlVPcnJrVUJYd1RtWmZWT0NpZw?oc=5",
   "date": "Mon, 22 Jun 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=15%20killed%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
+  "name": "Over 30 dogs and cats rescued from pet facility",
+  "category": "General retail / office",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "Over 30 dogs and cats rescued from pet facility in Lucknow fire | India News - Hindustan Times",
+  "source": "Hindustan Times",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRkxkOGdTb0E4aWE1a25oMGlQa2NCZ293Wk1RQzlhUjhQUVVmZjBfTWlDcEhNNkhYdnl5WkV2dGU4dUFIV01SSEpjUkRTQnJ0eEEwaVIwZTYyTzZwcDQ2eFAwT0VsUzNYSU5TVGIybm5QdUgxaUczaVJNdW1WUkNjYlJ2aVlFQTlvYUJwaXBsSjhvRGpKQkZpNEFDcTlZT2lMa3ZYR2dIVkRuc1hpNWV5YTFBVlhZeE95NkZ2UlppeW80NGdu0gHKAUFVX3lxTE5aVlBzWmdrOGZ0UnVaRmI2Qmh3WWc1UVJKQ0NJc0ladUY5Z0pNQm1qZWdlQjZzR3hVbUV4WjluYnpmX0sxRHRVYUpqVWo4cnpFb0xLWW9nRTg3UzBkTHJaT2RNS2gyZjZDdUV3WmxUMVA1Y3duYzI5dzl1dXBKemZ6V1ZVN0lnUnFhTTl4MzhvMjh0dnBnWDE1cXRGUEVnRGNjNFF4WHJ5NmVnc1QxS1ZRLW5sR2VZeFM3SlVFbHBtRkRKcDY1SDRWSmc?oc=5",
+  "date": "Mon, 22 Jun 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Over%2030%20dogs%20and%20cats%20rescued%20from%20pet%20facility%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -1219,6 +1189,21 @@
   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM0hoQ0RjdElHeDZJNDJpbWtSZlJyQlJOTjZJdVEtbjdwODBmYjBpeVdnaFBNSXpkTGJtM1VLa1NrOWdOVzlBRHJMVzBqbElRLVZ4c29mQ0JVbE11cms5Y0lKdENpQ2FnaS04ZUNpU2QwdEhSRHVTT0N3LVFGZnZkS29FblJWb2IzUFpLdGtEX19oR20zR1M3NnRZWEdpcjlGbW02cjdCVHpmX0twNU1JNTlaNHJiTXlNMnpyTnpkY9IBxAFBVV95cUxNdllELURCZ2hnU3J1c0pSbmxMcmhZTUIzVVVTM2dqM2dEU0lpSzAwYkgxOXpCSGp5Umh5T3FPRk80N0Zxc01DTS1Db2dxUTAzcksyNmVEVVJyM2JyeXRZZTJUYjNsbEtpRWgxbkxNQmZ4bnZkYUduejJycVhTUjNQekdvVXZuQ0R6VTRFanRldlFkU2U5NGxpY3hUajY5TWRVQlY2U3haQW5SZzFqU0lRNmN0VE44QVpja3ZMbjFpWm5GX3ZP?oc=5",
   "date": "Thu, 02 Jul 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Chutki%20Bhandar%20shut%20as%20building%20declared%20unsafe%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
+  "name": "'Save Us... We Are Trapped'",
+  "category": "Pharmacy / Health",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "'Save Us... We Are Trapped': Victims' Families, Eyewitnesses Recall Final Moments After Deadly Blaze In Lucknow - ETV Bharat",
+  "source": "ETV Bharat",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeDYzYlVLS2RJcFRHVkJvRU9uQWpST0k5b240R0RIaEhEZlF1Z3o5VnEzZlhpWWVMVEpZaDZRSGVYaHpsdXZTWUhMQzFaQnZoTWRMcnl2Z1pJNlFta3NNYjZqb01NRXUwZl9JNFc2UFFwUi1uMlVyeGlhTllmRnVVUmpSMTZQdmZzN0dOV0NoTHVUNmExMU9PSlQzb2paVWQzaXZPLVJjazdybkozZVJKUW1IR1FOT29SYUHSAb8BQVVfeXFMTXhiazY3OE5fUG1OcElFN1A5cldSQ2tId2hjc2ZqRWZnVFB2Z3FZb2JXN2xqUi1NTGFibFVjYS1RdzA0bk1KWmZkTkJla2xtbzV1Q2NCaUJvUG5oa3RNTkhfVS01Ni1mSlY4V2pYcWlXSU9md3c5ZWw0QUMzNVd3LVZEWHY2QlA1ajJYTjlBaVB6SUxtQVh2NGYxZm5FcW96dEwzX0hfR3VQQnJteFIxV3dYSXNUT1J2VFRwYnB4RzQ?oc=5",
+  "date": "Tue, 23 Jun 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=%27Save%20Us...%20We%20Are%20Trapped%27%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -1327,21 +1312,6 @@
   "stage": "Detected"
  },
  {
-  "name": "New 2026 Hyundai Creta S Optional",
-  "category": "General retail / office",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "New 2026 Hyundai Creta S Optional : Detailed Review : Price | Mileage | Features | Most VFM 🤑 Will Warren (0t0Dy4hUCM) - Mshale",
-  "source": "Mshale",
-  "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55bnpvWWlvbzFid01OdjBmZHRCZGtpNk42Rl9TZ19fSUhYREMwVEw3dnpTVkRNdHpIUmhIeG5XVzVKMVh4VF9QTmpHN0xhSVNQd0Q4ZEJGWVNTSjQ?oc=5",
-  "date": "Tue, 11 Aug 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=New%202026%20Hyundai%20Creta%20S%20Optional%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
   "name": "Gold Rate Today (August 10, 2026)",
   "category": "General retail / office",
   "city": "Lucknow",
@@ -1354,6 +1324,21 @@
   "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQQUhoaUZ5aVdxQ1VqWkdGaEcySENaY1JFRjVsdV9vSnJTcDZYNEZoVWdoeDNpTjAyaXF0MHNNcWlTM3o2Y1NXSTZwVmh2UUNxY3BrN013NWlVN0dveDJVclN4T21lMUZzeFBRbHJtS290Rm5TQWtHbk1KN2J1WXJVWGpUZGk5YXhySEtUTVM1LV92bGljYXdkdmg3WVFaNWJZcWEyZklLMi1nQzRDZ1h0Zmdya1N4V0s3VWpFRzJHY1pHcXUwV2hhVHlaOW5udG1RR3hxNUdiRFdybkh5aW16QmxxekdTeFhnTkFDOVQ0X1gwM0pzc0pkTEliN0hYOHo1SjhfcVFrQkt2ZzNkcEllRU9zWjRiTmF5dTBya2l0WVhlUjREVzhLUERyRm16RXBPZEN0OGp4YkF5VFVN0gHCAkFVX3lxTE9mZ05NNF9xbk5ILVU3bWxhR3JhWHBtakFoeDZZMTRweGlqeE45M0ROWXpfQkFsc0V0S0VfNWhjb0p6WEZra2lOeXh1VFRqV3Q4MDltdzBmRWl6Y0xLT1hscHNHS3U3N1k3cFc5bXozNXh4ckZzYWVmX0VYOUFHLWM0cWltLVBmTUZBdGhNZUhLMFBtR09YazduaFlGRWk1bWU5X0JEMEVSMFU4QXdoOHJaOW03UDYtQnlSdWpTZDlleC1pRFhRcnQ3djE2V2wzdXJhUzRhYnMweXFJLWJBYjBlQUprdjA4aGRsVXR5eG1WbWJ5OFJQUEw5UFhKMEtoZndqTFBFa0xxbU1QcGFqVWQ2bXFCY3M5MEJhd0MyeTRCTWZYbHJJVWdCTnUyaWxlQXkyeUpobVQtanY4N2RrcU8wMkE?oc=5",
   "date": "Mon, 10 Aug 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Gold%20Rate%20Today%20%28August%2010%2C%202026%29%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
+  "name": "Ahmedabad’s Dabgarwad Market keeps traditional drum making",
+  "category": "General retail / office",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "Ahmedabad’s Dabgarwad Market keeps traditional drum making in tune with time - Knocksense - Knocksense",
+  "source": "Knocksense",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcUdrU2QzVTRvZWxHeklDMDVWSk4tUDRrbHB0YXFxN05ZSVBJT2xBc3hHdDJhLTd6MWd6UVMtTl9HQkZkX1lSTThkQk50NEVJZnV1bWdQRnRrZkRvTVZTaEtxRms4N1ZheFdGTnZ6U2RmMm55S1VlM2ZhOHhoS0lwekJtcUhqbWtpYjZkZkY4MFNLOFUtQmRMTEdtY2ZDeU5uX21IMDJNU1N4eVNSdGRBa042YW9rSzVoamp2LThmOXTSAcABQVVfeXFMTnFHa1NkM1U0b2VsR3pJQzA1VkpOLVA0a2xwdGFxcTdOWUlQSU9sQXN4R3QyYS03ejFnelFTLU5fR0JGZF9ZUk04ZEJOdDRFSWZ1dW1nUEZ0a2ZEb01WU2hLcUZrODdWYXhXRk52elNkZjJueUtVZTNmYTh4aEtJcHpCbXFIam1raWI2ZGZGODBTSzhVLUJkTExHbWNmQ3lObl9tSDAyTVNTeHlTUnRkQWtONmFva0s1aGpqdi04Zjl0?oc=5",
+  "date": "Tue, 18 Aug 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ahmedabad%E2%80%99s%20Dabgarwad%20Market%20keeps%20traditional%20drum%20making%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -1414,6 +1399,21 @@
   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUF9HMjJWSEVvVlg1TmRUXzhzSUVtd1hxOVFoMEx6NWcwMnE2TnNRYTY3MWlrMWpPYURCc0FtelVkSE02TkdqNmszVlZyel9jWXU1Qy1fWXB6ZkExQ1ZCNkdfWDhsZG1NWjRVWFVLbmF2U09pY05nSjVrQjdQR3ROLTRpQjVyZ01Ecnlaa2JPQmtQLTBTWElXSFBxRjNBTnlRUTBHeGMteHoyaDV6dEFzcGZMZE40enFTS0lQV196LURUenBWTGZjNVgtYVpJdnZpV1930gHgAUFVX3lxTE1leklCcEplOG1jQTlUTUJBRnBsdldRdEU5bURwRGlzajZDS0ZGZXRWeDNydTFRdFNCRS15S1E2c042OHo5algzeWFLZlBIX2R6Z3RFWnVfWGlOTjJBU2g0b19iaVZybkZUNjNrU1Nwc193Y01OMHBVVUw3WUJ0TnFpSEZ1bE9fSzRrRUtTcjVSSmttSHhLYmhTMEZKeXFrVFlybUpSQVFkcEY0Rk13Z2VDLUhGTEhNT0FuWVRWZzJMMHl4X0ZyR0F4S2NnVm9HZjlvTlFZdGk2MVBSY0VSRi1o?oc=5",
   "date": "Wed, 15 Jul 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Lucknow-Kanpur%20Expressway%20To%20Open%20New%20Growth%20Corridor%20For%20Ut%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
+  "name": "Aukera raises Rs 90 crore to accelerate retail",
+  "category": "General retail / office",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "Aukera raises Rs 90 crore to accelerate retail expansion, targets next phase of growth - ET Retail",
+  "source": "ET Retail",
+  "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPWW9nNG9PVnJvZUMxM3Z6TVJTd1RVNzkycjZDUlUwSWxucXVxT01SV0R0QkVVN0Fhd0hMZ290ZTRLWnI3QV81TFdCd2hlUFRjd0l0U081ekI3N0JITlNWTEl2dkNyTFE0a05tVmdNc1lMdjE0dHNJbV9uUzhqeHhZOF95eWtaQzIyR0pvc3ZheVk3VHBOSUF2dHhWYndYdnhHcGJId1h1Mks1Zm9vRG5QUXZaV3AtMGU2TUxyQkNwdG5OVHprR0VITDZENThMejV6OExqZ2hhdkRXelFoa0w5aGdodWhvZVlSdnR0am04c0p1R2JxYmVreWpUaTNvWEU?oc=5",
+  "date": "Fri, 10 Jul 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Aukera%20raises%20Rs%2090%20crore%20to%20accelerate%20retail%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
