@@ -157,21 +157,6 @@
   "stage": "Detected"
  },
  {
-  "name": "OPO Collection SRS Opens",
-  "category": "General retail / office",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "OPO Collection SRS Opens in Noida, Expanding NCR Presence - safariindia.com",
-  "source": "safariindia.com",
-  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9raXhOdV90bm8tWHRKLVh2LThSX29NeUsyYWpDRmJvNDdnWnZISC1LbVhtVjNSSUZQc01pZHNKYVpoMldKZVB3YkJVcU1EWWlLcl96SGxUSTdQUVNVeFhRRm40WVFCSXF6VUE?oc=5",
-  "date": "Fri, 21 Aug 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=OPO%20Collection%20SRS%20Opens%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
   "name": "Taj Bush Lodge Opens",
   "category": "General retail / office",
   "city": "Lucknow",
@@ -199,6 +184,21 @@
   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3VE1XLTFCZXUxVHd5UE9GX1lFenU5bC1SQ2FIN0xlSk9na0RVbW41Y2ZLR2lLZWxjQXhyc3NsVlNLalJRZDJpd1o1WkVURngxMjQ3SUktNnpsR0pURm83RHc5SmpIU1p1eTQxY2RCYXluLXV5eUZ6RGdR?oc=5",
   "date": "Thu, 20 Aug 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Noida%20International%20Airport%20Begins%20Operations%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
+  "name": "The Indian Garage Co. Strengthens Retail Expansion with 20th",
+  "category": "General retail / office",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "The Indian Garage Co. Strengthens Retail Expansion with 20th Store in Lucknow - Indian Retailer",
+  "source": "Indian Retailer",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR1lfemhkUTBySEhGUTNFT2llQWNRLWU1U05HOER1bFRPNFBCN0VUeFh3TjR0TU1DOWNuNzhRa1BSVzdrSkE2a3NDWkEzdHAzRDVLWWVRaWNkelhZSXJtdFVyUzBMNnFHdnY2dnVuWmZCb2V5a21YVmo3d1NGSmNVOW9FVXpRY1puUTZIeFk2X1BOMmRJX2E3MXB6Tkh5ZFNzU3c?oc=5",
+  "date": "Tue, 21 Jul 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=The%20Indian%20Garage%20Co.%20Strengthens%20Retail%20Expansion%20with%2020th%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -247,36 +247,6 @@
   "stage": "Detected"
  },
  {
-  "name": "Akiki London Opens New Retail Destinations Across Noida, Gur",
-  "category": "General retail / office",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "Akiki London Opens New Retail Destinations Across Noida, Gurugram and Lucknow - Indian Retailer",
-  "source": "Indian Retailer",
-  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTFlIMnI1ZkY1aTBNQmR2YUFaWWNOcjdHMWZ6ME5HMExPNm9CRld4ZlhXT0drVmxUbHJWR09PS250eHJVNGwzd0wweW5xV0xXZ3pDQkpDd3N0N0h5Y1lFei03UU5SZVZ6cWJLY0hOcWpscDQxU3cxWUQ2NXRvbnlQODJ6RWUza3U1NkRKc0c0Yi0zOURTY3Y2aFpJNms0YnA1cGYzTnhUVFQ1NDM4R24zSlF6NWc5SGM3WGFqX29vRWg3UWZLSFNtYmZURkY1QQ?oc=5",
-  "date": "Thu, 13 Aug 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Akiki%20London%20Opens%20New%20Retail%20Destinations%20Across%20Noida%2C%20Gur%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
-  "name": "Lucknow fire",
-  "category": "General retail / office",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "Lucknow fire: Inquiry ordered after building fire kills 15 in north India city - BBC",
-  "source": "BBC",
-  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GTFFkN3dxTFpwenloUld2ZFMwSkFkbXNpSTU1ZWhpTUVEcjRyenVNNVZpSjNuZFFtTloyTjN1aFJOTWJXTlY0dFJUVVNTd1RtbW1STFFOUWFzUQ?oc=5",
-  "date": "Tue, 23 Jun 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Lucknow%20fire%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
   "name": "Eight fire tenders tackle massive Lucknow fire",
   "category": "Grocery / Retail",
   "city": "Lucknow",
@@ -304,6 +274,21 @@
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUGRjOFI2eGtucUpYcUVrN0k2MDRoblctV0RTVXJWdVl5c3N3WmVtYlRaYjBOZVl6elJtUVBWai1UendlWmpZLWw4WTktVkpnWnVSTGlfV1o4RFc0ZTl1NjMtdUpMOVZwN3NJVmZaS1hPUHRQYkFXX1AtTjM2NzFIRFVCY0RfdVRmcS05VGdVZUU4QWZWV2hYOFhZMUxRdi0xZXRqV1E4cTdYaTBIdEtpcmdJRGRwTGh2b0FRNA?oc=5",
   "date": "Tue, 18 Aug 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Hettich%20Strengthens%20Noida%20Presence%20with%20New%20Hettich%20Exclusiv%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
+  "name": "Lucknow fire",
+  "category": "General retail / office",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "Lucknow fire: Inquiry ordered after building fire kills 15 in north India city - BBC",
+  "source": "BBC",
+  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GTFFkN3dxTFpwenloUld2ZFMwSkFkbXNpSTU1ZWhpTUVEcjRyenVNNVZpSjNuZFFtTloyTjN1aFJOTWJXTlY0dFJUVVNTd1RtbW1STFFOUWFzUQ?oc=5",
+  "date": "Tue, 23 Jun 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Lucknow%20fire%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -337,6 +322,21 @@
   "stage": "Detected"
  },
  {
+  "name": "Akiki London Opens New Retail Destinations Across Noida, Gur",
+  "category": "General retail / office",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "Akiki London Opens New Retail Destinations Across Noida, Gurugram and Lucknow - Indian Retailer",
+  "source": "Indian Retailer",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTFlIMnI1ZkY1aTBNQmR2YUFaWWNOcjdHMWZ6ME5HMExPNm9CRld4ZlhXT0drVmxUbHJWR09PS250eHJVNGwzd0wweW5xV0xXZ3pDQkpDd3N0N0h5Y1lFei03UU5SZVZ6cWJLY0hOcWpscDQxU3cxWUQ2NXRvbnlQODJ6RWUza3U1NkRKc0c0Yi0zOURTY3Y2aFpJNms0YnA1cGYzTnhUVFQ1NDM4R24zSlF6NWc5SGM3WGFqX29vRWg3UWZLSFNtYmZURkY1QQ?oc=5",
+  "date": "Thu, 13 Aug 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Akiki%20London%20Opens%20New%20Retail%20Destinations%20Across%20Noida%2C%20Gur%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
   "name": "First dedicated Department of Military Medicine comes up",
   "category": "General retail / office",
   "city": "Lucknow",
@@ -367,36 +367,6 @@
   "stage": "Detected"
  },
  {
-  "name": "Tanishq Strengthens Gujarat Presence with New Store Opening",
-  "category": "Jewellery",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "Tanishq Strengthens Gujarat Presence with New Store Opening in Bhuj - Indian Retailer",
-  "source": "Indian Retailer",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVmNCUWJpZmc0cXZoWFpGWEVyZ1dKVk5kOTNhWHpuY1FILWdpTmhBQ09HbU5qRGxHZHpGbHU5YW1scmNXTHZPRjRRWlJneXdvTHFKakkyaDh1R3ZIT3I0Q1FEV3NEak1VVjRnTlI0a1VRdS1MdHZFTjBjZWZ5UzN1b3YzbzhVeTVkLVdFaHlLNlZGVVBWbl9NVzFxRQ?oc=5",
-  "date": "Thu, 13 Aug 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Tanishq%20Strengthens%20Gujarat%20Presence%20with%20New%20Store%20Opening%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
-  "name": "Cantabil unveils largest store yet",
-  "category": "General retail / office",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "Cantabil unveils largest store yet in Delhi's Karol Bagh - India Retailing",
-  "source": "India Retailing",
-  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZVlvQ2ktYlhzZHBpR29RMlZlajRMQ2Nadmd2RWQxYWRvVFllQUtLUnVTc2RpSzRpdEZveFd1Q0duT0c5LTlPc1pUSlVta3RzUlAzdU5BWmVzWnlUVWU2SmxPWFZ1MkZHOHlRNGJ2bUZmYWdKMWNxeUp6YkFpUjY1RWxoR0w1Nm52NWdtWWVPYw?oc=5",
-  "date": "Fri, 10 Jul 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Cantabil%20unveils%20largest%20store%20yet%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
   "name": "Fire guts store room",
   "category": "General retail / office",
   "city": "Lucknow",
@@ -424,6 +394,21 @@
   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNkx3X2JTeXhDaUE5LWNCX25rSzluSGpXcVBTeGljNzRuZ083WGxBems3SF9ZQ3g3TXZheVpjekpKS2RSZ0o2V18zbHd6dndYRDZ0T1BPWEhBbV9wNV9TRWpfU3BUMFRuWm4wbm1WTnFnZDM2cTZPQnkySVBIa3laWkNfVGh3c2t2RGlJaGJodVE2VUxqZGw5aXNXdExRN2FHb0RlVnYzQk8ydUNrdVFRbDAzMnhNUERoN0pEdGV4XzVPUVAxaDRZWFJR0gHPAUFVX3lxTFBudmFqNkpPMTlMVWxpTkxUUDM1TTlxNjhWdjhyVzEzOHRZUjQ4QktoUXNJQUpROUhmN2x5NHdqRlBVNE5MN2xPdlB6T3JIV1ZpMzVwbUJnV3hZbHZ1UTR4YnNGSV9BdmJRTjFQUjNlT0FqLXhZaHlQSEZyNEhVNnptbWFZTnpSWXZhUDVRNWJvMHhtODZKaXFsLVVRbTV2ZmZiM0JfVm5RdUNZNGg3WTVrdU9kWnI1bTZyU3JjaURFcUU5Q3FBM09VNWJwSk93cw?oc=5",
   "date": "Mon, 29 Jun 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Fire%20breaks%20out%20at%20Lucknow%E2%80%99s%20Vikas%20Nagar%2C%20shops%20evacuated%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
+  "name": "Cantabil unveils largest store yet",
+  "category": "General retail / office",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "Cantabil unveils largest store yet in Delhi's Karol Bagh - India Retailing",
+  "source": "India Retailing",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZVlvQ2ktYlhzZHBpR29RMlZlajRMQ2Nadmd2RWQxYWRvVFllQUtLUnVTc2RpSzRpdEZveFd1Q0duT0c5LTlPc1pUSlVta3RzUlAzdU5BWmVzWnlUVWU2SmxPWFZ1MkZHOHlRNGJ2bUZmYWdKMWNxeUp6YkFpUjY1RWxoR0w1Nm52NWdtWWVPYw?oc=5",
+  "date": "Fri, 10 Jul 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Cantabil%20unveils%20largest%20store%20yet%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -832,21 +817,6 @@
   "stage": "Detected"
  },
  {
-  "name": "Aukera raises Rs 90 Cr",
-  "category": "General retail / office",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "Aukera raises Rs 90 Cr in fresh funding led by Alteria Capital - Entrackr",
-  "source": "Entrackr",
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMU9jcEkxLUFXaWZ5eS1mV3FSQzlRbnNEYTRubWdCWHdlT1BfTVYxUDFSalozbkRGV1NvSTZaR3hSN1VvV1Fud3ZyekgzT0tCMUN0Qjc4RXFETXpPWmctdS1IN2VQUEZPRng3U1B2U2psVWlfY0lEajl1eGwyeU1lOGN5UzdVYVNDNGRiVkg4WElpZEQ4T3NVbEQzbmJOQdIBngFBVV95cUxQMU9jcEkxLUFXaWZ5eS1mV3FSQzlRbnNEYTRubWdCWHdlT1BfTVYxUDFSalozbkRGV1NvSTZaR3hSN1VvV1Fud3ZyekgzT0tCMUN0Qjc4RXFETXpPWmctdS1IN2VQUEZPRng3U1B2U2psVWlfY0lEajl1eGwyeU1lOGN5UzdVYVNDNGRiVkg4WElpZEQ4T3NVbEQzbmJOQQ?oc=5",
-  "date": "Fri, 10 Jul 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Aukera%20raises%20Rs%2090%20Cr%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
   "name": "Sprite and IRCTC Flag Off Indias First Branded Train as the",
   "category": "General retail / office",
   "city": "Lucknow",
@@ -877,6 +847,21 @@
   "stage": "Detected"
  },
  {
+  "name": "Aukera raises Rs 90 Cr",
+  "category": "General retail / office",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "Aukera raises Rs 90 Cr in fresh funding led by Alteria Capital - Entrackr",
+  "source": "Entrackr",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMU9jcEkxLUFXaWZ5eS1mV3FSQzlRbnNEYTRubWdCWHdlT1BfTVYxUDFSalozbkRGV1NvSTZaR3hSN1VvV1Fud3ZyekgzT0tCMUN0Qjc4RXFETXpPWmctdS1IN2VQUEZPRng3U1B2U2psVWlfY0lEajl1eGwyeU1lOGN5UzdVYVNDNGRiVkg4WElpZEQ4T3NVbEQzbmJOQdIBngFBVV95cUxQMU9jcEkxLUFXaWZ5eS1mV3FSQzlRbnNEYTRubWdCWHdlT1BfTVYxUDFSalozbkRGV1NvSTZaR3hSN1VvV1Fud3ZyekgzT0tCMUN0Qjc4RXFETXpPWmctdS1IN2VQUEZPRng3U1B2U2psVWlfY0lEajl1eGwyeU1lOGN5UzdVYVNDNGRiVkg4WElpZEQ4T3NVbEQzbmJOQQ?oc=5",
+  "date": "Fri, 10 Jul 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Aukera%20raises%20Rs%2090%20Cr%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
   "name": "LDA to draft GIS-cased Master Plan 2051 for 6 districts incl",
   "category": "General retail / office",
   "city": "Lucknow",
@@ -889,21 +874,6 @@
   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTUQxRXFjQ3otby1QdkwxS1dGYnJZcm14VzhDM1Jkd0MydjRUc0JLTWNNVEhlcWVIOVkwWXBpMlkwWlMwcXltT3dOYkNTd2VpMzBBYU1abU1EUjBndmNGTzFZRElnNjlmb0RTeGZuWHVOSXhBQWZnR3FWSkZtUnZkYlFVcVY5ZGhRQUFROHVncWxPUGs2YUw1dE9leVF1a0l0eE10RXh6cWlOVXVhQVpPVmlXaFF1Z3BPakN0aGxJSTFlTzRMVUZBbzU2ZWpNdDllb2FQZ1BjTElZRV95ZnlOMmwtQUh1VlFnNUZ3eU0za1NnVlN5OEHSAfsBQVVfeXFMTklBcjFFMzJHZjdzN240clllcWZTZmZDdWxCNUZHZXRLeUxvWlEtMzFpSDU5Qjh4bHQ4UnVTWFpDYk04TldnLUZuTUVLUTVaaHF0ZXVRUUd0QVBzSFE2SnQ4SGxLNnBzd19fTHdxMVFhb0ZPTzd4cWxYVDd3ZVdFdFZ3UF92ZmswWGFMRjZQVVNQLVY3d3phR1Rxb0ttNnlCV1ZQT2pUSlotcHowMmZxMUFyUmx6NTdHdGZxLVBxbS13dERNaWJ1Nmo3RnI4VnNHSnF0cTNRa0N0WERnUzVHYWpWbXB2YVVMbmlpY2Z6OV9KNS04ak16UjYyNmM?oc=5",
   "date": "Wed, 15 Jul 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=LDA%20to%20draft%20GIS-cased%20Master%20Plan%202051%20for%206%20districts%20incl%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
-  "name": "UP Police SI PET Exam Date 2026 Revised",
-  "category": "General retail / office",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "UP Police SI PET Exam Date 2026 Revised: UPPRPB Announces New Schedule, Exam Centre Shifted to Lucknow - PW",
-  "source": "PW",
-  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PQ2l1el9NVFRFY3RTR1dVNGw5Zi03WWJIU01nNjZOWlNEanZOQ0IwQlBQX0ZXdDhoQVREQ1hET2Z0VFpMOEpnNkYtY2ZXN0ZXY1VncjBmb3BSSGJLU29nZVpkSFZOUE9oakZRR0dQZjJxQQ?oc=5",
-  "date": "Mon, 29 Jun 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=UP%20Police%20SI%20PET%20Exam%20Date%202026%20Revised%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -1127,7 +1097,7 @@
   "signal": "TVS Radeon price in Lucknow - August 2026 on road price of Radeon in Lucknow - BikeWale",
   "source": "BikeWale",
   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTdkdtWGFJV0xwMU5XSW5iei1PTjhEVGw1cHZLaFFqdmIyMW5LejEtMldGTlJxaTdadDJ4bmh2c1FUaVp0cVVYbmRQREd3RjdHOHIydnVzaF9fRUZ6cW5HcDRfTEMxd0lMeDln?oc=5",
-  "date": "Fri, 21 Aug 2026",
+  "date": "Thu, 20 Aug 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=TVS%20Radeon%20price%20expansion%20real%20estate",
   "stage": "Detected"
  },
@@ -1222,21 +1192,6 @@
   "stage": "Detected"
  },
  {
-  "name": "Honda ADV 160",
-  "category": "General retail / office",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "Honda ADV 160 : Price, Images, Specs & Reviews - Car and Bike",
-  "source": "Car and Bike",
-  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnTGg1TFctT3RZX1NiRElZQjJ1YkhObm52VmhqOWl6MDg1Mm9zQ0xLSzdvVnV2anRVZ0FVYnBWRkJhekJyNGpXaUNxMWZTajJVZVR3enBSb3dGQQ?oc=5",
-  "date": "Wed, 29 Jul 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Honda%20ADV%20160%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
   "name": "Hearts break as pets perish",
   "category": "General retail / office",
   "city": "Lucknow",
@@ -1309,6 +1264,21 @@
   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcnhXSGprUFNESlFBWjJsaDhIclB6S3VUa0M0VGVJRmFhT0VLblFyMnRoVGlDQlQ4dEpQd3gwdU1jQjdMYnFINFQ2eUVHamEtSXN0Umc5dTRwYWF4eVdTVTNCRHJNOE1pMXBkSmtiZ1FKWHg5NkM4d01MaDBnWkxmZFBYQ0xNTTBOUXlaVjBLc1BGZWV4cVJ3OWRqVGRmTnBmQXlDVTJycnA5T3Nub2hRcldsbXdYR3RhSHhENnBPeThQOXowYzVCQlJIVTdxM05IempvV091NnlDYkxRUkJsWExwall3X1RwX0hpWXBueFLSAfYBQVVfeXFMUHNua2I5V1M0ZjJvNW9YNk9sUUp5TFJ0QzVMZGdhQnNyZkQ1Q0lKcF96OU5Tbms5Y2NHS1AtWWpUQzlOdVkyemhrZ0ZZSDk4RmxwWEpfRzR4TXRPaDlIekpjQk9fMFY1MGZ2ZEhYaUpKcEpjTi1BbnFCb2R3d1NZWU1Qb2ZjdFpfcTRvVndEbXktcXJUVmZIcWhmS2FBTnl6aEFRSDB3ZlN6WVZaaFVmNEI2aDVSUVVjZHg1OEVhUkQ3WmtGbzFWY3QyMTE2VFdVWmk1Rlp2R3l0b2c2dmxkWUxUaFVJeWs3bFg0a0h6dDF5R1ljckZB?oc=5",
   "date": "Thu, 09 Jul 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=After%20Lucknow%20fire%2C%20education%20department%20bans%20biometric%20gate%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
+  "name": "Honda ADV 160",
+  "category": "General retail / office",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "Honda ADV 160 : Price, Images, Specs & Reviews - Car and Bike",
+  "source": "Car and Bike",
+  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnTGg1TFctT3RZX1NiRElZQjJ1YkhObm52VmhqOWl6MDg1Mm9zQ0xLSzdvVnV2anRVZ0FVYnBWRkJhekJyNGpXaUNxMWZTajJVZVR3enBSb3dGQQ?oc=5",
+  "date": "Wed, 29 Jul 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Honda%20ADV%20160%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -1432,21 +1402,6 @@
   "stage": "Detected"
  },
  {
-  "name": "Retail India News",
-  "category": "General retail / office",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "Retail India News: Window Magic Opens WM AURA in Delhi - Indian Retailer",
-  "source": "Indian Retailer",
-  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQjFIcTNaRThaMWFyNHZCTUVXbEwxd1VSN0FMRmRkVnVRMzV1T2htU1didExqTnVoaG1uTURoZEw0TDZzRjlYdi1pOWZzbEZveWtlUU5EM1hoNjRoTlhxNzRqMm1BVnBuTmEzdUtJbVdjSTBqNXZGZEphN096aTdfaThPVndDM2xOOHdGZ3FNYw?oc=5",
-  "date": "Thu, 02 Jul 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Retail%20India%20News%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
   "name": "Marie Claire Paris launches first salon",
   "category": "Fitness / Salon",
   "city": "Lucknow",
@@ -1489,6 +1444,51 @@
   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHT2dIWUg4RG5IRUYtOHB4QURrSGluR1ZGVUJhTVgyRkwxQXRMS0wwZTBERzhwMVJCWkFqaVA0aTBIbko4WHN6YU1kMEFObW93OTc3N1Q2OE42TnBJX2U5dG1B?oc=5",
   "date": "Thu, 13 Aug 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=The%20Indian%20Garage%20Co.%20Opens%2021st%20Store%20In%20Guntur%2C%20Accelerate%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
+  "name": "Lab-grown diamond jewellery brand Aukera raises ₹90 crore",
+  "category": "Jewellery",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "Lab-grown diamond jewellery brand Aukera raises ₹90 crore in funding to accelerate retail expansion - ET Entrepreneur",
+  "source": "ET Entrepreneur",
+  "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeWd3ck4wUGczTzhwLU9MUE1zR25NbDdBT1FSbjF1MXdpY19VbWE2bXFIOVFmQ3U3c0FTWC1la3V0VHBLdFVreFlMRGpyTGExSWtSYldVZlFjX2hodjNmdENLaURuSGtxcS16RksxVmFEb01KZ2FuR29ndC00RWxPc1dqd3FpTjJPckFUd3RnLUJTSkZMQWdVVmZEZXVRYzdMTDM1bFQtU05EVnVKbDM2VGlqOTNMM2JENmt3VVd5amdNQkpBX1FtNzF3WUxiYU5naXBqVWRLcVVxaWtja1lUdNIB5gFBVV95cUxOMnlSQUx0QW8wblJuMldnUW9sY0dlQThMS1o1NjMzYjhEMEJzemlKMjQyMklFSF9aX0FteEJpYjU2R3VyTUtXRVUtT3A0aEtXMEo3OVRCTVc2U3pMSVZSaHh3ZjM1OFA5dFV2OUhWMk9CRVRlZHUtcFpYT1E3bkozb2Q5TEZoT0hqenlWZ0l5Ym5GWUVvMzkxVU1PY0hndHRxcno0ZXc0aUFwdXVVRW9QWWhOMnVxSzRVc1FFYVBPcm5kRUp6MVg2a3Y3LUhnV3ZmRWh1dmE1cGZMaFhubmhaYUwxSElnQQ?oc=5",
+  "date": "Fri, 10 Jul 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Lab-grown%20diamond%20jewellery%20brand%20Aukera%20raises%20%E2%82%B990%20crore%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
+  "name": "Retail Expansion News",
+  "category": "General retail / office",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "Retail Expansion News: HiLITE Group Opens First Countryside Retail Destination in Chemmad - Indian Retailer",
+  "source": "Indian Retailer",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT2pDbXc4YjVGMmk5TThHUkZMWmRKU2lNYjhDWXdkLVkxajV1cXlfUWF6NUY0bE9wOVZpaldRYjBlZkVuZy1MLThhTm0wcUdXc0dZbUFmeW1DcHRrTVppMFQ3RGZCOTh4UzBFdF9GVGdDS3RxOVdrS2NsdXdvaWJ2YXJ1MkxpS1N4czAxUEhJOFZSUDBGQkhYZEVsQUdEYmM0?oc=5",
+  "date": "Fri, 26 Jun 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Retail%20Expansion%20News%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
+  "name": "UP’s infra push",
+  "category": "General retail / office",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "UP’s infra push: Foundation of the best - The Times of India",
+  "source": "The Times of India",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb2UxeVM0Ul8xLW4yaE1saENrVV81cE9GT1ZsWGNYRTY2X0w0T3M5QVE1WU54bDhqNU84eWFHb3V0UFNvTVZvQkJuZkVPSjV1OXZVakQ5WmpqbGtLcTJ1SkVlZG12LW5kcV8tUXVCSVItWmJ4alF3el95XzZrdG5jVjdUeXJqenZaSXhtd2piZHRFeG5TSEJCdkpIVV9jZ2M4c1J0TG5OWG9SN2dCUE1VSFhB0gG3AUFVX3lxTE5MTGxpN2dyYWxFZnRrRjgyYk1Bb2pCY2drbk1Xbm1kbE85R2F5OVRVUXR1clJ5UVdsb3dPSGQ3TW1QaUljVjlPNzZSS2dZYVR0UXYyNWFYNVNQYTk1ZEJmajRnbmY5ZEw2TURTSkZWYjRwVUd1Vm55Yk13Zm45c0xrYmdaMUNpU2ZVOWxFUVhMaEFKUGk1NjRYZldTSHJ3eDgyaFVyMTJxVV9qTUdxUUZRZFlleHlmOA?oc=5",
+  "date": "Mon, 27 Jul 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=UP%E2%80%99s%20infra%20push%20expansion%20real%20estate",
   "stage": "Detected"
  }
 ]
