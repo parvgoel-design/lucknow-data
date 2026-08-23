@@ -472,6 +472,21 @@
   "stage": "Detected"
  },
  {
+  "name": "Franchise Industry News",
+  "category": "QSR / F&B",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "Franchise Industry News: Haldiram’s Accelerates Business Growth Through New Uttar Pradesh Outlets - Indian Retailer",
+  "source": "Indian Retailer",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc25XUTZ2bXVldUx4NTUxVldKMDN5enM3elZtYU1nSlVZcE9Rc1E5UkVfLXhjMC1SRzc5Z29oOElnd0hJQjZzRmdqbVQ2UWlWUFROR28ybUxIdDNuQWE5aF83YjRuNUQyVzZEem5PTlU1WHVPMXA4SjlOakY3NENkTUQ4RDRoR2pDRU1MaEMtQXZBWlU4WURXVWlvbzJoYnJhTlh0VHc1d1N2YzBYb3pMTXNEcEx4OTlFQ1Judmp2SDJpYy1nX29N?oc=5",
+  "date": "Thu, 02 Jul 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Franchise%20Industry%20News%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
   "name": "LDA orders to raze Aliganj bldg after fire tragedy",
   "category": "General retail / office",
   "city": "Lucknow",
@@ -562,36 +577,6 @@
   "stage": "Detected"
  },
  {
-  "name": "Aukera",
-  "category": "General retail / office",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "Aukera - Indias solitaire experts, now in Chennai - TheWire.in",
-  "source": "TheWire.in",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSzh2NXhpcDlDajBTd04xbFdIVjJDR3N5WWV2cnRfYnczbzFrVzh6SUpuVjNWYnlDMnhVX1FjQmJfNlpEeGFBeVM3V2xZWXFhdGc5N3BHQkZSTGVVdVhzZ2pGMmgwcDJCcjRHc1dBYW5wYi0yZDl4WU9UY0tqTEg4NmFxWEZsTWY3WlMwWTRR0gGTAUFVX3lxTE9yczZSZDFlMk9QRVktWGpKaHFLYkpfY2Y2d29KTlMwNWR2MUhwZTJyMVpyTVplenVnVXNyVFRUM00zOWFYbTZkOGg0UzFLYzBPR1RPR3JySVRkaDY1bS11Y2NUOTVQTTBkck40Tmhjd3l3eHNLZFdqOVBXRTlycFliVFg0YUpHRkFnWFBUekxlbXZWSQ?oc=5",
-  "date": "Fri, 24 Jul 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Aukera%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
-  "name": "Ashpveda Strengthens India Expansion with New Store Opening",
-  "category": "General retail / office",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "Ashpveda Strengthens India Expansion with New Store Opening in Bilaspur - Indian Retailer",
-  "source": "Indian Retailer",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNkRQa1FNS2RkNWFnVmVnMlVUNkdrMlBldlo4X195clRZLTBrLS1ydWU3c3dSaW8tVTlhVXFGR0hBYlBSV2ZQRXZGVkZfQjJLU3h3ZWxLLUlaX2tDaFdSX3ZDaDA4ZWM4VVpfN3ZvNndibFRWcDRDQ0JYVlJWd2pNNUREQnZ5MGtFSG9RdV9aaFNXYzd3SHAyQVZLNjBiUlZC?oc=5",
-  "date": "Tue, 30 Jun 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ashpveda%20Strengthens%20India%20Expansion%20with%20New%20Store%20Opening%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
   "name": "Aukera Raises ₹90 Crore as Lab-Grown Diamond Jewellery Marke",
   "category": "Jewellery",
   "city": "Lucknow",
@@ -622,18 +607,33 @@
   "stage": "Detected"
  },
  {
-  "name": "Starbucks India Rival Blue Tokai Aims To Triple Store Count",
+  "name": "Fake medicines worth ₹5.43cr seized; FIRs against 32, two he",
   "category": "General retail / office",
   "city": "Lucknow",
   "person": "",
   "budget": "",
   "space": "",
   "locality": "Lucknow",
-  "signal": "Starbucks India Rival Blue Tokai Aims To Triple Store Count In Four Years - NDTV Profit",
-  "source": "NDTV Profit",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUXV5UlA0RWN5ZmZrRGRIVE1xYmp0SGh6TEFCa2VxY0EycjFsYXN2NlB2M2d1MFBkRXhJN2xzSzU3a1NVMW1KM01FMmdXclFJUW1TSUI2bVNpSjBmM2p1TzctQmJmTXE2dGMzSkVvcDRJd3hLLWkzLVpwaUhGN1N1ZTVENVpKR2JhekhTUXA3WjdOQVNZS2ZSUjNtZE9ScmNadzNuNVM1RllRbjFqRnRKTlpJZnVib1dVekHSAcIBQVVfeXFMTjFOVXl6SjhpRy1oeEo2cTlFZ0tiWUVrX0pFckNONzkxU0tiWDNBUXVKaV9ybm5BbDQ2dU54Z2tFb1RSZWFzMnhaZzlicVhfcHhUNlgxWFpwZ2VMdnhUaUs5Tl92eHRYX1VybVhqUEJMQ2RPOUFZaGxRNWdUTUhKeFJza3pHbHIxSWc3M0lLUHhCVkVMbkc5d2pMQlZRSC1BdWVJeFlSODAzTm1BT3lxZTE1ZURUbVZfU1F4VVdEOHJUeHc?oc=5",
-  "date": "Wed, 08 Jul 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Starbucks%20India%20Rival%20Blue%20Tokai%20Aims%20To%20Triple%20Store%20Count%20expansion%20real%20estate",
+  "signal": "Fake medicines worth ₹5.43cr seized; FIRs against 32, two held - The Times of India",
+  "source": "The Times of India",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMmplZ0RJOWRISlZtV05YR1UwOTN3ZW4tRTMwS1VfaGpzcFExWDhOd0h4R1JhTXVjMVNLNlhMeEZZblNMTGluZDJwMUhvZUd2NnBQMkpnci1Kd01RZGlBaHNobExCUUhhc3lITHcwUzdiN0Rhc1FadzR0cDlBNElkcHZTbFBXR0V2MUJNQXpKVXdSZjk4S0ZESTFOYS0wMDJjYzZhb1ZpNVZqUHp3dXU4ZG9nRUVuZXhRc1JjN1dHZ3RDZFZRUEpmdkhHUnZ4ZFXSAdQBQVVfeXFMUDJNZXVvdWRRSVlDZDlUb3FHYmNrTUtVRTFycEJlS0dmLXZRaWRMWlZkb01fSmtZNTFpeC1Vc0R2dzNaYzR2UTdXWmpCdTdwTUotdk8zaTlPMVU0SEc4eGprWU1fbjNMSlk3aHUwdUZRbVdPYU83VUlHUmJYTUV2Y1ZZaTVlLWtKYVFkdnl1SVVrSXBMRTgxWEdQR0QtbHBSZUsxa1VWdXl1RnJqR0F5aGV1Wk9xVW01a0VFcXdxclBEd2NINnlDeEh1YTVhRW5CYld1ZDk?oc=5",
+  "date": "Wed, 19 Aug 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Fake%20medicines%20worth%20%E2%82%B95.43cr%20seized%3B%20FIRs%20against%2032%2C%20two%20he%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
+  "name": "Aukera",
+  "category": "General retail / office",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "Aukera - Indias solitaire experts, now in Chennai - TheWire.in",
+  "source": "TheWire.in",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSzh2NXhpcDlDajBTd04xbFdIVjJDR3N5WWV2cnRfYnczbzFrVzh6SUpuVjNWYnlDMnhVX1FjQmJfNlpEeGFBeVM3V2xZWXFhdGc5N3BHQkZSTGVVdVhzZ2pGMmgwcDJCcjRHc1dBYW5wYi0yZDl4WU9UY0tqTEg4NmFxWEZsTWY3WlMwWTRR0gGTAUFVX3lxTE9yczZSZDFlMk9QRVktWGpKaHFLYkpfY2Y2d29KTlMwNWR2MUhwZTJyMVpyTVplenVnVXNyVFRUM00zOWFYbTZkOGg0UzFLYzBPR1RPR3JySVRkaDY1bS11Y2NUOTVQTTBkck40Tmhjd3l3eHNLZFdqOVBXRTlycFliVFg0YUpHRkFnWFBUekxlbXZWSQ?oc=5",
+  "date": "Fri, 24 Jul 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Aukera%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -652,18 +652,18 @@
   "stage": "Detected"
  },
  {
-  "name": "A complete list of dry days",
+  "name": "Starbucks India Rival Blue Tokai Aims To Triple Store Count",
   "category": "General retail / office",
   "city": "Lucknow",
   "person": "",
   "budget": "",
   "space": "",
   "locality": "Lucknow",
-  "signal": "A complete list of dry days in India in 2026 - Condé Nast Traveller India",
-  "source": "Condé Nast Traveller India",
-  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yUFg4RTU4aEp2VkVSWDJSNHQzNzZMMWhLYTJPZjBXYXdLYkdDcmxVanBYU3VsQWtrLXhkcmtJV2htdW5TbnJJMXJ6LWM3SE9FVXg1RWVOSndFWnZQeEMwZkRiM3pSWVNNWlVKbVpfeTdiaXVxd1E?oc=5",
-  "date": "Sat, 01 Aug 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=A%20complete%20list%20of%20dry%20days%20expansion%20real%20estate",
+  "signal": "Starbucks India Rival Blue Tokai Aims To Triple Store Count In Four Years - NDTV Profit",
+  "source": "NDTV Profit",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUXV5UlA0RWN5ZmZrRGRIVE1xYmp0SGh6TEFCa2VxY0EycjFsYXN2NlB2M2d1MFBkRXhJN2xzSzU3a1NVMW1KM01FMmdXclFJUW1TSUI2bVNpSjBmM2p1TzctQmJmTXE2dGMzSkVvcDRJd3hLLWkzLVpwaUhGN1N1ZTVENVpKR2JhekhTUXA3WjdOQVNZS2ZSUjNtZE9ScmNadzNuNVM1RllRbjFqRnRKTlpJZnVib1dVekHSAcIBQVVfeXFMTjFOVXl6SjhpRy1oeEo2cTlFZ0tiWUVrX0pFckNONzkxU0tiWDNBUXVKaV9ybm5BbDQ2dU54Z2tFb1RSZWFzMnhaZzlicVhfcHhUNlgxWFpwZ2VMdnhUaUs5Tl92eHRYX1VybVhqUEJMQ2RPOUFZaGxRNWdUTUhKeFJza3pHbHIxSWc3M0lLUHhCVkVMbkc5d2pMQlZRSC1BdWVJeFlSODAzTm1BT3lxZTE1ZURUbVZfU1F4VVdEOHJUeHc?oc=5",
+  "date": "Wed, 08 Jul 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Starbucks%20India%20Rival%20Blue%20Tokai%20Aims%20To%20Triple%20Store%20Count%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -682,6 +682,21 @@
   "stage": "Detected"
  },
  {
+  "name": "A complete list of dry days",
+  "category": "General retail / office",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "A complete list of dry days in India in 2026 - Condé Nast Traveller India",
+  "source": "Condé Nast Traveller India",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yUFg4RTU4aEp2VkVSWDJSNHQzNzZMMWhLYTJPZjBXYXdLYkdDcmxVanBYU3VsQWtrLXhkcmtJV2htdW5TbnJJMXJ6LWM3SE9FVXg1RWVOSndFWnZQeEMwZkRiM3pSWVNNWlVKbVpfeTdiaXVxd1E?oc=5",
+  "date": "Sat, 01 Aug 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=A%20complete%20list%20of%20dry%20days%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
   "name": "Banana Club Expands Retail Footprint With 21st Store",
   "category": "General retail / office",
   "city": "Lucknow",
@@ -697,6 +712,21 @@
   "stage": "Detected"
  },
  {
+  "name": "Buying a home",
+  "category": "General retail / office",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "Buying a home in Noida? UP RERA notifies new IFMS rules — Here's all you need to know - livemint.com",
+  "source": "livemint.com",
+  "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQYTlpUXBKdHBIWWNHOFRhcW91YVhsR0k2cFlMdzBNWlk1ODJsdWd1ekozZUhsYlk5WXBsZGxPbHNMdHdkaXZXNUdCQ0dHMl9MZTloOUNubkNjMW5PT0tYcGVUTy1WU01EcTF6MHJmZGxILVAyLWd2VmVLa2NkaUpVSVp4U2M0aXNaRWN0WEF5eFItdUZZZWYyeW9SVWRxdnlKcVk5ZDA3S0pnNUdCQk5lNVhqcDlJU185S1hWUGhGYWZ2ZlhIM21iY3Eya1RZOXBTajB6czhhT01wOExTUmI3R2wtbGpMV0ltQ09YR1E1ZmFpSXJnblNyT0szellDSEFrRF83VHJhdWV0VEJORHpOMkE1alkxLU3SAZwCQVVfeXFMUGt2LTJaQkpoZHowd2R2cFd4V1dSTDBmYTQtWV9qZFUycGpHeFBqMEltN2dvc1lWdzNkNDBQamtrVE9OOG4yWWswWjVZT0ZvZXlwRUNmVnhkamV1bUdLa09uQjh2dmNtenJXQjdoOFc5UHlkeW5hMW5CU0RzNEoycTI3OFZpQWhFTF9WSFlUS2xhOVV1U3ZsUUJFRU5YcnlqbWctVDJDWmVjNzFKZlNhUVJNQVNnd2paVHI0bWNFamlPZGpYWmVTVktaRGp4S3JVbUFScDdlbW12ZGkwM2p2VHd4Um5FWU5KN2VxRjdmYlpDcHB4TFpSMEVYX0RxSHB5VmNNU0FrYkdwM001cFlNaUlOVUt1RWYxelVnRG0?oc=5",
+  "date": "Tue, 18 Aug 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Buying%20a%20home%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
   "name": "Senco Gold Launches House of Senco Store at City Centre Sili",
   "category": "Jewellery",
   "city": "Lucknow",
@@ -709,21 +739,6 @@
   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcHBUSTZ3MXRuZndGRF95STZTOEFZY3FMTzFxN0VWZWRROEZ2QzR2U1pHX1lFaWxKRFFuVWdjYTFnNERKbmVzQmhuLXRCdEhldFpfazB0UGFGSzB1R0dMT1huRG9QRUpoLVkzMTh0MTZ2em5sNUIwT3lvb21xc1IwQ3NDRE0zT2FMVGcwNTJzVjRNQjFiU3l0enFB?oc=5",
   "date": "Sat, 04 Jul 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Senco%20Gold%20Launches%20House%20of%20Senco%20Store%20at%20City%20Centre%20Sili%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
-  "name": "A World of Luxury Awaits, Ospree Duty Free Opens Its Doors a",
-  "category": "General retail / office",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "A World of Luxury Awaits, Ospree Duty Free Opens Its Doors at Navi Mumbai Airport - indiagazette.com",
-  "source": "indiagazette.com",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWWRkWXoxMmVBNE9hUnhzdHFrdEZ4MERibjdSS25LODZFN0lnTFY3VzItUVc4MVJDeERweUU4ckt5cGxJUmNkVmFaeHhZdHhSUkNwalNjajNYNGlpWmpFYUg5UXhzdHZJdnRMcDRHYjlkQjUwWERuS2wxMHpLODVmREExTjRjaWlja29GSjlYT2M2MHJ2bnlSSVFNZUw3TlVIUEJfZS1idUFqaWExTUJPRW9hVzVjX3FHbXpvT1Y3S2YtQQ?oc=5",
-  "date": "Fri, 31 Jul 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=A%20World%20of%20Luxury%20Awaits%2C%20Ospree%20Duty%20Free%20Opens%20Its%20Doors%20a%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -937,21 +952,6 @@
   "stage": "Detected"
  },
  {
-  "name": "Mercedes-Benz Expands Luxury Retail Network with New T&T Mot",
-  "category": "General retail / office",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "Mercedes-Benz Expands Luxury Retail Network with New T&T Motors Showroom in Lucknow - Machine Maker",
-  "source": "Machine Maker",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbWNiQy0xck8ycW9OMlNpREMxbkFxcG5xVmtIOGVkbE1JZ3JObUZXVVhLNFhTQ1dUaGR3R2NmYjI4VHgzRmpfS0trOWMxVUpUNHZ1YXRNbjh3MjE1T2puVU4yWjlrYklycnZ2MFhjWTlWbGItcWZrcG9yamJVdll3ZzlYWXdGOHNrTDlqSGxJdzZKMG1UMzBTTFlVRkpuZDFNY2J6SFpIZDhvd3U0U3NSSHEtSllmV2s?oc=5",
-  "date": "Tue, 18 Aug 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Mercedes-Benz%20Expands%20Luxury%20Retail%20Network%20with%20New%20T%26T%20Mot%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
   "name": "Yamaha RayZR 125 Fi Hybrid On Road Price Lucknow Aug 2026",
   "category": "General retail / office",
   "city": "Lucknow",
@@ -1114,21 +1114,6 @@
   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdzczNVV2LVh5ZS1BbE1HYXVwbE9uNGFaZXQ4RndFampBa2JqOFZNczdyTU9tVTZaaURKbEFrUnhFNndXal90V3poanV3LTFvdTZLSzJDcjJ0bHl4NF9jS2RUQkZvWHNOQWt3YU9ralkwSzV4ZHlndVVWMlNSRUZ1bzhJaDd0WlVXd21wNmgySWhsZnM?oc=5",
   "date": "Tue, 18 Aug 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Royal%20Enfield%20Classic%20350%20Gorkha%20Edition%20Launched%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
-  "name": "Franchise Industry News",
-  "category": "QSR / F&B",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "Franchise Industry News: Haldiram’s Accelerates Business Growth Through New Uttar Pradesh Outlets - Indian Retailer",
-  "source": "Indian Retailer",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc25XUTZ2bXVldUx4NTUxVldKMDN5enM3elZtYU1nSlVZcE9Rc1E5UkVfLXhjMC1SRzc5Z29oOElnd0hJQjZzRmdqbVQ2UWlWUFROR28ybUxIdDNuQWE5aF83YjRuNUQyVzZEem5PTlU1WHVPMXA4SjlOakY3NENkTUQ4RDRoR2pDRU1MaEMtQXZBWlU4WURXVWlvbzJoYnJhTlh0VHc1d1N2YzBYb3pMTXNEcEx4OTlFQ1Judmp2SDJpYy1nX29N?oc=5",
-  "date": "Thu, 02 Jul 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Franchise%20Industry%20News%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -1474,6 +1459,21 @@
   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZdmZJOU1NampLZEozRWUzRkFDcHo3S0RvSWRVYVM5TGx1QlBBall5YjN2dnlGSTBuZGJTMjlYalhyb25nMGVGTGRJRndSV3lNaDZtUFZvMHc2eDBuMXB6SVphNnV3bWs4Z0FpWFN6cw?oc=5",
   "date": "Sat, 27 Jun 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Retail%20Word%20of%20the%20Day%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
+  "name": "Omaxe rallies after unveiling Rs 6,200-cr hospitality",
+  "category": "Pharmacy / Health",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "Omaxe rallies after unveiling Rs 6,200-cr hospitality expansion plan - Business Standard",
+  "source": "Business Standard",
+  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUTZlR3NRTU84VjNudWh6ZTlKRE8zbzBvcEFHdmtQQ2RjdmZjNnNSWTM5MTk0V2VFRTZIOFluUDBCYkhTc2lxV1RQcEtMN3dnaDZDMExvQTQ2LVh0YnRvdW5LQ1NUSUt4UlJYZDlhTmhQSGs0dEFycDV3NzUwNHdRZHpQNVpnWEpGbW5lNjdOWTVWb3hiVmhldzdja1d1X2twY3hWTU9iS2tabWhmZ09IYjBIZG4xTTBlZ3g1XzVrX0IzWUoteFBxdmt0WTRIblhYbldRTjg3dzRaYXdBTEc4enJmbG_SAeoBQVVfeXFMTm1NMXVOdzM4MlVBVFpyOGphaGljUlBncU92c1BXazBoay1YcVBJZ0ZtZWZrLTNnY2poaFVuYVlsd09kSjZ0VVVKX1FqMXJuZ21ncndTczl1dGZ2WkJTdHB1VU5ZZFZVWmNoSk9tazVlMVlYYktDMWdPOUY3cTc0NFZJalZfMGM1aEs1OVhvVTR5UFRnTl80bDRYWDNrVWNzdFB1eGVrblByUU1KNC1Bd052RzY5di1hZ0F1YjFRaGxMN3lCeHNCNXpOcXMySTBVSU1iYnJrRXFrbEh1WVdRS0J0QWJiUHluNGh3?oc=5",
+  "date": "Mon, 29 Jun 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Omaxe%20rallies%20after%20unveiling%20Rs%206%2C200-cr%20hospitality%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
