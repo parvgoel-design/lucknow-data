@@ -457,36 +457,6 @@
   "stage": "Detected"
  },
  {
-  "name": "IRRA Luxury Living Opens New Mumbai Design Studio",
-  "category": "General retail / office",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "IRRA Luxury Living Opens New Mumbai Design Studio - Indian Retailer",
-  "source": "Indian Retailer",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRXpyaV9lWDZvSnpiajdsWDBFd20zRWRsUHpPQURzQS1CRG8zQjlMOHJuU3pWZkwyRkZwWlFXdjZ4QnJHNUl4SzRUZVJyc0xIOTlTTkdXYTFWcGVqeHV6UGY1M1M4THJxdXczMFpIWGZXdVhjRXFsQk9LODBnRFVRN2xSa2pwY2w2N01wdndn?oc=5",
-  "date": "Tue, 18 Aug 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=IRRA%20Luxury%20Living%20Opens%20New%20Mumbai%20Design%20Studio%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
-  "name": "Odette Launches New Outlet",
-  "category": "General retail / office",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "Odette Launches New Outlet in Bengaluru, Reaches 50-Store Milestone - Indian Retailer",
-  "source": "Indian Retailer",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY2Zod3FYdzVqNFVnYzNicEpKQTYxNDFOUWlmUl9aTmRlemRtb1RrdlI5WkV3WU53bEtLOVdoTzRVZ1E5T3hMUWJZV1VMVVZKeC1SM0cxU2FnMGxhOW9zTWliZW9EWGcxeVNDczNNUXdKTEpzLXZ4MS1KMlF0ZVFjODZSek9iVlowQkFSWk9seGJQZGYzc0tidDJMSllERmhH?oc=5",
-  "date": "Sat, 29 Aug 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Odette%20Launches%20New%20Outlet%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
   "name": "Ekatra Retail Ventures Bags INR 10 Crore Investment for Reta",
   "category": "General retail / office",
   "city": "Lucknow",
@@ -502,21 +472,6 @@
   "stage": "Detected"
  },
  {
-  "name": "Retail India News",
-  "category": "General retail / office",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "Retail India News: Hisense Opens First India Experience Centre in Gurugram - Indian Retailer",
-  "source": "Indian Retailer",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVHFMUG9KVXF6eDZWTzlXMjRZc3BjdGkxUzl1amdWaUZfVXRvZ3BxTUROOHQyVmJ5c3VGZDg4TmNhS19TdjNQb0xyY1NJYUZiN3F5bmZZUWtENXlWNjNSY0N6UjFFS3NlaWJDY0lkcWFJOExtWTBYaUJWZXN0TFNja19MNkN1QnNDWkc2TnVPTm9fWmtLYkRPNTFqOU8wWGtwRXlRSjF5WGRYQQ?oc=5",
-  "date": "Wed, 19 Aug 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Retail%20India%20News%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
   "name": "Aukera Raises ₹90 Crore as Lab-Grown Diamond Jewellery Marke",
   "category": "Jewellery",
   "city": "Lucknow",
@@ -529,6 +484,21 @@
   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX1REdnhZQ3lNeUFKTksyU1MyblJUaFVrT0RIR3htVFlHRWZYWEdIWEFBVjhtM3JydVZHVmNLQU5pdU9McXJOMXFfdnF3dnZLQjRTZDlCOEl2dFZVNDVQaFhZN0FReFpXU092OEh2WDBsSUMzUG9kekpXbUVJZUw3eG5zUVZrbTdtZGtuSDR1UzZzaENwWkI4NUtUakNON21CM2tiZjZnTzhQakdZeUlDb2FRaDFLUUJqNlZHNTJmN19lS1VxZUtF?oc=5",
   "date": "Sat, 11 Jul 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Aukera%20Raises%20%E2%82%B990%20Crore%20as%20Lab-Grown%20Diamond%20Jewellery%20Marke%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
+  "name": "Apparel Group and Marquee Brands Launch Ben Sherman’s First",
+  "category": "Fashion / Footwear",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "Apparel Group and Marquee Brands Launch Ben Sherman’s First India Store - Indian Retailer",
+  "source": "Indian Retailer",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNWtCX3g5RGd5QVQteHpLdWhvRHBuM1VjNzNKTlQ4WWFGUU5qR1p4WnlPSllfMlVvUXYzajBCQjc2WXh4N1N6SEdxQ21kbFBmY0x6Ums5aDdDNVVFc202S2NfeUFHTVcyRE1xNnFzZjBTY0xNNTQ0THZGOWladmN5S0FkT3M4QVBjYktzcG1sY2tnSWlvQkFJWUVzNGlEaS0waWxROW92N1M3cFdSSmJBN0p2UmtTY1FLYy1udjI3Y0lFVWdGN1FMTmN3dWpoUkU?oc=5",
+  "date": "Thu, 27 Aug 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Apparel%20Group%20and%20Marquee%20Brands%20Launch%20Ben%20Sherman%E2%80%99s%20First%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -574,6 +544,36 @@
   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQX0lWdGxnY3JuRVRES0ZqcU8xOUpxVnZtTVl0NmRpNW1xNG02UDhYc0U2T0stV2RZS2tnLUgxb1dwSGdPNFE2aXBocXE5SjZ2MWNQVUJEZnBzRDJ2UDZmREZaTGp5Mlc4YXBaY1QxMG5VOGdQV2Z5WWxGd3RkSjBUVmU2Y3luYi1UTjNOYWpLQkpianloXzJhYkpqOHBUYXpwWVozalh4Z0tIZkU0U0NnNXktZWx5MUczMTRpdFdFRGpqNEFOb0xRTXZhN1JmbWRYT1c5VEg1ZFAwcUEyTzU2etIB5gFBVV95cUxOMDlLd2h6SWZzTEt0YVcxMlR1LWh6SFVxRXpUZkx4aEVqamZaY3dOR29DOWxMN1BUM1UxMU9NaG5YdGhuQmM4Y2c1U19kWXM2ODdKU2tjQXN2dHZRS2p2V1FocFJydmVLRjlyejlwNU5MZzAtMTJsQ2xlUjdwLTF5XzVJUXVnaDJfMTQxakNVeTdlN2ZjbWdJRjVwSk93Y1VPMENORUl3N0dPTWlpZkpKX2xNb3JaOGNoZktxaWRfTWpFYXBYcUVPdk5uUDRrRl8zYjVmcjE0Rl9pZGd6V3ZfTnAzNElhZw?oc=5",
   "date": "Thu, 16 Jul 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Governor%20orders%20Bhatkhande%20University%20auditorium%20upgrades%2C%20b%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
+  "name": "Retail India News",
+  "category": "General retail / office",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "Retail India News: Domicil Sleep Opens First Chennai Store in Anna Nagar - Indian Retailer",
+  "source": "Indian Retailer",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWEhKVk1ZeEkyMTRZakpxa2NCQ3FGeFdMRHkyUVh3eUZOVUFOb3ZQc3h0OS1hdENVM29BVTNEOFNtNHN4a1hoZ0NjU1NXR1Jjcmxyam1QR1lNRXBGTTBxaGdYc09YM0FPLTU1ck1pejlxcUxUNDJsb2l0X2dNRmUzLWIyaWxobE5tUVhMZElVaU5vQWl0UDNLYldDVF9NZjhBYkJGRzNvbw?oc=5",
+  "date": "Mon, 17 Aug 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Retail%20India%20News%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
+  "name": "Aisshpra Gems and Jewels nudges brides to buy jewellery with",
+  "category": "Jewellery",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "Aisshpra Gems and Jewels nudges brides to buy jewellery with in-store photoshoot campaign - The Retail Jeweller",
+  "source": "The Retail Jeweller",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbk9TbjR6OUtYYVlLWVBfMHlsX3pSTm93VFFCdnF6S2ltMUNoUVY0OUFqV3ptQzhabjJuZXBvVVRCakFPM0RZaTdmekFIbkVvblRralIwY2oxby1rUXVIdnFBWHNodlF3aHBYTnQ5Um5SMlBCZWY1cUo1X096cW1zNk4zT0Mtc0NhRXozXzNBUUo3cWs2cmFJbkh0WUFNWDlTWHJMNDUtRjQ1VUdqY1dOellnbkFQU2VDZjIzZmZNYw?oc=5",
+  "date": "Thu, 23 Jul 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Aisshpra%20Gems%20and%20Jewels%20nudges%20brides%20to%20buy%20jewellery%20with%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -1117,6 +1117,21 @@
   "stage": "Detected"
  },
  {
+  "name": "CASIO Strengthens India Retail Expansion Through Madurai Sto",
+  "category": "General retail / office",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "CASIO Strengthens India Retail Expansion Through Madurai Store Launch - Indian Retailer",
+  "source": "Indian Retailer",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOek1KTjBhZnNoRHVBSDMzLWJJTkVxV1pLYW9iRGtfUlVHazFZRUZoME5Md1lKLThGeWVValBPWlpmazVEVWIzVHNDN2RiQmhzMnRDYVVWejJ6RjhjdzJvMVEwZ3paZkpmRDJnYmVuTkl5RFpucmZjNnBJcnFxX0p3d2dUQUlhSEVYX1VjN2dnbS1vM2ZBYUhjVF9kc2w3aWE1ZzYzVXNhME80M0hyX2YwSzdMMVNWYUtIR3B0RXltbzRPNEs4?oc=5",
+  "date": "Mon, 20 Jul 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=CASIO%20Strengthens%20India%20Retail%20Expansion%20Through%20Madurai%20Sto%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
   "name": "Aukera Raises ₹90 Crore To Accelerate Retail Expansion Acros",
   "category": "General retail / office",
   "city": "Lucknow",
@@ -1192,18 +1207,18 @@
   "stage": "Detected"
  },
  {
-  "name": "Senco Gold Launches House of Senco Store at City Centre Sili",
-  "category": "Jewellery",
+  "name": "Reliance Retail Expands AZORTE Network with New Bengaluru St",
+  "category": "General retail / office",
   "city": "Lucknow",
   "person": "",
   "budget": "",
   "space": "",
   "locality": "Lucknow",
-  "signal": "Senco Gold Launches House of Senco Store at City Centre Siliguri - Indian Retailer",
+  "signal": "Reliance Retail Expands AZORTE Network with New Bengaluru Store - Indian Retailer",
   "source": "Indian Retailer",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcHBUSTZ3MXRuZndGRF95STZTOEFZY3FMTzFxN0VWZWRROEZ2QzR2U1pHX1lFaWxKRFFuVWdjYTFnNERKbmVzQmhuLXRCdEhldFpfazB0UGFGSzB1R0dMT1huRG9QRUpoLVkzMTh0MTZ2em5sNUIwT3lvb21xc1IwQ3NDRE0zT2FMVGcwNTJzVjRNQjFiU3l0enFB?oc=5",
-  "date": "Sat, 04 Jul 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Senco%20Gold%20Launches%20House%20of%20Senco%20Store%20at%20City%20Centre%20Sili%20expansion%20real%20estate",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMHlLOTM4dDJIdzdrZ1NFT2dqUHBGRTdodUkxR0VuazhJeTJJWXJEOUVVXzZFUThNRlFpS3BScW1VeGNBb3VRS1ZGQUk4MHZ5WjRDQmtERTc3dk5oZGRiVFFYMm1helVlMU4ydGlBcTNVaWNCbXF4ZjAyaWZPd1ZoZ21MaUNROEE5dWs4Ty14bTdHekFaRU5iZ21idXA2YVQzOWw2aVRCaFA4dXpJWFJBcnFjQ01jUQ?oc=5",
+  "date": "Mon, 20 Jul 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Reliance%20Retail%20Expands%20AZORTE%20Network%20with%20New%20Bengaluru%20St%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -1474,21 +1489,6 @@
   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb213ZTYyaTJSdkdaVXBiZ1RlTThnQXdwaWttc1dTMkE0WFhXOVNRUUZnLXNIdUQyTkxVSE9YZnlYZEd3c3RmUGc0Vl9taTJpUTk5SnZCZTlZNkJJek5vdkw4SGdNclBwb2EtZ2JpQkRGWnVTYUdJZ2h5SHRycmJfeWc4QUhwa1hFUko1cWtOZWwtRzhlMzI4YUlGQmRrOEp2NkZ2Wg?oc=5",
   "date": "Wed, 29 Jul 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=IPL%27s%20business%20value%20soars%20above%20%2420%20billion%2C%20says%20report%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
-  "name": "How Sanjiv Goenka wOn a lottery",
-  "category": "General retail / office",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "How Sanjiv Goenka wOn a lottery in English franchise cricket - The Shillong Times",
-  "source": "The Shillong Times",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ0JlSWl4M1ZpMFNPc0xvR3FQVHRJeng3clVjUkJrSXhxaEJHcDdDSWZQYUtpMXlPM1I1Nnd4M19kYUlQTWxidTB0dTZ3amVJbWcwcTNvX0JZdF9xZWFxWDEtMmNxZG41ZlBkbVdXMjNubkJ2WTZOdDh2WGF5X3RWZlNuUGdwMm1mbUtWSVJuR0FQR0Q3UWhNWG9jeVpPN2pkZW9J?oc=5",
-  "date": "Tue, 18 Aug 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=How%20Sanjiv%20Goenka%20wOn%20a%20lottery%20expansion%20real%20estate",
   "stage": "Detected"
  }
 ]
