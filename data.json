@@ -183,7 +183,7 @@
   "id": "r8"
  },
  {
-  "title": "UP adds 46,000 new homes in six months, thousands of delayed-project buyers get relief - The Times of India",
+  "title": "UP adds 46,000 new homes in six months, thousands of delayed-project buyers get relief - timesofindia.indiatimes.com",
   "type": "Stalled",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -194,8 +194,8 @@
   "fit": 4,
   "margin": 4,
   "timing": 4,
-  "reason": "Stalled signal via The Times of India",
-  "source": "News: The Times of India",
+  "reason": "Stalled signal via timesofindia.indiatimes.com",
+  "source": "News: timesofindia.indiatimes.com",
   "date": "Sun, 26 Jul 2026",
   "phone": "",
   "lat": null,
@@ -204,7 +204,7 @@
   "id": "r9"
  },
  {
-  "title": "Gurgaon couple put Rs 50 lakh savings in Raheja project. Then began a 9-year fight - indianexpress.com",
+  "title": "Gurugram homebuyers protest after eight years of delays at OSB Golf Heights - Prop News Time",
   "type": "Stalled",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -215,17 +215,38 @@
   "fit": 4,
   "margin": 4,
   "timing": 4,
-  "reason": "Stalled signal via indianexpress.com",
-  "source": "News: indianexpress.com",
+  "reason": "Stalled signal via Prop News Time",
+  "source": "News: Prop News Time",
+  "date": "Wed, 26 Aug 2026",
+  "phone": "",
+  "lat": null,
+  "lng": null,
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTlVma3BRMVZmRU9rZ3hwTXpUMVJDWFVNai0yRmNVdktDQTRVVkczSlJwVlJzcV9tR203eGM1S0Fqam5PMGl4WnNmTlpiWGRjUDY4bnpMeEY3aEgzNDZhclNlYlNMcng2Z3Y2Nm9pSk9BcWRiM180X0w3VzF6YUp4Nkt5eE4zSWxLZlpfak9wQndqSG1EeHdyMGF3bFNqVHc1dkpYbEUyTS1QZEY5OVRTQU5PZlVOdDdVcm5ablhOVkl6dmhWZWc?oc=5",
+  "id": "r10"
+ },
+ {
+  "title": "Gurgaon couple put Rs 50 lakh savings in Raheja project. Then began a 9-year fight - The Indian Express",
+  "type": "Stalled",
+  "city": "Lucknow",
+  "corridor": "Lucknow",
+  "price": 0,
+  "rent": 0,
+  "area": 0,
+  "distress": 4,
+  "fit": 4,
+  "margin": 4,
+  "timing": 4,
+  "reason": "Stalled signal via The Indian Express",
+  "source": "News: The Indian Express",
   "date": "Fri, 04 Sep 2026",
   "phone": "",
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYWNJVWtDRjNjYmJMTWJoVHppMFJmNDRpR3YxY3E4c0ZPYTdHMkowbmxqVVNNYWRDbWFCY1RESlE1QzExSGhOLUl4VFdWRU9uTUNGT1pVZXBacnlVbHBuRUs0V29GNHY4aV90YlplS1R0NVcyQ2Y3QzFhLTEzcUtJODhJZ09FaWR1U19FVkNwc0NkX3ZBVXpLdUNnbm1idWRPb1hVd1BzV21fQzNs0gGzAUFVX3lxTFA4SHJFT3BaaXh6Q3Q0dm5oNmpJWGRFYVNPWlZab0YyUDdLUG5JbVBoVlRheUpkMENhNlZIV3JncmNXSmNadlpYa2lRV0w0VFh4cWoyU19nMzdza3l3OGtwNEw1aV9mcF9DU0JxMmxYUXN5eE1vSWhVbW4ySUZibjRsQzVIRDRHV2tNVXpVOUFsek9Xc0NaNEU2TUdCcWNvbF9teENodmNaSVJ2VlJjSmx2bHlV?oc=5",
-  "id": "r10"
+  "id": "r11"
  },
  {
-  "title": "Project stalled after co loses registration, Rera orders ₹14.5L refund to homebuyer - The Times of India",
+  "title": "Can homebuyers seek a RERA refund after a real estate project enters insolvency? What NCLT Mumbai said | Real Estate News - Hindus",
   "type": "Stalled",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -236,17 +257,59 @@
   "fit": 4,
   "margin": 4,
   "timing": 4,
-  "reason": "Stalled signal via The Times of India",
-  "source": "News: The Times of India",
+  "reason": "Stalled signal via Hindustan Times",
+  "source": "News: Hindustan Times",
+  "date": "Thu, 17 Sep 2026",
+  "phone": "",
+  "lat": null,
+  "lng": null,
+  "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPc00zQ2ZuM0tGU0RQQjBWRnAzZ2QtbThjRWk4N2N3VDZRUW5NTXdlNUI1SF91aVRwbjRONkNVWWphZ04yaVNqZVo4LUFDYU1DLU44OUd2dHZnZEczWlVrSmd2UkJNS0VSUDhmTl9KcVQtV1l0eWJVeEJ6TUZYSGxzZDNwSktISWRFTVBFa1JqdjFxcXJ1aVNSMjRsUmZrck10QVZKSmZ2R084TEJ5Qm9UNW1HWmZ6VGFsa1E3T2F1YTRUME93YW5wMlhvS21nMTR3anhGUlZ6Tnh6eGpfcXg0RTUxeUxzTTJqbW92ZlpMM0hSUS1LM3pyZtIB_gFBVV95cUxOZXZva3pYZ0FTajZuckdoTVkwZjZtUDFQYTdfdnU5OXhMb1hhOUV4Q3lWck1UTXl6LUVWUDc5TXVQVGE1OVg0bmxVcEkza1licGFpLWhqOG0xQnV5YTJ5LWo3NS1HRmgtakJidVJpeWxkSlUwc0VQUlEyZkkxcFhScmtpT2VNMWxNdEdHQUplcFZTNjZJMF9FTEpER0ZvTnFaTUk0NzhJZWhHamFFOFpxWURDcktMY2NVMlpJeXNQdXV5aDg3VjFHQVA0UERhaFZmalFRaksxWkRKczlMa0xXdGI2QmREQmt5ejY3dzdSZ2FrZzJ0RnZnSWhlcDFGdw?oc=5",
+  "id": "r12"
+ },
+ {
+  "title": "Legal hurdles and fund constraints continue to delay NBCC's completion of 16 stalled Supertech housing projects - Prop News Time",
+  "type": "Stalled",
+  "city": "Lucknow",
+  "corridor": "Lucknow",
+  "price": 0,
+  "rent": 0,
+  "area": 0,
+  "distress": 4,
+  "fit": 4,
+  "margin": 4,
+  "timing": 4,
+  "reason": "Stalled signal via Prop News Time",
+  "source": "News: Prop News Time",
+  "date": "Wed, 16 Sep 2026",
+  "phone": "",
+  "lat": null,
+  "lng": null,
+  "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbmFJTTBZMXY5MWZOZkQ4X1Fzc080RDA4ZGNZdXdKWjVQOFJEQTFvQ3lRMGJYODVEeXF5UFpSNkF1N253QnluMVVfenlYakFtSHJtU0ZoS3FRZlAzSGFUcHhackNkMk84UHR6N2dFekdWdGVOUmNiUmliQk82WDFTY01VZkxJVUZ5T01LY3M4a0Nqb2xpLXFtMklyNUF4ZGFjSmtqMEpPcmRTekhSQl9fWkx2aGJkTXhEMkFHM2pHNm1aSkVrcTQwTnpGR2xHajd6b3hud2M4OWJSYzJMZWVjandEcUd4YWVFWjlUdWpCRExpSDZMb1E?oc=5",
+  "id": "r13"
+ },
+ {
+  "title": "Project stalled after co loses registration, Rera orders ₹14.5L refund to homebuyer - timesofindia.indiatimes.com",
+  "type": "Stalled",
+  "city": "Lucknow",
+  "corridor": "Lucknow",
+  "price": 0,
+  "rent": 0,
+  "area": 0,
+  "distress": 4,
+  "fit": 4,
+  "margin": 4,
+  "timing": 4,
+  "reason": "Stalled signal via timesofindia.indiatimes.com",
+  "source": "News: timesofindia.indiatimes.com",
   "date": "Sat, 05 Sep 2026",
   "phone": "",
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMXI1YU4zVFhycm9yM0c4RkExT2Ztd3duOFZoQlAydXRVOFFSdkI1YjVKLTVaZG5hR3p4X3NJd0doa0dCY2RQYmlMWTA2ZjlzMWFIemhxZ2NQZnFXRjJNRV9GblotZ0p1VzZoV1REYXVCQ191U2dsZlE5LTNaS2s2eXltVkR1OHVXNnoyZG1VYVZySk9IZTRwbUVNLUk1cU5hRUZzdmQ5dlJJM0dkeTZyTVpnZWF2YXc3bnpnbUk2LWU0UHVrd1ZpNjROQUVkbHU2cUp5ODJfTjBtNU1mbURrTFVKbzcxU0JLZXVNOdIB8gFBVV95cUxQMjVod1hKR0FOVU9CdXoyclhDQ21Hem9kQVUxV0xWV21ESnQ0N2U2VVpNWW9uTkFfd0JpOEtzVjlFbDE0b1k5Z3NfR083d1RjZ2dhbmlMcVFCRnFRTTRhMzZrQUVkZEFrLXQ5YTFubzZhZUNiLWN2NGtqQ3Z6TEx2ZzBtSDB3OVRXSVAzY1Bxc1pRMWtwM2tfWkMzcjFhekI1bUhmYkVDZFlnRE9JRy1lMEpvQkwxc21WbDBUeVhiSGV4d0hodEpsLWdoUnNHc0VqVXFQRHhta0U5bmVYU1oybVVrLW5NV3ozV3VaaHgxa1B5QQ?oc=5",
-  "id": "r11"
+  "id": "r14"
  },
  {
-  "title": "Lucknow tops project count, Noida dominates investment in UP RERA report - The Times of India",
+  "title": "Lucknow tops project count, Noida dominates investment in UP RERA report - timesofindia.indiatimes.com",
   "type": "Stalled",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -257,17 +320,17 @@
   "fit": 4,
   "margin": 4,
   "timing": 4,
-  "reason": "Stalled signal via The Times of India",
-  "source": "News: The Times of India",
+  "reason": "Stalled signal via timesofindia.indiatimes.com",
+  "source": "News: timesofindia.indiatimes.com",
   "date": "Fri, 31 Jul 2026",
   "phone": "",
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbHJqb05kMndMRGZoM1AtSXVKd1Zzdjd3empHOHVSR0tTMW5falk5ZTN6azBfZ0tMU0lRY3RNVDBiVzVNNV9WY296M0Q5ZHFyUjBWTTduNEExUFdaUnZlR2d2ZWRsZmF5TlJpN3QxNGx1V0dmMHhWWmI3bWdWLUJXNGFTS1R3czZQSHp4WjR5d3cwb0llVjJySkFoMVAyU1BuSzdiY1BDTjBWT19YM0ZZSFhjN3JORVNjcGt3NGVrVXZ5VFFjcVI1TExIX0dScGR6SVBqYXVxck9YeWpwNndr0gHkAUFVX3lxTE5VOWJLWUFPLXlYa1FqUEVFUHo1TXY3TXYwSVBMQ3hZbUMybVMxSDRlTkx3ZlF1Y2ZYNFhqV1hHdXV0Sno3c3NaVk1NaXpreWNNci00dFlUQ2Q2UkpLOUdtcDR5VkVJOTRKVUtDcGJaS3UxOEJCTHlGbzhxUDRyYy02RHYwV3BtdDVMa1QtS0VwTnE3X0VTYnkzcjJHQUJrbl91NWItcXBqYU9mMUNnc1VCNDdDYlIyMUVsbUJZMU9JRmVqcHJWX203QVhsNWZVX2hpMC1GbTdUWUk5SEstbWRjWF9oSg?oc=5",
-  "id": "r12"
+  "id": "r15"
  },
  {
-  "title": "Telangana RERA Homebuyer Refund: What the Order Shows - urbanacres.in",
+  "title": "Looking to buy a home in UP? RERA clears 10 new real estate projects - timesofindia.indiatimes.com",
   "type": "Stalled",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -278,38 +341,17 @@
   "fit": 4,
   "margin": 4,
   "timing": 4,
-  "reason": "Stalled signal via urbanacres.in",
-  "source": "News: urbanacres.in",
-  "date": "Tue, 08 Sep 2026",
-  "phone": "",
-  "lat": null,
-  "lng": null,
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM1p1M3pWRzR2UFI2eG9wRVJxa3U4WTRzWGNkc1QtcHNncTQ5UTlQS2dFMkRkYVlyMTFxZTNGaF9RbktWT21WeVRjNDR5clNVVUt3YVRBNThnZWk1VXl6a0N2eDhMNk1yUEYxMFV3dm13MmlXYnpEV04yTS1xMG0zcVJFS3MzRHdLWUJlNGgzcm1aNExGQXc?oc=5",
-  "id": "r13"
- },
- {
-  "title": "Looking to buy a home in UP? RERA clears 10 new real estate projects - The Times of India",
-  "type": "Stalled",
-  "city": "Lucknow",
-  "corridor": "Lucknow",
-  "price": 0,
-  "rent": 0,
-  "area": 0,
-  "distress": 4,
-  "fit": 4,
-  "margin": 4,
-  "timing": 4,
-  "reason": "Stalled signal via The Times of India",
-  "source": "News: The Times of India",
+  "reason": "Stalled signal via timesofindia.indiatimes.com",
+  "source": "News: timesofindia.indiatimes.com",
   "date": "Tue, 04 Aug 2026",
   "phone": "",
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRVRTSW1BalJwbDluMW1BeTRjbkg4cVFlc1BDMktVdzdtV3VOZEdWaklPWEpGMEw2OWpCYmdZODEtYmxDY2U2MlJEbzcxSmhJMzJkMnZ3VTZ6R3BGWGxWbHN2RWV3MkU1ckk4OUZQZThiZkVLemJQUTdqQkRic3o4dGdlXzVaWVJ6ZUdaVkZkNDZjQWtZN3pRaFk2UzhNZC1EUTluUzdCbmNqekE0dXpiY29ua3daUVl6N1p5S25EaTgtcVp3a2o1M0lDRVF5eDhuQmI1WkpuZkNBcC1Jak000gHkAUFVX3lxTFBTSXduLThMTWItMDdrYmdzdFlkUXFESUZOZVlwcXBXYk1TX0NpUWFXMTlFN25qdjZ3UjdTTW9QaVg2VVBSdTMzNDRSU1d1WnN3cF81NURNT24wRW9CMzJaWFNubXgxM04xSFBWM2gwZmNjT1B2dFByd0JlU0lqNjZxV3ltZGw3V2dYbFRCME05ZldMd3JXRFlocUFWT3ZwMGhLdmE5Ti1qNlVxYW1IZlFQUTF0RWEzWG95N1RvM2x2bjMtaHdMOGVfdzB0OThNckpJTXRHUV9vOEp0M0paYzc5cEt2eQ?oc=5",
-  "id": "r14"
+  "id": "r16"
  },
  {
-  "title": "Why smaller US cities are emerging as commercial real estate hotspots - The Times of India",
+  "title": "Why smaller US cities are emerging as commercial real estate hotspots - timesofindia.indiatimes.com",
   "type": "Listing",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -320,14 +362,14 @@
   "fit": 4,
   "margin": 4,
   "timing": 3,
-  "reason": "Listing signal via The Times of India",
-  "source": "News: The Times of India",
+  "reason": "Listing signal via timesofindia.indiatimes.com",
+  "source": "News: timesofindia.indiatimes.com",
   "date": "Sat, 22 Aug 2026",
   "phone": "",
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdnV2LTk3LWpPRmRCQ3NUOS1yUjk4anR0S0hZWUlvQXd4NlBVN2pheWlEZHpwNXdFVlFNQjVFcEdUQ2JKemlTTUJJc2JSM0FTRFFVUGp2YW90OS1mbDl5Z1FoSTlTM2JOelBNVnRWczRENjJ5SU42LWRRSjQ4RTkzd2RTc2NPMVRwZ2RjbXlLQnFTVVk2ZFFZT2k4c1RIRlp0TVZpRW5INzVjQXVZNFhRWFhubjRhdHExYXhidXMtVF9wN25SYVRIb0ZWUWxKLVlEcDhSVFVfYUVNRTdiNkxIbkxR0gHnAUFVX3lxTFA4ZjRUSjZVZE16S3h3MTYxTVY3Ny1rYjFwNjNlSlEwTlVUZ1lqVFVXOWZsa0tZcUk1bEhGdG1mTDBxMlFiRWNJQzFWekZUcFI2ck1JX3pjWEU0Z2pYUXJtQ1FQTmNaQUdGSjdOTXY4eVM1VnQySnVhUEM1N1BaQW1xbFNQLTZnUC1FVFhER01sUTRYcUU1Z3RHWVZ0ZzZ3bXJkNEM4bFlDdEJIQjAtMVhDb3NkMVM5WTVOWk1GRnliaTdZMTlMenBzVjE0TzJWTEdkR1hzMF81TFNiODNjVnQ2QnlLbU5ucw?oc=5",
-  "id": "r15"
+  "id": "r17"
  },
  {
   "title": "India Commercial Real Estate Market Size, Share & Growth Report | MRFR - Market Research Future",
@@ -348,7 +390,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNazhxMmlMYk1TN1hSUXI5RHhEeC1vVTdfUm5hNk1XNS1KV2ZmajYtZGFyaGdmTUtpZ2wtTndNT3pWbWoydXZEUjdNdDUwdERTbndPckpyZEZqUXIyNUlLaGVPSjBnRVVXV3VZXzJTUEJZTUlwcVJBX2VseHdJMGZYUzVNNEdMYXZWU0dIN0M1WQ?oc=5",
-  "id": "r16"
+  "id": "r18"
  },
  {
   "title": "The Rise of Experience-Led Retail and Its Impact on India's Commercial Real Estate - India Retailing",
@@ -369,7 +411,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdnROWDBWUjJ6bjRnWGRsT1hiaUduUEtHV3pfaDdaOTlwNm1LNEZ1RDhEQ0F5NGdtRTNrSDFlajRuSTlRNFp2TmZqbVFOQ2RhNGQxYTdsa1NPSk16cTFjeHlhQ2pLay1RN2VnSmg1VjNTZjdEUHNVbTJlOEl1MW5NMzI1bzRhZGlXLV9HYkdHbW9hY2ZhNEk5dlBCc18wTHVhWVV1RkNOZVBMZmNYbFkybQ?oc=5",
-  "id": "r17"
+  "id": "r19"
  },
  {
   "title": "India's Commercial Property Market Sees Deals Worth $2.3 Bn, Investment In Housing Segment Weakens - outlookbusiness.com",
@@ -390,7 +432,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRmV0S1cwS1BDbDMwLXhfU2xuRkl1cUM2bjVHZU1OVFc2cnU4aUk0aHRVUGtPaHF6c2pkdnI4aWE1dmNlaG5NNy1Va1JCQjRBanJNdU9ZcTVIdVNBVzFqWmRYcFE1cFI3V3gyWTJwTzJiR21ta25xZ1FuOTdGdkRQYVJmaTdzRHZ2bXNaZVBxVjFDSjU2eW5ESjZxUlhvS2tITnczYWxLQUt1Wm5xNUxLUllQakdXa3FWYTRLS2tDSXBWOWlmZzJ5c1MycmdUN3dw0gHeAUFVX3lxTFBwbmhjaTB4UkFMU2E2YTU5TmVvT3E5NGhxd1dEanIxNy1yV0pOSk80UDN3ODVkY1RRTGUyUHNCWWJ5Q1dNOXJ3cHB3Zjh5S3lrQnpTNC1tZnFKUFRRM2wxZlBhZ2N3eElLOTNjZ3FuOXBZcEtSSDBQRVhDYUR6Sk9JamNwUmZxc2pPNlhvWW1ZOE80X09BZzM2enJPWkg3dXY4Y1l2UDBFNktQSmkxVjcwVC1sNU9EWmlBU2QyR3RacC1FemtKR3I5ak1sRTJ1LUd5b1dZZWFrd3k3WUIxQQ?oc=5",
-  "id": "r18"
+  "id": "r20"
  },
  {
   "title": "UP RERA Approves 13 Real Estate Projects Across 6 Districts With ₹2,380 Crore Investment - Realty Today",
@@ -411,7 +453,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdEhJT3NRSTBVWTNwVmpQSl9SRjg5Rmd3ZVVSRFZycjc1UDBZem5GNVZuUE5YbWo5aGpFMXphcWNDczFZUTVEQU96S2hDUFVDMnVUdGJDM1JxYkVTbXRWZlA4Nk5pY0xDamFublc4QUFlZDQwbE9JMjgwMEV2RWRTbXN5azltZVdkemZtV0pJSEZkNnRGTkFMRVE3SF81ZFZaZC1nTjZlYUwtQkNkRjFBMjZ3RWREbUF4RGY1aFVpaUR2Zw?oc=5",
-  "id": "r19"
+  "id": "r21"
  },
  {
   "title": "The Quiet Shift in Commercial Real Estate: Why Offices Are Becoming an Investment Story Again | Real Estate News - Hindustan Times",
@@ -432,7 +474,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOaldORVVXZ2hWLWRxbWNHQlRvaGpHYmY5dU9mU1pXcTBPTlBFb3hzc0JGVzBMQ1pBd2N6ODRLdFFpbmpmc01hS0xqODNnTHBveEoxblRyZTZtMm96V3hYNmZFdFVscTRkYU9Cc0RHaFJSci1hbDNDWWxZZjBIVmRueE5xY0k5Z0lUWkhRMmg3Nmx3MERjVWNFbFlpRTUxM01lYmNqampaT0dqbHJkYVBKbW1seTNLQngxUlQzZGhIZ1Z4Mm5WTWhJMmRfUDVCY3ZSM0d1Q2RlNHRhR1JmenpCT3hpVldYaHRfcURDRdIB8gFBVV95cUxNbDZRUzZBOUNpZlhVaUg1RTdYMzdKODdXaWZkMVUyNUU5Wk92VWRNUkJUSlNpVUV6YURqNk5kYkV4NjRxUWhFdnhJOUtqNTQ5endHOVJNQ2pza3RZOFQxUkJpY0lDTmpZVzVzV1ViX2ZLZm94dDNvajZqRHpkU0lJcmRjbEJGZVAtVW5PRnU4cnlVMFRKVE5VcVpUWFlEaTVvMmZoWHZZUHJfQ3I4MzVQalg1dVVZTXdBOGwtNk5hTkNwVnBibEg0bnkzNVAzZVliZ2hVRjVSZzg4cUhhcTNHYm93Q1ZSdGVGbk53ektaN1FJQQ?oc=5",
-  "id": "r20"
+  "id": "r22"
  },
  {
   "title": "India’s Next Wave Of Urban Growth Is Gradually Shifting Towards High-Potential Tier II Cities - Outlook Money",
@@ -453,7 +495,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR0NmdzBuVTQtOE9lLXJMSDhrTmNtZ0Y4S2w3UXlxQUdWLUtlNFY3Z0xrRG5tc29fdld4RGIxTkJ0NEgzdEVQcDhTOXdWR0tIZE5KV1hiRE9yX2xPaEhpeHNaZ2RiNmtJTEVkSmxCQ3J2QVpqaV9ZbTJHX2VndUdNamNza2VFRE5LeHdqaWVhYTc4QkxjQUxXNU9hLVQ1OXY3NXdWVFdBdVNaSk9zOHAxcjdUOHRuYzFPVlB5WFM5QVB5bk44S1Nv0gHUAUFVX3lxTE5IYWNBZVpRcjlyQ2ROdW02R0FwODUtcjI2YUk3bGtMNU9ZSlE3VEQ4cWVGLVR5YjNRWG0zckoyc2lVczZkNG95a0dmM2JKSG1VQU9zdU5xd0llTUgwa0htZVB4bUhPaFVkdGkyTDhOXzZjMTVVeXBDNGdFWmtaaWRwVHNFbE1jckNYRzYtQ1ltZHJ1Tm5tck1rSTlDVUdkX2pBWWZrZ1dZSUw1ZFYxVGNXdzVYLXFpM2pfMjZBeGpULThhOVJ5QXA3TVhNeXVTNU9ObTRw?oc=5",
-  "id": "r21"
+  "id": "r23"
  },
  {
   "title": "UP RERA approves 13 realty projects worth Rs 2,380 cr; Barabanki tops list - The Economic Times",
@@ -474,7 +516,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOOE9lWFpiRnpxcmgtUFZPb0xCVnNQYlhFcC01SDk4SG5nRU00djZBVkpObWd0ZGd3Vm44MU1UOHcwVzkxelpxbzdBcnNkZVh4X0hQMmduQkd5MTZrSk9WM2pMMUZJcmJRTVZVMFVRcE1HeWhjcE9LVHVjVFktZURNdkV5TlpXOTVpa2E1QzNralNCVGdnMHlTVXR5MzZNSlM0Y2NhSGJYbEpMbEM3SWNiTXBvbHpiOVpNU18zZFN3d3ppX2ZnT0hDb0oxb0JzalV3SkR0ZzF6ckhtb3BsNEw2ZnVUYWNEbTU3ZDRub2xXVnJrcDVod2h6NFRB0gH_AUFVX3lxTE5DeUtQWnlEMFVwS3ZjRXF4Z2tyOHBQaHdodXdja3dDSXlHME41eHQ4dlhGeU1Zbm95emEycDN4dTFTR0dNN2Racmh4UlhzWVR3UlBsaWJ5TWdNTURvalBCX1I2QWpJd1F4Z0FDQTZRWU1SdFl4VlN1T040Sk91bzN3SjFPb1hNcklCRVQwM0ZyRU5BdGRZdWRQZlBiM0N5b19xOGdaczNnUHA3T2N5WXdNbDdDc2F1cmVoRTBIUmFKemxQcGMzLTdIUW1QZUlyMnk1MXBPNjVQT3VBOGNXemdNSTl6U3JJWmFidWx2aUlZMkNfakNHTnV6dkdqdWN6bw?oc=5",
-  "id": "r22"
+  "id": "r24"
  },
  {
   "title": "UP RERA approves 13 realty projects worth INR 2380 crore - Prop News Time",
@@ -495,10 +537,10 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbXNUb2xZbTQtdEhfaVpVZG1Yb0lnZGxKdkxwV0d2dnlEdkhDZWpHTGJmc0pQMThDcjloRUNad0VKUnNCU2ZObzc3ZU9jVmhzTUpDOVVYMFY0RjRyc3ItbDNyNXFjOWN1V3RicHpzMUpWVk81eEliVzdNNmRjNWstWUo5X3BnVk5MVDNKTmtXbE1zQTVWV3JXZ1pWZk5GS2FJenNXWUFlOFpSekd2?oc=5",
-  "id": "r23"
+  "id": "r25"
  },
  {
-  "title": "Sonu Nigam sells 3,082 sq ft commercial property in Mumbai’s BKC for Rs 18 crore, earns Rs 3.70 crore pro - The Times of India",
+  "title": "Sonu Nigam sells 3,082 sq ft commercial property in Mumbai’s BKC for Rs 18 crore, earns Rs 3.70 crore pro - timesofindia.indiatime",
   "type": "Listing",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -509,14 +551,14 @@
   "fit": 4,
   "margin": 4,
   "timing": 3,
-  "reason": "Listing signal via The Times of India",
-  "source": "News: The Times of India",
+  "reason": "Listing signal via timesofindia.indiatimes.com",
+  "source": "News: timesofindia.indiatimes.com",
   "date": "Sat, 12 Sep 2026",
   "phone": "",
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNYkpYV2tMLWo5R2Ewc2w2cDZJc25Ydl9wdk5JU2o4LUkwRmE0Sl9FQ2xQdzVUNmtDLTB0dVR5Q1UwWWFkUVpZX3V1UGlXbVlzUG9zdWhjSHhQRXVEMWppX0gwRGVLTlhNZXZJQnRTVGY1akU5OUJYNHZkN2R0NlJIS2VTUjY5d0hsZ3ctWHlqdHYwczR5UXFqNmNrWkMwa1VQQ1EzNkkyTXBGbG8yaWdfYjctalZaZkUyMllkRzF1ZGVJbmdTSEk1eHpYM18yZjhxN2U0bWY0YUwwZElPdjRsUUE0Q05RWERaNFl5MWstNWxseklQQlN3SVliUVZvOE00U012M2dRcWZaRjNydWpTckhEazFfdTNDZUhCRGlSVWFXTTBMR3FjeFh2ZUxrWEFPcUp4NGUwWVR4QThHWnBEc3E1ZExZMEsyUjJQbFBIb195VFZPQlAtSWd5eTEyQU5fYTNQWWZyN2ZBcjdKcTRKUmZB0gH3AkFVX3lxTE9ESmVORFE1Q1BFTGlpYVRlekpybmlITzcya24ydk9zSVF6SlQ5THlpR21td1pYUGNYUFBaUHFSSlNOOTBCSkRWMlRDN1N4eUo1dF9hakR3YUJEMkM1eUJwNGRTOU1NUUpuZTcwYVk3ZTIzMTJlNlZuSjgyV2tjZlBuTVQzckN4cWhPenBYZk1tUEE5OXQ1QWgyX1ZtdGRmdGNlYkM4aGlVcDJDZUpOWVpLc0hwd2o4anUwTmFpbkM3QTA3TmVVaFM1ZjV0ZFg4M2RIV2lja1BfcmVyWmp2em4yV1oxWVhKOFFVeFFvUXF4eUpwVFhKUXh3SWE2LUM2NXZEOUxjU2t5Qm9majNhMEx3TGE5QTh1YjNDWDRKbTR4X1gyOGNnLUpCZjA1aVNTcnl4OXlZdTNoWkU1OThsZXF5b2gzdXozd2VOSkFjaTQ4VnhibWdVYVY1eno4QmVVRHNtVU1ZYURmOWJRVml2R0E4WkRkc0VMYw?oc=5",
-  "id": "r24"
+  "id": "r26"
  },
  {
   "title": "Jeetendra's real estate investment playbook: From a ₹4.25-lakh Pali Hill bungalow to an ₹855-crore commercial deal | Real Estate N",
@@ -537,10 +579,10 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQSzZVcE1rVnVTUGhkbk14eHJUOUhlNkpzNzZ5U25VTmt3bDdhNWw3WXlHS2FyV2J1NG5OMHh3RG1tR05wcGJBZkY0cmczUDJnUzVxX2JJYkUxNk5JSlpGdm9xcGN1WC0xLVlZVW1yckN5UFNKR3U4dmVtZXFJUVBCcV91aWZsQWFGNWJXTm9URWo5YUV1SkRGSkNuQy1RSkRCaW8xaUJaTFFpbEJDNHhhcmhzb2t4aEwyejZ3YXBRZEJRbGNtZzhjS2hLdEI5U2pLaXR1VzJ5Z3Q0M1lRdUFNM2VIYVFJcXJBZllHYm9vUmI0U2xKc1ZQSG9kNzQ5MEpKT2dj0gGIAkFVX3lxTE1POVlPSXBQckN0cFVfU3ZvYlV5c1VQRkxJRnlhRWdINnRHVGpkM2dtNVRXTnVWY2RNZXA1WGd1Q3UtdXBMc3o1Ql9pTWFaQWFiTklRaGN0TWp2SlpaZUg2YWpMZVNBRXpMa0Z1NnJCVVZQUF9hbkgzS0ZDVGo4cnIxS0oxZDdxRDA1UzJXRnV1Q0JPdFVXYW1sQ25wMzRobFJJN3RLV3JNaERmRkxBTVBKOEZBYnlWOVdkZmRMc2N6WVdienZxWmNJY0tpaU1uTU0wZHpmUFZxYlFtemZPR1RqRUV2TmhGTldvbF9TR0NvUVJaT3dvejVPT2w4UHJFSFUxaTNOMjE1dQ?oc=5",
-  "id": "r25"
+  "id": "r27"
  },
  {
-  "title": "How GCCs are reshaping India’s commercial real estate market - The Times of India",
+  "title": "How GCCs are reshaping India’s commercial real estate market - timesofindia.indiatimes.com",
   "type": "Listing",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -551,17 +593,17 @@
   "fit": 4,
   "margin": 4,
   "timing": 3,
-  "reason": "Listing signal via The Times of India",
-  "source": "News: The Times of India",
+  "reason": "Listing signal via timesofindia.indiatimes.com",
+  "source": "News: timesofindia.indiatimes.com",
   "date": "Wed, 12 Aug 2026",
   "phone": "",
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxON2xESlotZlBST1NBTW1LWUVyNl82Zm1xakswa2M3Q2hETnhGMkZtR051WC1obFNRM2VtWFVwb2lodkxqWGplZGg5aVhjMjdVUFNkazRXQzI2Z0ttVWNySlRHZ0ZWN1RGX290amJoZ2pkR09KM2ZvNkNDbzM2a2lmTnc1UVp4dVBtdXVtVHhtTDQtRUh4OXd2TzBQTW94MXg1bW0xb0V3RGNJcUVhT0szQVBHSHBtYjZwWUljdEVoSkJmT0JETWQzcHhTdXRPVFNJOUd5adIB2gFBVV95cUxOYzhORzlwcGt0eXczUHA4Z0tyM1JJWlB0dXY1QlZ1TF84MTEwcHdmaUg4eVhtNDFIallVVlptRzY0NTRVNUhSMWtZWnVqdkEtaHpTRUh5Z2RWb1Z5Y294Y1ZNN2FRNXVTTkNoSHZHME5rRjVHeTJ5WTQ4RG9pSEtvY3hfMVhUc0E2N19WckhPallscWRwN2dIOW1JNzEya0taYm5Pd1l2VnY4dGhIX2JINW1vQU5vamhRbEl3dDY2aVpjZjhrRHpqU3F3a05YREd0eUs4Rmxib3BTUQ?oc=5",
-  "id": "r26"
+  "id": "r28"
  },
  {
-  "title": "ED attaches 389 properties worth Rs 240 crore in Grand Venezia Mall money laundering case - The Times of India",
+  "title": "ED attaches 389 properties worth Rs 240 crore in Grand Venezia Mall money laundering case - timesofindia.indiatimes.com",
   "type": "Listing",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -572,14 +614,14 @@
   "fit": 4,
   "margin": 4,
   "timing": 3,
-  "reason": "Listing signal via The Times of India",
-  "source": "News: The Times of India",
+  "reason": "Listing signal via timesofindia.indiatimes.com",
+  "source": "News: timesofindia.indiatimes.com",
   "date": "Tue, 21 Jul 2026",
   "phone": "",
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOdl9mOTZwM3poNlZteV9BUnFXZnQyMXFiZjZrcjJ4U2otZ01DRENSb1VXMF81aE1jTlRUQ0hrMTZ5VmF2a1hUTENfZk8xUHhpLWdCSTJKeUdmM2NnRS1oQ2lPT04yY0Z6YjlfSXVMZ0gtSGJlR0lYVTYxZzVxXzQ0TGF4bUVYWmlURXdBWGhwMGdNWkhOdk1lNXNweWNGSVlrU0FmVnU4MHk0SzA2OXRUbzhDNm1ncnQxUk50ZVRnejQ4SW9IU3BnUnk2ME43X3pJX1puR28tT1hSVjBnZ0tRa1VPQ2JxN1ZfZ2dibjlicFdTVU93UUlR0gH8AUFVX3lxTE9IUXV6SElSSFpSelotMlpoTFlpOG5JcjNxRkhDcTBwVzNka3FwVmdObUlseUVJN3RlMno4TTZINGtxNkllck0zNW5RVTVuQjVLYlN5ZDhGSmZDNzFHVklMYzIwQlhwTFBOcEVzb2dHb0dObXdGNXNDbnNYV2hUS3Rna0laOV9idWlVOVhNVTlTakZ3a1k4aUhNREd0NG5fcG1WLTEzb3ZJNnVkR1BTQUxfUnFfaTZCay15MHlnOHB0QkRJeTNFeklKME9yNmdITlUyXzJMNDdXOHU4WEtkRE5Za3pCdWlCUEw2aXJFb3RBY1R4UWxiSVliWHllaQ?oc=5",
-  "id": "r27"
+  "id": "r29"
  },
  {
   "title": "Lucknow's infrastructure push gives home buyers more options along emerging real estate corridors - India TV News",
@@ -600,7 +642,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTl9sR2JVeERJbFp6U3RjZGtYeV9lSXctZ0xlWTh4Zjk5YUJPckpXQkxVVFVSWktwV3ZpbjRUUExTdFowejBNX1ctWUVUZTZmWTJpclhVRE5hSEFxbENKX2JHem1DOThqLW1HcXhLeXJJMjZYc3g5dFRqREFiVFRzOWhtNGp2akc1eUNvSWpkNi00TEwyajhGcEI1a2ZNbVlqVy1PMGxReVpHN1M1NGkzRWFDenNZSEpNMmFTbVptcVRId1kyYThUdGdGRXI5SWdybXE5TXp0bFVaYmRhM0FQblJPUW43T0JmaGR1a2lSa1ZMOW_SAfgBQVVfeXFMTW1GeTZxa0pOaWw0Qmk4Q3BwQkRWZWRyMTBJMXhFY0lNQ0FEQUhiNXRXZl8zUC1wWFdjbllUZnNTdUtZUWFvYVdia1Z0QjVBX2N2SlhjcWJWTWlJY1htUUx5Zmhna3JjTTktaXdMUWt5TDQ4UUFFanRIYlhjT3ppeTBIZkVES0ZFNXgxSmhfRUdaNzVRemRJUG5vbGV3N2hOMUJ4VVdUVHBYdnMyRWxjM2szaFgyRW1Ybld1NEFtaVdrRXdKdmpWbWk3WllDSlByWF9JQVZfQk9pQ1cxVGhlUEc3WHBIQ2dnRjAyeHZ6b0kycW41MFRSc3U?oc=5",
-  "id": "r28"
+  "id": "r30"
  },
  {
   "title": "Propstack Enters Strategic Deal With CBRE To Strengthen Real Estate Data Analytics - Free Press Journal",
@@ -621,7 +663,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU25lVHJmUjFkVzYwVWp1cGlfWG9TM3E2WDlNMDFNcFNodHFmbUFFRklHV040aXRQcDJiVWg3d2NQYjh4NG9aRF93eVpQanhKM0RLWXUtaVEyR0Q1ZklwamZwRGRDV0t5d2djbk5NSXY1SHdsT24tWHE4bWkwc3l6aUpOSFRJUThvak1yak1YMk51WXJLT2ZOa3ZYb1pIX0lLSlVsQkZoeUpULTVfSlNKUUpJb2c3dXA3dEdJV1cxU1PSAcYBQVVfeXFMT1ZJT3lneGdIeGdSZWN3dzlocEU2RWxod1RVTzBJQnM4aGxwMWFvWFFteWVYY3k3c2tkRm9LOHc5QXgtczZjRnE1X0xPaElTZDBuY1lxYWUzSDhyakVNMjJyeUNFY1Fsd0xwVUpYX19ha3lTejJoUi1SVG13cVZuemh0X2ZnWUk3T3FEV1V5S2lhY0lsX3czRzJPR0NyS19KVk5Uc2d2ZDBUN2szVVpSV0JETk5XUUVjS2lveXp0dnZxaTFaNjB3?oc=5",
-  "id": "r29"
+  "id": "r31"
  },
  {
   "title": "2026 Maruti Suzuki Brezza CSD Price Vs Ex-Showroom Price Comparison - V3Cars",
@@ -642,10 +684,10 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV0RNTkJVQ1RHeGRib2hkV0VWa1BrNEhzOUl1WDQzOVpuTS1XdlF0YkU5Yk5GTGtRblVnYlQ2a3pjdnlVYVF2TjdsN3BrRVQ0LWI2LWtzLXh0MTk5Y1hyeUF6amxKUjd3WTRXUm5LbU51VmdBX0dhM2otcndJblp6amM5UGRHZGZmOTBMWFktLWZXY0pXNXA5SlQ0eTg3MTBO?oc=5",
-  "id": "r30"
+  "id": "r32"
  },
  {
-  "title": "LDA fraud accused held after 4 years - The Times of India",
+  "title": "LDA fraud accused held after 4 years - timesofindia.indiatimes.com",
   "type": "Listing",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -656,14 +698,14 @@
   "fit": 4,
   "margin": 4,
   "timing": 3,
-  "reason": "Listing signal via The Times of India",
-  "source": "News: The Times of India",
+  "reason": "Listing signal via timesofindia.indiatimes.com",
+  "source": "News: timesofindia.indiatimes.com",
   "date": "Thu, 03 Sep 2026",
   "phone": "",
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY0hRTXhIOHM2alhHVnczVjZkaWp5S0dvQXlfYVFJUWFLdEZneGJaVnZZbk5IWVJTb1ZteUFvU0RsWFRqSnk0TWsxRnNSRFllZDN0U2ZPbi1fc2xTeFFrNVI2c01Bck11Uk1GaEZVT1pVWGlQbXg2ejdxNC0xTl90czFVTmZGSFJQQmpTYWdLSzdsUzBNLWxNdkZNbmR4VDZQbzBvMkNQcWRUQzdfYVZua9IBtgFBVV95cUxNU0kwNmlWdmtRNUZnYUF2VmJLRDJKMTBoVTB2NmFXZm5Eb3k5QU9BTU5FYU16NGs4Rk1YLUVMeXFLT0h3RkJHX3g4S3A3V0d4UnRsV2tQbGEzNHNuSUMweFF2aTZiRk1hQXpkbTUySnlKdlBQRlpCZWdPQlVBUm5SY3JBRk5meVlBV001enFmS1lNSzM0eDJZUURuSTNsTnpHN0o0S2d0MFVtUXlHWVd1ekFweF9GUQ?oc=5",
-  "id": "r31"
+  "id": "r33"
  },
  {
   "title": "Liquor sale to minor in Lko: UP excise dept cracks whip after video goes public, outlet fined | Hindustan Times - Hindustan Times",
@@ -684,7 +726,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPVkRQUlc3RlEyZTBsNS1nQmsyMW91QnFkT2pMdHppd1c4VWhZUDlobl9iemprdm80MFFFYXdxLUxURnhoZDdCdTdRb1ZwS1lvM29xekFkY0pvWVdySHVCM3Q1RF9pSzdyRW83UmY4UHVWVW12dVhCRDBXWU5GTldQQ0pPdGVMalRHSmxsc1N6VkpDME1IbGtiM29jX1dyX2MzaFVsY2VoZ3IzNVhqZlZaOXhQdGNLNFNvaTVxZlZDbmJPUWtIYzhlbVJsa0ZhNXFqQjNUUjNSb0VuZEk2VUtsWTZDcGxGV2tqeHVwY0E4ZkFaRGNCakHSAfsBQVVfeXFMTkhJUXFQUl81Y3RQQlVndjE1YlVKYWNRUEZwWW1YM09RU1N5VkQwNkVLTUtaemFQTWlJQzNJM0hRTG91N3JZdDFvcTA2VWU1bVB6QnBkbEMxR25lTF9GeUpMTHZHVHdKM2F5aUdHcVdOUElhYkhqV0ZJQlhwRVAxLTVOXzlSR0V1ajZSVFppT3hQdUFIWFlkU1BuTjRhbE1NOXEwbE5yaF9rX1h5bGU2Y3lJc1lHdVRXQXVBRGM4TlBQajJKbHpDS0s5VHNLc3lpbUd2NFJCMVBKajA2TGh6Z1pRYUVycnlxTE5kSWFzOHBFVVBraDUxWGpiMW8?oc=5",
-  "id": "r32"
+  "id": "r34"
  },
  {
   "title": "IRCTC steps up inspections, seizes over 8,300 bottles of unapproved packaged water - The New Indian Express",
@@ -705,7 +747,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVThDcV9RTHRFeWRWWHFuaXhpbDBiN2xhV29KbnJsNzVfcmdUTDF5ci03QkFWTmhaUlVwWGpSa20yUFFwRnBuODJYdHhmcFcwVC1JdHgybUY1cGp1NFdTMzAzOENMZjRhblBwd1JjMS1UTDZDMkpjZDU0cS1NY1k2aFdKdW5CbmlXOTcxSTJPT3pGZmxKQW83VDBYUExqYUlQa3c4eEREeTRtRWp5RU5qVFduU09Ibjg1WTRxel81RmoxOWlPYi1BRWNtNNIB2AFBVV95cUxPSFBqdV9WRi1YaUtkYlN4QkNSU1JPUHJ2ZTY2Zm5MdDZzWjBKc0VYZy0zYnBNUHVkSEF2ajBzV0llZnprektCR0VGQnNBVThPZnRBQmRxRkcycmtLaGlSOGQ2cHhqOVlRb2pfbW5rVWlLdnJ6UklxNmRwRE5JcVlPUUVmTWl3dFllQWh0OERDOFNqWW92dHAxMnJESGVrazRKVFlPRmd3UTFiNFY1NDhKOU5YOUdtTnhnZHJBcjMxaWpiM0E4ZjhwNzZGblFZck9IXzllZTA3bDA?oc=5",
-  "id": "r33"
+  "id": "r35"
  },
  {
   "title": "Govt Cannot Force Private Landowners to Execute Sale Deeds: HC - Kashmir Observer",
@@ -726,7 +768,28 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRGpXYnJ2VWsyclBCMVRWNVBHc2JFZS1OTFlNWG9rbnBlbVVERi1UZjhxeHZ4dU1hTGJJNDAtMDcyeFA2MGVNYmhVZ0w1cGliRVhIS2xjaHJwSGtQNVRZallfM2R4NmQ1TzNJR1FjcUtqQ2M5b2JsVWdSNUYxWUswVVpqMzlTc28zOC1HbWU5VnRwRHpqNXlMOW1KYm5aLWVBYlNj?oc=5",
-  "id": "r34"
+  "id": "r36"
+ },
+ {
+  "title": "Second Hand 2015 Maruti Suzuki Swift Dzire VDI for sale at Rs. 3,90,000 in Lucknow. - cartrade.com",
+  "type": "Listing",
+  "city": "Lucknow",
+  "corridor": "Lucknow",
+  "price": 0,
+  "rent": 0,
+  "area": 0,
+  "distress": 2,
+  "fit": 4,
+  "margin": 4,
+  "timing": 3,
+  "reason": "Listing signal via cartrade.com",
+  "source": "News: cartrade.com",
+  "date": "Tue, 28 Jul 2026",
+  "phone": "",
+  "lat": null,
+  "lng": null,
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUGdxeGV6YlpEZXpYdVFQZzZKYm5NWFlITERvS1I2WTFYY2JGVjNjQ2lZZFJ5QU91RFAyMnJncGlKRUVmekRRLTRRamVNRW9iOVNraXVocUNjSWE2cFNoUGFUOGFiLWg1NmJRVTkxR0tlTy1DdHNYSXVmd0lsYmlqVGJOX1hZX28?oc=5",
+  "id": "r37"
  },
  {
   "title": "Asia's rich swap sponsorships for stakes in sports as dealmaking hits record - Reuters",
@@ -747,10 +810,10 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2F6UE5FNTB3cG1rc3ltUUpXWEg2YUJoUWljLW1ORE82c21saVQ2U2hINldDM0xrdVVHY21aQ1ZvRy14aHppVGZ3ZS1xR1BfWFoySmJuN3Zyd3o0Vjk1cXd4cVAxVDBCQ2JESEJwZmlsVXNSRGtCRmppVWk0MlA0b0p0czdlUDUzUm1uYndVYjAzNW9oang3Y1RHSXRRMXl1SWJEZXFjWkpzNEw0OXZyQmFWREJCdVNxa09PYmVn?oc=5",
-  "id": "r35"
+  "id": "r38"
  },
  {
-  "title": "Maya refutes illness claims, appears before media to dispel doubts - The Times of India",
+  "title": "Maya refutes illness claims, appears before media to dispel doubts - timesofindia.indiatimes.com",
   "type": "Listing",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -761,17 +824,17 @@
   "fit": 4,
   "margin": 4,
   "timing": 3,
-  "reason": "Listing signal via The Times of India",
-  "source": "News: The Times of India",
+  "reason": "Listing signal via timesofindia.indiatimes.com",
+  "source": "News: timesofindia.indiatimes.com",
   "date": "Sun, 13 Sep 2026",
   "phone": "",
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTjFOeWk1N1d0Z2ZDZkx5c0RUT1hiRU1MV29Rc3pCSkR6QmZpYzBNNUthMTJBM0RBZjkzaXdqdzRWQVBYdmtGdDRJVHc2bWNhNVdyc2VRenA1Tk0tVFRVanc3Yi0yc05GWnFUaDNpWE1RSnp4ejV4a01KbVlvYUVrbnBaeDVUSzdNWXpjalZ2TlQ1eGdvM21XWDFxcGVlX2lEWUlvV2owSzl3T1NsS2NNSk9iQ291cmt0bnFKdWV3VG91dERvVzF2eGFHMFkzY3RhVUJRM1puajdBeTln0gHcAUFVX3lxTE9OMU55aTU3V3RnZkNmTHlzRFRPWGJFTUxXb1FzekJKRHpCZmljME01S2ExMkEzREFmOTNpd2p3NFZBUFh2a0Z0NElUdzZtY2E1V3JzZVF6cDVOTS1UVFVqdzdiLTJzTkZacVRoM2lYTVFKenh6NXhrTUptWW9hRWtucFp4NVRLN01ZemNqVnZOVDV4Z28zbVdYMXFwZWVfaURZSW9XajBLOXdPU2xLY01KT2JDb3Vya3RucUp1ZXdUb3V0RG9XMXZ4YUcwWTNjdGFVQlEzWm5qN0F5OWc?oc=5",
-  "id": "r36"
+  "id": "r39"
  },
  {
-  "title": "Two held for selling codeine-based cough syrup in Shravasti - The Times of India",
+  "title": "Two held for selling codeine-based cough syrup in Shravasti - timesofindia.indiatimes.com",
   "type": "Listing",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -782,17 +845,17 @@
   "fit": 4,
   "margin": 4,
   "timing": 3,
-  "reason": "Listing signal via The Times of India",
-  "source": "News: The Times of India",
+  "reason": "Listing signal via timesofindia.indiatimes.com",
+  "source": "News: timesofindia.indiatimes.com",
   "date": "Sun, 30 Aug 2026",
   "phone": "",
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYTdLMGstekFzNU14YkFXNUFBLU4ySnZUcHFTc3d4V2p2YTBaTGRzVy1yemEtNngyM0ZfN20tT2J5Mnp1R1R2aGRVbVZXdGN6SVpSX25CWFBDdF9FNDFJeUpNNUVCVFFxN2E0eU8tNkM3QTh3dGJCSC1yZTlTd2R0enRpZDlfbVVrMm5QYzBwUkJrNlFERHpHdmxueTJUa1hlMTFTQ1g5WUNDQUFvOEtfTUdpUzh0MGt4OENSOTF2RGxxR1FYN2R2aUlhWjcyZjDSAdQBQVVfeXFMUEIwNE55bDJ3VEJTUXdQT1p2ckZjZy1hakVCWFBNQklhOFpzNVh1UGgweDNpR1NLcjVYUzZHMDltSnZvOGhmT3dreGpOY0dxZWR0TTBrcmIxTGNkQUJOWHlRZ1lHX1JKWkhZUWFqeDJBaEVTSFdwS2VULW9YbkNwTm42cWpwRUFlQ3NVVzNmRmRSa21oMDNhUmtiUVVUVjhMcWdzUEFBYzdZR3NjSXN0N2JfSnJYdC1seGxBeC1oV3RDZWRhOWFoYXJWQWpqWXpHMFJLdmM?oc=5",
-  "id": "r37"
+  "id": "r40"
  },
  {
-  "title": "Govt can’t force landowners to sell land: HC - The Times of India",
+  "title": "Govt can’t force landowners to sell land: HC - timesofindia.indiatimes.com",
   "type": "Listing",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -803,14 +866,14 @@
   "fit": 4,
   "margin": 4,
   "timing": 3,
-  "reason": "Listing signal via The Times of India",
-  "source": "News: The Times of India",
+  "reason": "Listing signal via timesofindia.indiatimes.com",
+  "source": "News: timesofindia.indiatimes.com",
   "date": "Sun, 23 Aug 2026",
   "phone": "",
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd1F2MmJmZ2ZaSU9KNV9xcVBfVEo1RnlGVzNDYkx3bW9idGNMamJ4YnQtcldVMFRPVHJvZ29kdWItUm5MOU9zbzc4VkpuTWcxS19fREFDN3paRk56THhHWjRDVHFsZmh0bF9vOHAwUVVJVTJTLTdGSmJRWnNnUzBkMUJhZTRsTGNEbGx5MHRpNjV1RUZlNDZvRnp6VWFjeVR1OWtXeW1heEdsVUdCY29UUGsxbVd4NXlN0gG-AUFVX3lxTFBzNWQ3ZkhnSmdvRzk1cnFrOTJZX2hiQV9BRndyN1BXaEJGVGgzSUNVUlNYNnlobWtTcE83TkxTc3FuZGxlRjV1N0ZQZjFadDN1Tm9xOWxNWExtTlNRQ1ptNDljb01ZZTFscnp5WDVHUjc0aU5ORzl1Wkh6WURnenZ4V2V0X003TkRham9BRlA0aGdWSmVkTTFXWjBkRGZtM3NJb2VuYXNUaG9fZDlYRVhnSFpMMmJfNGVZUXpITkE?oc=5",
-  "id": "r38"
+  "id": "r41"
  },
  {
   "title": "Pune Crime: 19 Booked For Using Fake PMRDA, PMC Documents To Register 22 Sale Deeds - Free Press Journal",
@@ -831,7 +894,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYTd5djdoQjZuUFJLTWQ4dGgwUGRDbnlwTnpJMUhreE9QVGdMX2gtQl9LYjlJbEVRRzdNTDRpTGN0bTctM0FkU0NUYk9pNC1Pa2taTXpLczIwdkFZSE1lSkg1WWRiVktBYndsalBMd2NpOEdpN1ZPWExRVC12NXJqWDJvRUNPZVVHb3docXozMElKaGhvYWpUdkhNUGpLelhuaVdydkVtaUprUjJqWWNPSGp5UFEwZHctTVHSAb8BQVVfeXFMTVZtYlByUi1yeklKUWpqaXh3VEVYUWFidDQ1a3hiVFU1TzYyVFNPeW5OUjhaaFIyZThwRm5SdXVLSW1IUGJLVzZldF8tMjVYeEltb1BYV3poMzlEaFY1eVZja0FMY3hGeWtiQWVYdVl1cVpEVTR5bXp0UXAwUHpPUW0zWTNiaklfajVTZ1VoU3hWYmhIRTN2M3NGNnF0S0w4c19RM0NlN3RaWktRWi1jVDNVUGNiMUxhWWhETU9WWWM?oc=5",
-  "id": "r39"
+  "id": "r42"
  },
  {
   "title": "The Indian Garage Co. Strengthens Retail Expansion with 20th Store in Lucknow - Indian Retailer",
@@ -852,7 +915,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR1lfemhkUTBySEhGUTNFT2llQWNRLWU1U05HOER1bFRPNFBCN0VUeFh3TjR0TU1DOWNuNzhRa1BSVzdrSkE2a3NDWkEzdHAzRDVLWWVRaWNkelhZSXJtdFVyUzBMNnFHdnY2dnVuWmZCb2V5a21YVmo3d1NGSmNVOW9FVXpRY1puUTZIeFk2X1BOMmRJX2E3MXB6Tkh5ZFNzU3c?oc=5",
-  "id": "r40"
+  "id": "r43"
  },
  {
   "title": "Hettich Brings Its Magical Experience to Lucknow with a New Hettich Exclusive (HeX) Store Launch - ANI News",
@@ -873,28 +936,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcHc5cldOVkdOMEVBa2RnSjg0blBDNy16U0trYnlQQWtzWDVWQ0dTcUZVcERJbWtmdW1lMWE3NDVrNk13clFqWTRyaWZHT1prdWVtYWJoc2VkSzQxRW8zWV85V0tlb25HSzdJOXRKQXJpWUJFdGtTQUMzNFMycndaTlVsN0g4Y2M1RDZnZE1KemI3ZllIOXd3amZLZDdhSF9sR0g3NVF3djhVQWctRmVXUDZFWjBZTkItTmZWX2daVkNKdERvS3BwQlNEd1dycnNEdmVCX2FNQkg4bzRMaGc?oc=5",
-  "id": "r41"
- },
- {
-  "title": "Hettich opens new exclusive store in Lucknow - Construction World",
-  "type": "Demand",
-  "city": "Lucknow",
-  "corridor": "Lucknow",
-  "price": 0,
-  "rent": 0,
-  "area": 0,
-  "distress": 1,
-  "fit": 4,
-  "margin": 3,
-  "timing": 5,
-  "reason": "Demand signal via Construction World",
-  "source": "News: Construction World",
-  "date": "Mon, 27 Jul 2026",
-  "phone": "",
-  "lat": null,
-  "lng": null,
-  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeV9oc0hDcEdob051dzR0Z3ZQdFdKVUlfODFrVGt6S0hBcDZmdG5nMks3cHpLS1o0bUVZU1hRU1JiYS1nRkJ6bzQ4RHhabkVpdHdXUmZrQmNoV0lmNHhPNTlwVDU1YkRoc08yeURFc2djelF3UGZxWmxDZUhMdnRGbmFtNDVfUjItSktqeVA0RHVYd0FoSkQ2WG5ocThvd3V6dXNNWEFLLW1scW5sUWVlQXlTWGtTbUNLcm9FUHdwVVhnb0N2ZWdWYTZ3Wk5ZYVUx?oc=5",
-  "id": "r42"
+  "id": "r44"
  },
  {
   "title": "Citykart Celebrates 200 Stores Milestone, Takes Value Fashion Deeper into Bharat - India Retailing",
@@ -915,7 +957,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSWJCMXpaSk5NWTVHZHJCY3g4TzZUdkdsQU1kTVhscmhpWDJ0UktaSGt1d2VxOHF3YjF1dFFhNXRsQXVNbVNvZ1RLeE45WEdqcUZ1RlpqNDY3ZWFoeEJsRmdIN1ZqMUpha1ZldlF0d2dENFExZ2Z5dlFfSW13dEphcGlRRmxwaTV2NGZBY0hmTjVUS3lWS0RNQkJJdE9CVEhieTIyQVY4QXJ1anFqMGtJ?oc=5",
-  "id": "r43"
+  "id": "r45"
  },
  {
   "title": "Stelatoes Expands Footprint in Punjab with a New Store Launch in Jalandhar - TheWire.in",
@@ -936,10 +978,10 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUk1ZS2k2aGs3YjFxZnBhNTJqaU5aUEFaNVNOZk5NcDJwMWZKRlJaQzdQWklsY1hOSDRuQmplQkVMYzVmVlBqb2tMM0YwTUtoMzhwc0NVNEFQRUZFZEdUalhydlZITGd4NVQ2bTc1OE5iZHdVbE1WRGIxMUx6QV9RWDlkdEtwUDV6SnY2bXc2NG9fQ0xwckpKcExsdkRyb0JJRVBleEdKeF9mSngzRWM3WndaY9IBuAFBVV95cUxOcW9wckNaVXBtVkVicG9LT09TMWRkZTIzVlEzV3pTUkJOd2pTd2k1MmNwT3ZDSThQOXNUV1haeWpTU0JUdVdfdzNYLUk2Q3owdnItWFFIZmtxRUM1NGsxZF9iamlOOGwtODRnVGFSWnRTTDB2Ykh2RDJBckNfUHpHS0V0TmxTV3hTXzR4cEZPNWlkbElDYVpaTmFTNklfMG1VaEFoNS1YUlctYmpJM0JoU0FSd1d0TWJM?oc=5",
-  "id": "r44"
+  "id": "r46"
  },
  {
-  "title": "Fire guts store room in Vikas Nagar home - The Times of India",
+  "title": "Fire guts store room in Vikas Nagar home - timesofindia.indiatimes.com",
   "type": "Demand",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -950,14 +992,14 @@
   "fit": 4,
   "margin": 3,
   "timing": 5,
-  "reason": "Demand signal via The Times of India",
-  "source": "News: The Times of India",
+  "reason": "Demand signal via timesofindia.indiatimes.com",
+  "source": "News: timesofindia.indiatimes.com",
   "date": "Mon, 27 Jul 2026",
   "phone": "",
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN0tidWVKMmNJM2NEcGtZc1R1YzRaMlR1aXpQM3VtTDFqQ0t1X1Blblpta2hqMEpGRi1PQkhUd0Z0ME4xWC1HMy1xSGNReXRlNEhBY1E0SUZGV1VjUWhYa1IybmNpUTJQYTVHQ1NidlQ5MGlUNHZUY0RJd3ZfaUVjdTA0Tm9WWUtwUURlYmtVb09OcHoyTXRRZEZnYzdIVllqM2JIV2NRSUtlVjBCYXg4MVZHTl9ZZ9IBuwFBVV95cUxNZzVTRmE1bmd1OFAzc3laMHRNOEdpNThCSi1aV0NtZ0lwRGtXSDdWMEtPNlp6bHUwN2R4S3MxcloyYjVGRnJld2Y3bFhvTGQ1aDN0TEVXc2RuZmE1RGwzeWdCdWt4VnRxOFl4OWxUZG00VFdCdUFpNnRRM1hGRmtJcGU4OU9iN2R5d3BEaUpZOWp5LW1nZUZZSHpQV2JJSFNDMmNWdVdwMktNeVBoejQ0Y1dhMHRhUXptSlU4?oc=5",
-  "id": "r45"
+  "id": "r47"
  },
  {
   "title": "First dedicated Department of Military Medicine comes up in Lucknow - The Hindu",
@@ -978,7 +1020,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMm96Q1VPRWZfbXNDWEtieVBJbVhjVU1weU1mMEtJU296YmxVVi1ydGN5MHVoaVA3c3hPMVotekJPb2lZcnBYam9VU3hfdnRQLTVxUkZlc3ctYkZfeGtZaEhKaHJFSjhsem9OZDdkYVZUSlRBTmFRX0pGRnh1bGJkUy0yNHFhZk5aakMxbHg3QXFDZzA4S1hQMnI1MnFlVG50MVBGXzljRG9MME9ZN0dBbFBOUEVZUEkwSGhac0YzNXlwbno50gHLAUFVX3lxTE5JclFjZWZ0Nk5aZDhIWTdxa0xRMnVDWVRpUkozSms0OTFVRXdYbU9YaG1seEZGc1JEaXFlakxYX0lVeEl4U28wWnNMMlpLV2RWV3JrLVdtZVRrcDVLakNLVEs4NUFLQ3VpYnQtekdfQkxGUEFqdFduMElNMTh6cnJFbWhQczUyNjZjNmc4amU4MzZwcUVGby0yUnFtOFZiQzN2ejItQ1dObEg1Q2NWTUZmUl9nTmh1TGRaazhaaWVubXRTRTlWRGFnZldv?oc=5",
-  "id": "r46"
+  "id": "r48"
  },
  {
   "title": "Bath & Body Works Strengthens Retail Presence with Lucknow Store Launch - Indian Retailer",
@@ -999,10 +1041,10 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcnAzbngzQWNlblZYY0w5RjFmTXhuTlVra1NWaEpmY0FGdVhwUUJrc0YtZ202NDR1c18zYzBoNjV0cGxPQmNkbWlzN2xWaElNTUQ5d3dsaFV2THRMRHZDUi03cDBIM2NtSWpWQ1VUUktSbDVpbmZzZnhFSmRDcFA4b3MxX1V0T1FWb0tiNnd5eURMel9URDFfb0lsN3gyTUU4dy0tZmdpNGtNbVJsaGY1Y1Z0QWVjV21HeVN5THd3?oc=5",
-  "id": "r47"
+  "id": "r49"
  },
  {
-  "title": "Michelin India strengthens Hyderabad retail footprint with four new outlets - Construction Week India",
+  "title": "Michelin India strengthens Hyderabad retail footprint with four new outlets - constructionweekonline.in",
   "type": "Demand",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -1013,14 +1055,14 @@
   "fit": 4,
   "margin": 3,
   "timing": 5,
-  "reason": "Demand signal via Construction Week India",
-  "source": "News: Construction Week India",
+  "reason": "Demand signal via constructionweekonline.in",
+  "source": "News: constructionweekonline.in",
   "date": "Mon, 07 Sep 2026",
   "phone": "",
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcEhrM083bGp0c2Q4TWt0bmY5b3dEZzZMWGF6YmRScWVvV1cyZzhIZzVzRDd0djlJY3ZsaFNjMTRoS1F0bEF5S0V2UjRlbFlpV1o2Mk5aYnJMemowcmlVWEVDNnhMLWlTZDZ4VjJEUGY1amhsdEllN21iQWVicEVVTVJOUFRudmc0UGxiRXA5R3VWdDlFbjJBS2txSmdQbTBadHE2RV9MSnJFM0lLa2d2cVZ6Q3J0cUx6dEF0dFdlbw?oc=5",
-  "id": "r48"
+  "id": "r50"
  },
  {
   "title": "KIKO Milano makes Ahmedabad debut with new store at Phoenix Palladium - India Retailing",
@@ -1041,7 +1083,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM2xtOExINHlxc2JZWUU5aU5kYjQ5TU1YZWtGTnB0YV9LWjRUVUlrRWxzTE5IVG9Ba2I2bGlGM3pqdXVYaExPOVVzWE4zRmpXLW5SQWxtZ0l6dUtDNGNZejlwNjZtNUt3OVpDSEd5anVYMlF4RENCc25NN3ZiRENhWkF0Rkk1QVg3UVRsejVjNHVLNFdnci1GQnpHYVl3cUVXOWc?oc=5",
-  "id": "r49"
+  "id": "r51"
  },
  {
   "title": "Flipkart Minutes overtakes Swiggy Instamart in dark stores across top 10 cities - ET Retail",
@@ -1062,10 +1104,10 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNGgxN3c4OVhnRDZVanlibWZnUkZVN1RVTEdjYzhIQjBKakZ5WEpkVVhIblJIbzI5aDA4b0RENVpQLVpmenpGeHhyTGtwMmo5ZTRXOE85bERnRE5NUVNPYUJoWFc1M1lZUzB3SzByaTVlc3RGUWRGd2Y0UVFuQ0sxZFQtRTA4blhTMFhYOVg1bkV4Q2c4aGMxUlFCZk5ONkdRc1h3Y2NCT0tqNjdYTlNWdk5Xb2pRSG5TbmdacWhyMWxabGZrT0hGXzNPSEJsWW9meGo3NFhyN1BNcU13UU5IUU1iMW1VUU5VcExJZTRXSFY?oc=5",
-  "id": "r50"
+  "id": "r52"
  },
  {
-  "title": "NHAI Rejects Damage Claims On New Lucknow-Kanpur Expressway, Cites Preventive Repairs - Swarajya",
+  "title": "NHAI Rejects Damage Claims On New Lucknow-Kanpur Expressway, Cites Preventive Repairs - Swarajyamag",
   "type": "Demand",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -1076,17 +1118,17 @@
   "fit": 4,
   "margin": 3,
   "timing": 5,
-  "reason": "Demand signal via Swarajya",
-  "source": "News: Swarajya",
+  "reason": "Demand signal via Swarajyamag",
+  "source": "News: Swarajyamag",
   "date": "Sat, 01 Aug 2026",
   "phone": "",
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR254QVRldW1DNzY1YWZfaVYtbDlQel9kXzBNbWxLeUJNQVBvbk1qcDBlX1BZSjJNZFphNHdnbHFQQUszVG55dkVSZEVSRGxpNkNmNHNFYlVPN2hPZlp3dG1qeFNqamNla0NOX3FWN3IxNGNGSDBwWlp3ek50N0tUSnBmMjNIWmFkR0VpQThQQUF0ZDIyXzY3SW1EQnY1d3Z0YjFRdDJtZFZQUjJnd1EzWTJ1LUJTN2RsV0pB0gHLAUFVX3lxTE50NkNiS0lpa1dQOFN5cDBMbmttNUlxZ2hCTnVlY0drZ0lucnpJVTUxaU5IMHdZLVRKNTNBd2RRNmlxMl9GS0FaY3pwdTloU3VzQ0haMVFhdmIzZ1Vfa1otR3pvVXZ3TmMwb19kVFdoQ1JnQmh3ekVrZDRfbFU5OVVoZU5fYndQaXdzOXV2WklCa0hqR1htSjJQNEFoZFQwNzN4VWJjendaaUlBbzlmLTZmOGx4c3U3c2ZxcnQwSV9KSFMxazlSNXJLMVpj?oc=5",
-  "id": "r51"
+  "id": "r53"
  },
  {
-  "title": "Fake medicines worth ₹5.43cr seized; FIRs against 32, two held - The Times of India",
+  "title": "Fake medicines worth ₹5.43cr seized; FIRs against 32, two held - timesofindia.indiatimes.com",
   "type": "Demand",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -1097,14 +1139,14 @@
   "fit": 4,
   "margin": 3,
   "timing": 5,
-  "reason": "Demand signal via The Times of India",
-  "source": "News: The Times of India",
+  "reason": "Demand signal via timesofindia.indiatimes.com",
+  "source": "News: timesofindia.indiatimes.com",
   "date": "Thu, 20 Aug 2026",
   "phone": "",
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMmplZ0RJOWRISlZtV05YR1UwOTN3ZW4tRTMwS1VfaGpzcFExWDhOd0h4R1JhTXVjMVNLNlhMeEZZblNMTGluZDJwMUhvZUd2NnBQMkpnci1Kd01RZGlBaHNobExCUUhhc3lITHcwUzdiN0Rhc1FadzR0cDlBNElkcHZTbFBXR0V2MUJNQXpKVXdSZjk4S0ZESTFOYS0wMDJjYzZhb1ZpNVZqUHp3dXU4ZG9nRUVuZXhRc1JjN1dHZ3RDZFZRUEpmdkhHUnZ4ZFXSAdQBQVVfeXFMUDJNZXVvdWRRSVlDZDlUb3FHYmNrTUtVRTFycEJlS0dmLXZRaWRMWlZkb01fSmtZNTFpeC1Vc0R2dzNaYzR2UTdXWmpCdTdwTUotdk8zaTlPMVU0SEc4eGprWU1fbjNMSlk3aHUwdUZRbVdPYU83VUlHUmJYTUV2Y1ZZaTVlLWtKYVFkdnl1SVVrSXBMRTgxWEdQR0QtbHBSZUsxa1VWdXl1RnJqR0F5aGV1Wk9xVW01a0VFcXdxclBEd2NINnlDeEh1YTVhRW5CYld1ZDk?oc=5",
-  "id": "r52"
+  "id": "r54"
  },
  {
   "title": "Flying Machines Opens New Store in Maharashtra - Indian Retailer",
@@ -1125,28 +1167,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdEE2VXpRV1AwQ2RlNksycmo2WlRVWkNoaDZqZ3o2NlpLamFEcFFfMFFwMktQeVBtSFNVNWtPc195UmVGM29qLUxVdGY5T0ZTZVJqbThwU2tkVEhrNkZLNk02NU5POUEyNHNzRzM5SlBMSjRtX08zRGo2bjkwTnlYLU9MOGpoSWt3cnFhR1dMTXlJbWRIeGo0LVdkZk85cWV3M2c?oc=5",
-  "id": "r53"
- },
- {
-  "title": "Stelatoes Expands Footprint in Punjab with a New Store Launch in Jalandhar - Press Trust of India",
-  "type": "Demand",
-  "city": "Lucknow",
-  "corridor": "Lucknow",
-  "price": 0,
-  "rent": 0,
-  "area": 0,
-  "distress": 1,
-  "fit": 4,
-  "margin": 3,
-  "timing": 5,
-  "reason": "Demand signal via Press Trust of India",
-  "source": "News: Press Trust of India",
-  "date": "Wed, 02 Sep 2026",
-  "phone": "",
-  "lat": null,
-  "lng": null,
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLVVISDBLNk5zakZSNkhBdG5JQWZCUmQ1REFNeGNBV3MxRXZOVzB5T0Qtdi1KNjdPQVZGcTNicUNZdXp3d3d4dXdSSUNXODBBbEtSa2lCMUZrV3FZNHNnY2NkOTlqZnhyX3ZLVVJLU01YNTdLVWgtSHJPNXo2RzNBUDhSZks4TDR6N0V6Y0QxQ3phb29WRjB2bE1Sc2VYQnpJbzNTR3NiYzZkc3pNdkhsS05HZWU1anV4TmYyVnlB?oc=5",
-  "id": "r54"
+  "id": "r55"
  },
  {
   "title": "Levi’s India Reaches 500-Stores Milestone - Indian Retailer",
@@ -1167,10 +1188,10 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTnVTYm1tVVVGZi13V0dYanI2WU9QZlJyZm9ZTHdPUFQzQTBfY1RGWktLSUNLVjlpRlA3VGh6VkoxYUhzTnVsX0Zfd3pxLUJHYTdtR2NIaG92M2dCQ0huNDlKYmRqT0JjYV9TV0l3cUNlbHV0TmhNbzc2SDU3RzdWRkQ5YXppdm5rSFJTcUFyVUxyMEJzTVhIY2IwVGxuQQ?oc=5",
-  "id": "r55"
+  "id": "r56"
  },
  {
-  "title": "A complete list of dry days in India in 2026 - Condé Nast Traveller India",
+  "title": "A complete list of dry days in India in 2026 - cntraveller.in",
   "type": "Demand",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -1181,34 +1202,13 @@
   "fit": 4,
   "margin": 3,
   "timing": 5,
-  "reason": "Demand signal via Condé Nast Traveller India",
-  "source": "News: Condé Nast Traveller India",
+  "reason": "Demand signal via cntraveller.in",
+  "source": "News: cntraveller.in",
   "date": "Thu, 10 Sep 2026",
   "phone": "",
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yUFg4RTU4aEp2VkVSWDJSNHQzNzZMMWhLYTJPZjBXYXdLYkdDcmxVanBYU3VsQWtrLXhkcmtJV2htdW5TbnJJMXJ6LWM3SE9FVXg1RWVOSndFWnZQeEMwZkRiM3pSWVNNWlVKbVpfeTdiaXVxd1E?oc=5",
-  "id": "r56"
- },
- {
-  "title": "Style Union Opens New Store in Vadodara, Gujarat - Indian Retailer",
-  "type": "Demand",
-  "city": "Lucknow",
-  "corridor": "Lucknow",
-  "price": 0,
-  "rent": 0,
-  "area": 0,
-  "distress": 1,
-  "fit": 4,
-  "margin": 3,
-  "timing": 5,
-  "reason": "Demand signal via Indian Retailer",
-  "source": "News: Indian Retailer",
-  "date": "Wed, 16 Sep 2026",
-  "phone": "",
-  "lat": null,
-  "lng": null,
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORlE1UmFsUXMwRTRzaVdHdjM4OXlVc21YZkwteDc0TjhuX1ZpY1Nkb2E0TTVmMTRjZ3A3NFphLTRRY0J5OE5Bd0c1bWFsN00zV2lBRmdlSHd3MkN0OTMwWG55X1pkN1hySFRIQTk2RWVocFRaOEdPa3d6R3JVX3dxZmV0YW52d1l2bTljZk1wcktFX1ZkcFRfaE9KVHY4MW1NTDZ3?oc=5",
   "id": "r57"
  },
  {
@@ -1233,7 +1233,7 @@
   "id": "r58"
  },
  {
-  "title": "FIR against tehsildar, others for forcibly taking over shop - The Times of India",
+  "title": "FIR against tehsildar, others for forcibly taking over shop - timesofindia.indiatimes.com",
   "type": "Demand",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -1244,8 +1244,8 @@
   "fit": 4,
   "margin": 3,
   "timing": 5,
-  "reason": "Demand signal via The Times of India",
-  "source": "News: The Times of India",
+  "reason": "Demand signal via timesofindia.indiatimes.com",
+  "source": "News: timesofindia.indiatimes.com",
   "date": "Thu, 27 Aug 2026",
   "phone": "",
   "lat": null,
@@ -1254,7 +1254,7 @@
   "id": "r59"
  },
  {
-  "title": "UP Government Clears Rs 380 Crore First Instalment For New City Projects In Lucknow, Unnao And Rae Bareli - Swarajya",
+  "title": "UP Government Clears Rs 380 Crore First Instalment For New City Projects In Lucknow, Unnao And Rae Bareli - Swarajyamag",
   "type": "Demand",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -1265,8 +1265,8 @@
   "fit": 4,
   "margin": 3,
   "timing": 5,
-  "reason": "Demand signal via Swarajya",
-  "source": "News: Swarajya",
+  "reason": "Demand signal via Swarajyamag",
+  "source": "News: Swarajyamag",
   "date": "Wed, 16 Sep 2026",
   "phone": "",
   "lat": null,
@@ -1275,7 +1275,7 @@
   "id": "r60"
  },
  {
-  "title": "‘AI can revolutionise healthcare not replace docs’ - The Times of India",
+  "title": "‘AI can revolutionise healthcare not replace docs’ - timesofindia.indiatimes.com",
   "type": "Demand",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -1286,8 +1286,8 @@
   "fit": 4,
   "margin": 3,
   "timing": 5,
-  "reason": "Demand signal via The Times of India",
-  "source": "News: The Times of India",
+  "reason": "Demand signal via timesofindia.indiatimes.com",
+  "source": "News: timesofindia.indiatimes.com",
   "date": "Sat, 12 Sep 2026",
   "phone": "",
   "lat": null,
@@ -1296,7 +1296,7 @@
   "id": "r61"
  },
  {
-  "title": "A fair deal for book lovers - The Times of India",
+  "title": "A fair deal for book lovers - timesofindia.indiatimes.com",
   "type": "Demand",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -1307,8 +1307,8 @@
   "fit": 4,
   "margin": 3,
   "timing": 5,
-  "reason": "Demand signal via The Times of India",
-  "source": "News: The Times of India",
+  "reason": "Demand signal via timesofindia.indiatimes.com",
+  "source": "News: timesofindia.indiatimes.com",
   "date": "Sat, 12 Sep 2026",
   "phone": "",
   "lat": null,
@@ -1317,7 +1317,7 @@
   "id": "r62"
  },
  {
-  "title": "3 held in fake BP drug racket; trail leads to Lucknow - The Times of India",
+  "title": "3 held in fake BP drug racket; trail leads to Lucknow - timesofindia.indiatimes.com",
   "type": "Demand",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -1328,8 +1328,8 @@
   "fit": 4,
   "margin": 3,
   "timing": 5,
-  "reason": "Demand signal via The Times of India",
-  "source": "News: The Times of India",
+  "reason": "Demand signal via timesofindia.indiatimes.com",
+  "source": "News: timesofindia.indiatimes.com",
   "date": "Fri, 28 Aug 2026",
   "phone": "",
   "lat": null,
@@ -1338,7 +1338,7 @@
   "id": "r63"
  },
  {
-  "title": "Donation theft: SIT ignored land deal proof, AAP will move HC, says Sanjay Singh - The Times of India",
+  "title": "Donation theft: SIT ignored land deal proof, AAP will move HC, says Sanjay Singh - timesofindia.indiatimes.com",
   "type": "Demand",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -1349,35 +1349,14 @@
   "fit": 4,
   "margin": 3,
   "timing": 5,
-  "reason": "Demand signal via The Times of India",
-  "source": "News: The Times of India",
+  "reason": "Demand signal via timesofindia.indiatimes.com",
+  "source": "News: timesofindia.indiatimes.com",
   "date": "Wed, 29 Jul 2026",
   "phone": "",
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTFMtRktYbFlUZTZRU0FseFpvQ01WcW55enEtdGltbFFxX19ENEludFRhN3lGRmpKTXBDZlFtb25Jc0psWXJ6dVRuR1pkd2hTX3FSaHRURnNrVnRrVXlURWtTUlg2bWZPNHpqdTY3NlVwclpEaU1Ic3Nxb1FyMUhsWXNta2Foa3pDVFJ3NHlEVWg4VFRLTnBJM21NcEcxRkdpRFRnRENoLWtKcVM5ZEJkTHZ6VWVOcldxNEh4YXIycmIwY0c4NjN2ZUd2WmtYamJxNUxJM0U5VVV0VTdFOTNhdlRMYWdhYzTSAewBQVVfeXFMTzVOQk11SDBFNThraDUtZWRxTVV3Z1JaMUJFdlF0c3ZETFZSc3A2Zk1HeGhRZnN0Q3V0QVd3TjQzZk1BZk52eDl3dnhSZGROYnEwYkpITVRHS0RBSnJkbnUzSTY1bEFTZW8tclhZdGZvRUNTZC1jZ19DcXFrbTJnd0hNQTBrSEFseDlpMkxKRjJ4QXF0Y2tNMEcxQWhtYVY1UThEZ3VkdVp5elFEMTBNemdkN3JONTV5NDJ2bk53MWs5WEhKTzlqd1NMSXF4c0JLVG5oLUlrV3drNHpvVkxQR2pJMG1QclNaU3Y3ODE?oc=5",
   "id": "r64"
- },
- {
-  "title": "Retail India News: Hamster London Opens New Store at DLF Midtown Plaza - Indian Retailer",
-  "type": "Demand",
-  "city": "Lucknow",
-  "corridor": "Lucknow",
-  "price": 0,
-  "rent": 0,
-  "area": 0,
-  "distress": 1,
-  "fit": 4,
-  "margin": 3,
-  "timing": 5,
-  "reason": "Demand signal via Indian Retailer",
-  "source": "News: Indian Retailer",
-  "date": "Wed, 16 Sep 2026",
-  "phone": "",
-  "lat": null,
-  "lng": null,
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSTdyLUc2WUtKdFhFd1JsRUpjMHExNU9IbHM2TDh5Z0hfOWNuRldZYUptc1hvMXhyTlFFY2tROG1WRUo5bzBPTVltRTd6YS12QzhwZTZ2aHB3eGxKc1ZBSGp2ZmZTeUNaNzB0czlLbGxJaHJRc3h2LUtsNmJ4WXVHX045amhUc0RkdUlLbGgxWmt3NjZCRGtuQXdaXzRrUEI1dXhqVw?oc=5",
-  "id": "r65"
  },
  {
   "title": "Apple pays ₹42 lakh rent to Ambani: DLF charges ₹45 lakh – what others collect from its 4 other exclusive s... - Bhaskar English",
@@ -1398,7 +1377,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQVJFYUR6Y3VTdDZEWUFnckJEcmYzRjFmUFRoSHV5Sko3SWJVVGlXbTlfUVJDNWpsVGhiOHJDUEpadmZfejVxWkloTjRkODg0WVcxZ2wtOUNXTUhLS2lmYnR4R2pYS2M2SkdkSE5kYUZTSTVFMVVYNncyb2duU0IxYVRGVVJDYll5dU1GSHRtdWF5cm90WTlCa1JiRXZjY3pPeVRXWEU2TFJjT2wwS01DbDlDQXVYdnPSAbwBQVVfeXFMTWJrOHl1U2NDQTE1TUh0Y2E3d0ZVeXdqYTRLc3pMaFFGZFZBQVBOaVRkcGsxbFh1OVdHb0hJVTBQNWlOc2tlWFhDSks2azNuaFlXRmNTcUp3ZnFIc0NzMDNVaWlRSGxLVmdZSV9iZ0JBazVHZTFqTHJlVV8tYTFLTU9KWG1XMXJkZEcwRlBqaXR6bXRtXzBoT0pqQ0pmSm1tdWxyTWRtbHh3R1VTWElWZjFIT3BjdHlZN3BQRm4?oc=5",
-  "id": "r66"
+  "id": "r65"
  },
  {
   "title": "CaratLane to open 40-50 new stores nationally in FY27, expand Eastern India network to 35 outlets in West Bengal - Prop News Time",
@@ -1419,7 +1398,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUmpSY0tBZjlCSktaYk1YTDhVTm0zWllwU19OamdyZmduV1JjcWNxWG02ekJPUzBydHRZMmlpc1VEQ2tsV24zb3p2aDRORHpNVjl6bzF0NU40NXNWTE1POERZYmlHak12ZzFHMUhMVnNWMWpTM3RyajF4VUZBX0VaaXhDUndWeDBianNCY2E0Zmd1YTY3eGlCOE41N1BneGdGMzlQX3ZZS00ySDFqTEh6WE9FZGhRNFVZWkI1TW45NDZoX2VsUUtjVUJtcWFMandiTGtSbVVzVDByUndLTllmOFQ1WW1pMmppUWZNaUhJMGxVcmJWUUE?oc=5",
-  "id": "r67"
+  "id": "r66"
  },
  {
   "title": "The Iran War Is Making Noodles Costlier 4,500 Miles Away - The New York Times",
@@ -1440,7 +1419,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZERQVElpVU9jQVdYbS1lWHZoR0NJS3BTODRaVHAwck1GV19SdWtXRXlrS0RsU1ZqdVVGYXV6ME9kMlhHREtvUTVNNkZJVFdjQVF0eXJ3Ml95ZTBMYlU5NGNnNHd5eVdyaTU1ejZ4eVNMd2UtTmFVRk1GeGd5bmtXTmY2U3lyUWprNlhzajByN1ZQLU1WenNR?oc=5",
-  "id": "r68"
+  "id": "r67"
  },
  {
   "title": "Armed robbers break into Lko grocer’s house, attack three members of family | Hindustan Times - Hindustan Times",
@@ -1461,7 +1440,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbDF5YnBrRTNYN1BFbDVldmRmY2c0blFEWks1Y1F1cGpPbldQSmI0bVFkLUloUmI3cWZPa0JmTWU4MHR3cms5eWFCSHV1M0tRNTU3ZXZXSm9OcE9xdkpBYlZIX0txRXhtTHVkY0VGU2Y2N0xpSG5QUmVoQk5KbUNjNzVZMU40amtpSmU0NDNRZ25LNHVrUkMyUjlLbEJtdjh4aDFZV1BpeE0wN3lTazQ2SmpWQWZPZG5EaG56dHRmQXV5WDZSZ3RsZFhqY2JLY3hWMWNvdnNVbXZqNE9ZcTVB0gHkAUFVX3lxTFAzbmhwMDBVUFBaTGdCNklTTFdHelN0YTZGeGRrdmxnTGE1c294dC1aaWhvZW12clV4Y0J0QnFyVFhpZG1qNjBsNDEyUXhQeWF1cUR6aXRjTUk4Mk5sNE1MVVlBQlNERmc4RTlRYWt3RG10bXN2Tl9sS0VGaEVrNlFYRHNrN1BjSUlHWW5nRmF6M1V1M21kY05uQnp5LUxLVGxhaXFXTVlsMjNPQk5WUFE5cmtQSTgweGpHUUNwVnFUWnI4bUhwT21iWnpuQnVYUXVMcWRLdF9lMWNHdXhfY0oyOGduTQ?oc=5",
-  "id": "r69"
+  "id": "r68"
  },
  {
   "title": "Jashn Realty to launch 18-acre luxury residential project in Lucknow this year - Prop News Time",
@@ -1482,7 +1461,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaVM0UU9EZE1JT25fc09XUjBNNURVUHlMa2pURGZQMXdxeHZpcHhDSUZHMXk5QThicWtxZGhCcHlxaHJzSW9pOHM2bUVkSGUxUjQ4NWlySGY0QlU0ZVh1Y2RTSEh5NWJ6Z1V6eV9kZzY4bGNHNllEbjN0ZFhDQmJuWjdLc1RBZXliQUJ5WmtqMW9BMWVDd2dBZURsSVUySzhTNGtlZUhlZzVGZjRKWVMtaktvMkd1VlhSQmpmV3FKaUpWRUJuYWtVVVh3?oc=5",
-  "id": "r70"
+  "id": "r69"
  },
  {
   "title": "Franchise TV Exclusive: Figaro’s Pizza Launches New Store in Patna - Indian Retailer",
@@ -1503,7 +1482,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWHhmZlNTRUNWOU5VTTBDd2VzUzlvODB5LXA4OG9zQW5pRXk0dHg5R0JIWkRKRUFKOW9iM21NbXNsWVBIVGpaM3lPVlJXaEd6R0RsYVNqSzVBejg1VC12YkdRWk85Y0JBWjM1MldwVnMwTnJhenRVeWJlY1BkZlNSVnRrTUZfVUhHdWZmdzA1OEpTX3p0VjJUTDhLSktER25IM0NhdmVuVDdjY1JKQUN2WmlTQlI?oc=5",
-  "id": "r71"
+  "id": "r70"
  },
  {
   "title": "Doner Shack Opens New Outlet in Bangalore - Indian Retailer",
@@ -1524,6 +1503,27 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM3dTamRvOVVmVzdJRjZhZzFLdy1maEN2NTNlZlZ3bVZmRGZXbXM0Q1UwU1hDWlRLczFrNnFNOFVjN2s2aUFjRHQ0WDV3V2FHaVdjeGhxR0hTTnZIVEQ1MEtkUlYtdHg3LTRhSmM1aVJXaGpUcXVNSEI5N0hyTjgzam9IeTdGdmwtY0xobVRBaTJsdzJlWmtkM3h6Yw?oc=5",
+  "id": "r71"
+ },
+ {
+  "title": "Buying a home in Noida? UP RERA notifies new IFMS rules — Here's all you need to know - Livemint",
+  "type": "Demand",
+  "city": "Lucknow",
+  "corridor": "Lucknow",
+  "price": 0,
+  "rent": 0,
+  "area": 0,
+  "distress": 1,
+  "fit": 4,
+  "margin": 3,
+  "timing": 5,
+  "reason": "Demand signal via Livemint",
+  "source": "News: Livemint",
+  "date": "Tue, 18 Aug 2026",
+  "phone": "",
+  "lat": null,
+  "lng": null,
+  "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQYTlpUXBKdHBIWWNHOFRhcW91YVhsR0k2cFlMdzBNWlk1ODJsdWd1ekozZUhsYlk5WXBsZGxPbHNMdHdkaXZXNUdCQ0dHMl9MZTloOUNubkNjMW5PT0tYcGVUTy1WU01EcTF6MHJmZGxILVAyLWd2VmVLa2NkaUpVSVp4U2M0aXNaRWN0WEF5eFItdUZZZWYyeW9SVWRxdnlKcVk5ZDA3S0pnNUdCQk5lNVhqcDlJU185S1hWUGhGYWZ2ZlhIM21iY3Eya1RZOXBTajB6czhhT01wOExTUmI3R2wtbGpMV0ltQ09YR1E1ZmFpSXJnblNyT0szellDSEFrRF83VHJhdWV0VEJORHpOMkE1alkxLU3SAZwCQVVfeXFMUGt2LTJaQkpoZHowd2R2cFd4V1dSTDBmYTQtWV9qZFUycGpHeFBqMEltN2dvc1lWdzNkNDBQamtrVE9OOG4yWWswWjVZT0ZvZXlwRUNmVnhkamV1bUdLa09uQjh2dmNtenJXQjdoOFc5UHlkeW5hMW5CU0RzNEoycTI3OFZpQWhFTF9WSFlUS2xhOVV1U3ZsUUJFRU5YcnlqbWctVDJDWmVjNzFKZlNhUVJNQVNnd2paVHI0bWNFamlPZGpYWmVTVktaRGp4S3JVbUFScDdlbW12ZGkwM2p2VHd4Um5FWU5KN2VxRjdmYlpDcHB4TFpSMEVYX0RxSHB5VmNNU0FrYkdwM001cFlNaUlOVUt1RWYxelVnRG0?oc=5",
   "id": "r72"
  },
  {
@@ -1590,7 +1590,7 @@
   "id": "r75"
  },
  {
-  "title": "Diversity of Indian sarees, textile heritage displayed by diaspora women at Times Square - Mid-Day",
+  "title": "Diversity of Indian sarees, textile heritage displayed by diaspora women at Times Square - mid-day.com",
   "type": "Demand",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -1601,35 +1601,14 @@
   "fit": 4,
   "margin": 3,
   "timing": 5,
-  "reason": "Demand signal via Mid-Day",
-  "source": "News: Mid-Day",
+  "reason": "Demand signal via mid-day.com",
+  "source": "News: mid-day.com",
   "date": "Tue, 25 Aug 2026",
   "phone": "",
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdV9UUkhmbG5VUUlzOEtuVS1oQlg2ZTQwbkI4cmViSDZGVGNoUnFVbkZrb3d4cHJqa255SmwtYnRnMlpMU0lRMTczeEc0YmZjdVMxdVFqVWpJY3R6dmV5dExLT1c4U1pBaUEtVXVOc2JWcjN6bjR2aF9EU0ZIaUttMWptbmlaNmNGMjU4SXRENjZfVkk2T2dobWFZN1pWWmFhSWxvTnpJUTB6OGtiNXFicnpUdXVMRWx4YUY3Z1dkQTcwS1RVOVd3YmppcjY1UGVZZlRaQmx6VHU4OFd6UkZEcDRfWmbSAeoBQVVfeXFMUGF1c01RSE1abTFLcVNlR2EyNGNScnRCZkRYN1U5WlRlaGE3UkJJaW5ENmtQY2lEY2djdXFJZ3NRUU1wNlkyREE3ZkFBYmhlMlhsTW9BcV9TWFp5VFFUMUhneW1Qdy1uUHBKWUxwZmd5c3lYT0ZrRTNxTWd4dnZ0LXVSQ3ZfVTdVa0hzTjVheEV1cGxMLUY4U0U3V09Fd1lpNmZDYTFNU3hvU0kwdlU0b3lwdHdiRHhwRXk0dnY5bVZtRzViR1IzQXZBNHlYX0xMWU5fVnJ5c2RMOFlkbXA0NmRVWFhvYnhXNTB3?oc=5",
   "id": "r76"
- },
- {
-  "title": "Stelatoes Expands Footprint in Punjab with a New Store Launch in Jalandhar - Big News Network.com",
-  "type": "Demand",
-  "city": "Lucknow",
-  "corridor": "Lucknow",
-  "price": 0,
-  "rent": 0,
-  "area": 0,
-  "distress": 1,
-  "fit": 4,
-  "margin": 3,
-  "timing": 5,
-  "reason": "Demand signal via Big News Network.com",
-  "source": "News: Big News Network.com",
-  "date": "Wed, 02 Sep 2026",
-  "phone": "",
-  "lat": null,
-  "lng": null,
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWkpHTUVHWFB3QmZEbUJla1FMY1c3N3FHLXdvdWdGYVFIZ0czVmd6ME5lTzFSUDVoMG1jNEZ3YWFCc0prd0FXR0ZNWWpRZFp4aW5aT3NidjM1ajN2bzZiMWZ2MVBIVEdaVnUxNGl4WkV0cllnT0h1RE1wal9Bemo4UFBVamFkUDBTVEM3SHVoTWs1Qk1FWHBLY3daMUREdlVBb2FBTkQtaUI5eFZhTFZiZm43ZWpHS0F0WDBhcw?oc=5",
-  "id": "r77"
  },
  {
   "title": "Uttar Pradesh: Lucknow Gets New Vehicle Detention Yard At Ahimamau; Facility To Store 237 Seized Vehicles - Free Press Journal",
@@ -1650,7 +1629,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUDE4N2JwREhvcGttcWx1RnlydW15c0VVeXFPdGhkQ0k3em44a0VZMExoclBfZUdlRlh2MzNUbHM4dVJDTnVzcGRqNHdlbGRra0JyM2xZWEgwWW9qelhYb2pmZVlqVVUwRFo4ZU40ejRkMEl5QXdYaEZUSmRxWEhpaVp5NkpUOVVzb2JuZnYtUldKSTZSTHpoRGdCQjNUS1M2aUUxUDhCbGlnWFdjUy1yQ2E1Wlo4V0NhNVdNWklwN0M5a3NIdnF3STNtYWlnWVR2QUQyS0o4Ymx0Q181SmVLZ1cxUdIB6AFBVV95cUxQZnpkT040eWl1YTVrLXhWYUFrMnhWY3U4NkJjeTBEcTVSUURLWFBSY0tGX0ZHaERGMDdScVR5cWo2dnVpQnZ3dU5lcXJyMWkyQ1E0ZUh6WndLNkt4SE4xR1RvdFBMRDQ3WnozeE92aHpHU3VNU0ljbVJxaUxDQ2h2ZXpPUW9ETnJKNzNkWlRabGk0czhpVFdlc0pOLW1RSkZwX3BpV1NKY0xWVE40ejhDemk2dkVhSGk4b2ROUU5UWUNWeFFxeGtYOTNHeEkzYmgwT0lxNkg3ZWQ0U3BYdjE3b255NGJ4djFt?oc=5",
-  "id": "r78"
+  "id": "r77"
  },
  {
   "title": "Ravi Shastri or Rahul Dravid? England’s new Test coach almost finalsied; Know here - Khel Now",
@@ -1671,7 +1650,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBhQzgtaFdselprZ3dfTVlzQWJsWl9vZml4aW4xVXU1b09ENUU1RFM2RVNXX0NIZ19xYXVTN3RVbTBnOEFxa0h4cEhGa0NhSlhOQ0syODlWVzhTLVNjVlJwWEhDeE1hQkdWRVBRZGdZMnhYSkZCRDdJSUpHRQ?oc=5",
-  "id": "r79"
+  "id": "r78"
  },
  {
   "title": "Fashion and apparel remains India’s largest retail leasing category in H1 says CBRE - FashionNetwork - The World's Fashion Busines",
@@ -1692,10 +1671,10 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQmh6S1ROdm5Gc0cwcnZ6aVlORTBJLWpuVHJrWjBMd1pVbmx0S19la0J3bnNaWUpBQnE3T3MzVThOS1d5ZFE0T1Bad0RacTlhbDcteUZ5RmMxN2o2UGpVbFFUN3lyRXF4VFZPNnVRY2g1TkNqNnJfYUpMZm1JNkxBeGVyd2ZYQjVvT184T3lYdWduQ0VhU2s3NFNLRXo4clZMQWgxS2lOLWM0ZEx2eXlmNTczZUNxRnZtd0FNV0ZNQmZLLUpUQXZMYm0wUQ?oc=5",
-  "id": "r80"
+  "id": "r79"
  },
  {
-  "title": "Mercedes-Benz Expands Uttar Pradesh Footprint With New T&T Motors Luxury Showroom in Lucknow - Autopunditz",
+  "title": "Mercedes-Benz Expands Uttar Pradesh Footprint With New T&T Motors Luxury Showroom in Lucknow - autopunditz.com",
   "type": "Demand",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -1706,13 +1685,34 @@
   "fit": 4,
   "margin": 3,
   "timing": 5,
-  "reason": "Demand signal via Autopunditz",
-  "source": "News: Autopunditz",
+  "reason": "Demand signal via autopunditz.com",
+  "source": "News: autopunditz.com",
   "date": "Mon, 17 Aug 2026",
   "phone": "",
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOazduWDZ6US1UMG5sMUY4MGZteEJEcFpqcWcwZDItdHphcnJtUFRnbWZsT09FZjhFWF92eDZ0Q09LUldlaTEwQU1JQ0FxNG5ZZDFYamR4SWczUDllX1hQbHd0RnRaZHpYT0tqNWJfVDlfalNIdXR2aHpqTHZaVkg5NW83QlB3VGs?oc=5",
+  "id": "r80"
+ },
+ {
+  "title": "Uniqlo India to focus expansion on six cities where it has a presence - Business Standard",
+  "type": "Demand",
+  "city": "Lucknow",
+  "corridor": "Lucknow",
+  "price": 0,
+  "rent": 0,
+  "area": 0,
+  "distress": 1,
+  "fit": 4,
+  "margin": 3,
+  "timing": 5,
+  "reason": "Demand signal via Business Standard",
+  "source": "News: Business Standard",
+  "date": "Tue, 25 Aug 2026",
+  "phone": "",
+  "lat": null,
+  "lng": null,
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQWU1LWR3UGtFcUJxWndoMk96bjFFeHl4RF9PVHFScTVWYkRoVnJ2a0ZMTnVFVThRU0d1Z3BWNWxVRGtXY0dBREFMNVFiMUdrRmpPUngwS21WaXp5RmFVSWdkNzdqMTlCUlgzeFFMNWJaQjJNWVhsdkZnZnlxenZtc2szeVE5S0U5b3ZqT2JCeks1cEFLbDNYWDFybDB4WVEzSUlzajFza3prdjFPMDE1RGR3WXBHbkNHOW1kN2FjWjk4elZQaGhCUXdza2dNd2cxNFhLZtIB2gFBVV95cUxNTk5oU3FMdDhZN1NqYlUzdzFqWklGNHdkcXgxTW9MR256eTNwbGprMVA0ek1RUDdjVzdWNUpXNEdxYUdZVDFkUkE0NXd0bjhLLXpHSFV5aVV0NWc0bm5aUHhSdU92MGtNZFFsQ0Eya0owTjd5SGdQaGhoN3BaUDJaT0duRW93Q3JNVHpOTEMtOHhYSjBUOEJIaEpUZUFoaTU1aTJocW01MU9ZVkI0SFpRRk1QRkJlc0xBWjI0Y0lRdlNTamhVelF1R0p0czZoZlE0TUt2SkRWcVB6UQ?oc=5",
   "id": "r81"
  },
  {
@@ -1758,7 +1758,7 @@
   "id": "r83"
  },
  {
-  "title": "HealthKart Opens First International Stores in Dubai - Indian Retailer",
+  "title": "UP’s infra push: Foundation of the best - timesofindia.indiatimes.com",
   "type": "Demand",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -1769,35 +1769,14 @@
   "fit": 4,
   "margin": 3,
   "timing": 5,
-  "reason": "Demand signal via Indian Retailer",
-  "source": "News: Indian Retailer",
-  "date": "Wed, 29 Jul 2026",
-  "phone": "",
-  "lat": null,
-  "lng": null,
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR241OFRfdUNxOURheWpiajREMFJBdGM1S0lQT0pySFkza2k4TDA0Q2l5ZmFlaXVibVY0NWtiSWxsdGlJeUZkcXRJcnZENEs2cVRYSWlHdXR4NHVXN19kcDQ1ZFdRNlIzdlluX2UxT010eDBmQzkxbzI2YnpHLWVBSEM1aGVwTjJwUEpvS0dR?oc=5",
-  "id": "r84"
- },
- {
-  "title": "UP’s infra push: Foundation of the best - The Times of India",
-  "type": "Demand",
-  "city": "Lucknow",
-  "corridor": "Lucknow",
-  "price": 0,
-  "rent": 0,
-  "area": 0,
-  "distress": 1,
-  "fit": 4,
-  "margin": 3,
-  "timing": 5,
-  "reason": "Demand signal via The Times of India",
-  "source": "News: The Times of India",
+  "reason": "Demand signal via timesofindia.indiatimes.com",
+  "source": "News: timesofindia.indiatimes.com",
   "date": "Mon, 27 Jul 2026",
   "phone": "",
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb2UxeVM0Ul8xLW4yaE1saENrVV81cE9GT1ZsWGNYRTY2X0w0T3M5QVE1WU54bDhqNU84eWFHb3V0UFNvTVZvQkJuZkVPSjV1OXZVakQ5WmpqbGtLcTJ1SkVlZG12LW5kcV8tUXVCSVItWmJ4alF3el95XzZrdG5jVjdUeXJqenZaSXhtd2piZHRFeG5TSEJCdkpIVV9jZ2M4c1J0TG5OWG9SN2dCUE1VSFhB0gG3AUFVX3lxTE5MTGxpN2dyYWxFZnRrRjgyYk1Bb2pCY2drbk1Xbm1kbE85R2F5OVRVUXR1clJ5UVdsb3dPSGQ3TW1QaUljVjlPNzZSS2dZYVR0UXYyNWFYNVNQYTk1ZEJmajRnbmY5ZEw2TURTSkZWYjRwVUd1Vm55Yk13Zm45c0xrYmdaMUNpU2ZVOWxFUVhMaEFKUGk1NjRYZldTSHJ3eDgyaFVyMTJxVV9qTUdxUUZRZFlleHlmOA?oc=5",
-  "id": "r85"
+  "id": "r84"
  },
  {
   "title": "Emerging Micro-Markets Across Lucknow Are Driving New Residential Development and Buyer Demand - Realty Today",
@@ -1818,10 +1797,10 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYU1EYkYtOUlrd1ltbEYweWwwd0RNVWdPVHRWR3hoSkhxSDk2aVJUTEZoYmpZNWFXQ0xsZWR3WGh1cFRtakxlbXFnb0N1QlQwd1Q2c2NpNHpkNkFXLWs2cnlHR3JHX0xHTTJkZHkzUDZ6dndJejVSQ25yRmUyVW01eWo4VnlVYTRzWTFvNF9ZWndtV3VtUmR2T2Uwb2d6YnJRZU5KcGF5VDJBUnNGUllQdWlYbVp4eldfUktRSjdzNXpxdXpja3lmcVQyNko2d05CU1NWVDN3R0tETFk?oc=5",
-  "id": "r86"
+  "id": "r85"
  },
  {
-  "title": "Amethi: From political hotbed to economic and industrial hub - The Times of India",
+  "title": "Amethi: From political hotbed to economic and industrial hub - timesofindia.indiatimes.com",
   "type": "Demand",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -1832,14 +1811,14 @@
   "fit": 4,
   "margin": 3,
   "timing": 5,
-  "reason": "Demand signal via The Times of India",
-  "source": "News: The Times of India",
+  "reason": "Demand signal via timesofindia.indiatimes.com",
+  "source": "News: timesofindia.indiatimes.com",
   "date": "Mon, 17 Aug 2026",
   "phone": "",
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcF96akZTTEpfUjBMeXBPY0VzSFl3U1VUbVc0RzVlOWVTNGNOS2Z6ZXp6T01KTmZwZi13QmpwVVo0WnVMejJxNzNDeVJkSlBQb1lyR0xjQi1LMWNTbXIzTjJKWUFYaHNZY1lKTlRqdXY4aFNtT3VPbEh1ZHY0YkVXRXY2U3NMaEFIWWhCdWtHUmsxcjY2MTBocjJSMDA0UFVVQk9GSm44aTZKYV9iSGdZZzJib2Vjd1ZPNFpvY0M3bnZSa085Z3B0WXZoLTBJazDSAdQBQVVfeXFMT2xEb1NDMnJGc2N6WjJjay03VnF4VlZTZXRqNF9zeVF5aU9Oa0FYQzJIM1FyNmEtZXhLSGE0elI1WFVZd0VNTVdBb2ViTnRXQ1dhM2JEWUlIUW1ra2VTeWxOUzJ0MEFCVzNKNExQTEFtcXB3MzA5QjExbER2TmNSUndCZ3FsbllLd2VvVGFIQlZEa2h2SmFXdElETU5RZmEtUkZuQ21ZcFhqYXlFdkhJZEpaS01iQUVJYmxsRTdhNDM0eW5wR0N1NTNKMlBGWEVPV0dfd2U?oc=5",
-  "id": "r87"
+  "id": "r86"
  },
  {
   "title": "Retail India News: Bata India Reports 23 Pc PAT Growth in Q1 FY27 - Indian Retailer",
@@ -1860,10 +1839,10 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPejRubDMxdWRyR2Q5eVR4WFUxbkJ0bUc5b1lGUFozeUxBMmtyWjBXSDFQWFF4T080RF8ybU9MVGlzeEhHQ2RNUFpIeWg2N00xdlV2ZmZnTUNjRWVKNkswbjV6ZG15MUw0UkNqYVdzeFgxbkNmOXE1RkgzRjF5Nk9CdEJDSkJQN3VaWk5CTjhLSHU0U2FsTl8xREhseENpdw?oc=5",
-  "id": "r88"
+  "id": "r87"
  },
  {
-  "title": "Prominent Mall and Prominent Cinemas Turn Janmashtami Launch Into Lucknow’s New Entertainment Talking Point - tribuneindia.com",
+  "title": "Prominent Mall and Prominent Cinemas Turn Janmashtami Launch Into Lucknow’s New Entertainment Talking Point - The Tribune",
   "type": "Demand",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -1874,17 +1853,17 @@
   "fit": 4,
   "margin": 3,
   "timing": 5,
-  "reason": "Demand signal via tribuneindia.com",
-  "source": "News: tribuneindia.com",
+  "reason": "Demand signal via The Tribune",
+  "source": "News: The Tribune",
   "date": "Thu, 10 Sep 2026",
   "phone": "",
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcVJjTXRLMXZPR3RTTGtqRkNwSURYX3hVbFgxSENVaS1STDdLNnNDNF9YTnJJeE1WWlB2OFZyMmpGdG1lb2pQQkUxVXdFeEZjdXNLVGxIRTR3WV9FRlRJUUxGUkV2VDJxVm9QVVVMWWpNb0NDdkRjUDJQampmcUI3RlBhQ01tSFhwY1lLcGllb1diV0ZMbkRlZU8xczd0aWM3cUItclZQbHNyVEJiZG1NcTI5ZkQ0TW9IQ2trVDhmN1Q2WjJOXzYwTDRpYk9iNG5aLUZnSFJvbVdfWUZ5UFlpaEdVQ0TSAegBQVVfeXFMTzFhSlF0dzhIVzdmcFY5bDZDQ3ptNEhwSVp0NXNCRjBibGZDNUUtNDd4eDN5cWZIa3NzU205S24tOGVCb0Y3Zl9RSGhWSVRDU0dZaktxU0JlOWp1c1VJNlNDNkQ4MHMxaC0wSDQxZVFmY1dsVXVZY0RFamk5bjZiRUxLMFlrUzg4SWpNcG1LdXlJVm0waWU3NUJ3V3ZDX01oQXo5Y2o4dm44SW9tUXZaT3ZBb05qZVBremZMOU5MX2FFbFpkc2pMRmZaMzhqNVYtdjZOYnhzb3JmSUxuSmhQRWxJMjJlaW1MMA?oc=5",
-  "id": "r89"
+  "id": "r88"
  },
  {
-  "title": "Beyond the metros: 25 lessons marketers should learn from the Dainik Bhaskar-Kantar Urban Bharat report - MediaBrief",
+  "title": "Beyond the metros: 25 lessons marketers should learn from the Dainik Bhaskar-Kantar Urban Bharat report - mediabrief.com",
   "type": "Demand",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -1895,13 +1874,34 @@
   "fit": 4,
   "margin": 3,
   "timing": 5,
-  "reason": "Demand signal via MediaBrief",
-  "source": "News: MediaBrief",
+  "reason": "Demand signal via mediabrief.com",
+  "source": "News: mediabrief.com",
   "date": "Wed, 22 Jul 2026",
   "phone": "",
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcFhESi01QnNRd05uZV9NenNTaTlubDhUV3VhUGNXeVVfcnFjSzlrVTBsdGRsRnhqZUZaWkhsTXh5LWJNUFN1M3BxbFlZV04zMVpwYzBPalVNWXRRVWZzV2E3LUVJY3NpR2R1Nk5hSG81a2pzSEpmQjl2TENyc1pFWWxJQVFOX05Yc2oteGFn?oc=5",
+  "id": "r89"
+ },
+ {
+  "title": "Flipkart Minutes Moves 12 Dark Stores Ahead of Swiggy Instamart Across India’s Top 10 Cities - ascendants.in",
+  "type": "Demand",
+  "city": "Lucknow",
+  "corridor": "Lucknow",
+  "price": 0,
+  "rent": 0,
+  "area": 0,
+  "distress": 1,
+  "fit": 4,
+  "margin": 3,
+  "timing": 5,
+  "reason": "Demand signal via ascendants.in",
+  "source": "News: ascendants.in",
+  "date": "Wed, 26 Aug 2026",
+  "phone": "",
+  "lat": null,
+  "lng": null,
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMUxzODlUa3JOby1rdHp1ZUF6WFoxQmxRMzZQNTZKUFNIVzJqRlZ4cHhodzdweWFFWV9TUmEycDlFcVg2MXBkd0o0RFJPalFkTkFGNnpEb0dtTnZ5Q2ExSklnTDlvZFQ4N0hUc1BVdGNidDhVbHN0X2l0WURiMk1RajhsYmZXMjIzY3ROaTJOX09wbFhOOTM4WVZadXV1amJXam91eFpudDFzdUpwX0E?oc=5",
   "id": "r90"
  },
  {
