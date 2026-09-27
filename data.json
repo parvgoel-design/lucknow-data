@@ -120,7 +120,7 @@
   "id": "r5"
  },
  {
-  "title": "Gurugram Homebuyer Gets RERA Relief After Builder Loses Project Registration - outlookmoney.com",
+  "title": "Gurugram Homebuyer Gets RERA Relief After Builder Loses Project Registration - Outlook Money",
   "type": "Stalled",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -131,8 +131,8 @@
   "fit": 4,
   "margin": 4,
   "timing": 4,
-  "reason": "Stalled signal via outlookmoney.com",
-  "source": "News: outlookmoney.com",
+  "reason": "Stalled signal via Outlook Money",
+  "source": "News: Outlook Money",
   "date": "Wed, 09 Sep 2026",
   "phone": "",
   "lat": null,
@@ -435,7 +435,7 @@
   "id": "r20"
  },
  {
-  "title": "Why REITs Could Change How Indians Invest In Real Estate - outlookmoney.com",
+  "title": "Why REITs Could Change How Indians Invest In Real Estate - Outlook Money",
   "type": "Listing",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -446,8 +446,8 @@
   "fit": 4,
   "margin": 4,
   "timing": 3,
-  "reason": "Listing signal via outlookmoney.com",
-  "source": "News: outlookmoney.com",
+  "reason": "Listing signal via Outlook Money",
+  "source": "News: Outlook Money",
   "date": "Mon, 10 Aug 2026",
   "phone": "",
   "lat": null,
@@ -973,7 +973,7 @@
   "timing": 5,
   "reason": "Demand signal via The Times of India",
   "source": "News: The Times of India",
-  "date": "Mon, 14 Sep 2026",
+  "date": "Tue, 15 Sep 2026",
   "phone": "",
   "lat": null,
   "lng": null,
@@ -1023,7 +1023,7 @@
   "id": "r48"
  },
  {
-  "title": "Vishal Mega Mart Plans Analyst and Investor Meeting on September 24 - sahi.com",
+  "title": "Vishal Mega Mart Plans Analyst and Investor Meeting on September 24 - Sahi",
   "type": "Demand",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -1034,8 +1034,8 @@
   "fit": 4,
   "margin": 3,
   "timing": 5,
-  "reason": "Demand signal via sahi.com",
-  "source": "News: sahi.com",
+  "reason": "Demand signal via Sahi",
+  "source": "News: Sahi",
   "date": "Fri, 18 Sep 2026",
   "phone": "",
   "lat": null,
@@ -1191,7 +1191,7 @@
   "id": "r56"
  },
  {
-  "title": "A complete list of dry days in India in 2026 - Condé Nast Traveller India",
+  "title": "A complete list of dry days in India in 2026 - cntraveller.in",
   "type": "Demand",
   "city": "Lucknow",
   "corridor": "Lucknow",
@@ -1202,14 +1202,35 @@
   "fit": 4,
   "margin": 3,
   "timing": 5,
-  "reason": "Demand signal via Condé Nast Traveller India",
-  "source": "News: Condé Nast Traveller India",
+  "reason": "Demand signal via cntraveller.in",
+  "source": "News: cntraveller.in",
   "date": "Fri, 25 Sep 2026",
   "phone": "",
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yUFg4RTU4aEp2VkVSWDJSNHQzNzZMMWhLYTJPZjBXYXdLYkdDcmxVanBYU3VsQWtrLXhkcmtJV2htdW5TbnJJMXJ6LWM3SE9FVXg1RWVOSndFWnZQeEMwZkRiM3pSWVNNWlVKbVpfeTdiaXVxd1E?oc=5",
   "id": "r57"
+ },
+ {
+  "title": "Birkenstock unveils new store in Hyderabad - Retail4growth",
+  "type": "Demand",
+  "city": "Lucknow",
+  "corridor": "Lucknow",
+  "price": 0,
+  "rent": 0,
+  "area": 0,
+  "distress": 1,
+  "fit": 4,
+  "margin": 3,
+  "timing": 5,
+  "reason": "Demand signal via Retail4growth",
+  "source": "News: Retail4growth",
+  "date": "Mon, 21 Sep 2026",
+  "phone": "",
+  "lat": null,
+  "lng": null,
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMmJ2Vzh5c2F6YUtILWludVZhZHFES25Lb2JKLXVBeV9Ld1dFbVZXRjVOQjlJNUh4RFlKNHNMOXQ3NVhWbGU3eFRaMGpqenNvd2psTHFVM0xkYzFhdlZyT0lMdUZPNmNqOUIwOU96ZFVlX0RzQzFNdlB0ZDZuVG5Lb0pxSi1Vams3YnfSAZABQVVfeXFMTnUxX2V1QndkdjNxSEVkYVdWeGpmTGV1YVlRQ0tFQzZhUkppS09qVGdiSm9kdEl1dmI4TGh1WmJMRDRIbExjSzdrd240eTd0N0dhMVlyRGw5SHFiaWtwX0FGajNlc21SOUJQRVlVSDJkU0txQ1pQbFBzenVTcWxmeTdiZnF0dUQzWU5STEFtNjY5?oc=5",
+  "id": "r58"
  },
  {
   "title": "Bosch Expands Retail Footprint with 30 New Brand Stores Across 21 Cities - Indian Retailer",
@@ -1230,7 +1251,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSFpmVmRCcWNjN2ZKNy1FOWFUUjVwYkFLNkNVcF84RmJSMHFMUFJvdXpJLXl3TWxfZTA4WGF0YUd5Z3otaUxnZXB2NlVqc2Z2aEFFSEpEYkNYRjhIU09sZG1PeUNzRnRlaDdzZUxwblNwV3l5OWNBYlBZQjF4cFF1eWRFTmtja2wyc3V0UFdXcjE4SEtpeTAtaWZiNGpHZk4tY3VjN3VNaWNoZ184T0I4S1lxV0NQVDZDdzhrOGlyYjhydw?oc=5",
-  "id": "r58"
+  "id": "r59"
  },
  {
   "title": "Weekly expansion recap: Third Wave Coffee targets 320 cafés, Pepe Jeans expands Bengaluru footprint - ET Retail",
@@ -1251,7 +1272,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNcDJJaXpPSXRvTW9lOXh4US1FQjlMSW90eWRaaE1TN0pEYmlUWEFpZkJZVUM4UUl6WllYbU1zM0RPWXN5NGdER1lHcGp3VHBZOEF1YXpLRUE3bEFuYzBnWTBlbTIwSnoxZndoQ0gwXzRyNllWdnlqSlNLUklQRUhzdmlxS2NNUU53Q2d6bkxSdk80MGh5SVhDTUV0a2x5QnliazNUZUhyeVFiVXNRTmpsYl9FNGxtdE96OWZpVkgtQXRoODNUMWVfdFNXSTJ4Yl94OUtzYnhoSDZfd1VKdG5TaVdVMmZEME5DMEp6UVdHd3oxT3Z0eE1B0gH8AUFVX3lxTE5DS2FMSWM1ZG5sSmg2M0Q4OG9NWG9NY0hKSnRXNGxxZTc5MmVhVGRYdmVyaWtqUzhvREVWZWJna2NwcUZadFJkQlBoNmpsSk1DN3JUdzFiVTBEV29NYTJMaUQ3QnNZaFBTc0FWMWtwSVdWWU1VbEVfZ0plY0dONUZ3ZkE2TkZxMHgyTnZFcGVFaG1NTjVsS25NS2RQaGtkXzUwZmV2VFF6Z1lERktrOE5WSGZSa1J2TFh6MUpPWGdmNW5ncHVZRC1waTdfUEtxeE1YeV9jam41ZzFPbEFXT0NGQWVIWDh5R0pRQXpSaFpiMUF3dUdMYmVObVlScg?oc=5",
-  "id": "r59"
+  "id": "r60"
  },
  {
   "title": "Swiss Watch Brand Longines Expands Bengaluru Presence with New Store Launch - Indian Retailer",
@@ -1272,27 +1293,6 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdml1VHBrLXRPakFudHJYZTJaa0pQZ1FUU1ZoQlJLXzJDVDNvaTVXdWNOZTh3YjBNZ212TTZWaG1uN3p0VVFYaUdwYmhZZkxKSFp2MDMxeHFhYkM3SW03SHFhV3I4U2xnNkdHM1ladFZWRnlGMmQxb0NnME1kTW1HZFIwUk1BR21ST2VJUDN1VVRvM0llY0lIbG0xWVg2RGlEdWNBa1I2aURfQQ?oc=5",
-  "id": "r60"
- },
- {
-  "title": "FIR against tehsildar, others for forcibly taking over shop - The Times of India",
-  "type": "Demand",
-  "city": "Lucknow",
-  "corridor": "Lucknow",
-  "price": 0,
-  "rent": 0,
-  "area": 0,
-  "distress": 1,
-  "fit": 4,
-  "margin": 3,
-  "timing": 5,
-  "reason": "Demand signal via The Times of India",
-  "source": "News: The Times of India",
-  "date": "Thu, 27 Aug 2026",
-  "phone": "",
-  "lat": null,
-  "lng": null,
-  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdm40YzF6dmFIa1dnMmg4Q3RwVmNtekFrQ2xlZVo3bW1USTlSR3kwVUlZMUJQUi03cmcycV91ZHRscW5SRGZxQTVYZXhFT1dJQ005TS0zTjNJQUY4TVRoMHk5RllLRFFmRzdMczVVOUVIZEpOWDhBVVNGLVNsOFRpNDhfZzdRWGwzcjA2cVp0V1RvZDk5VkZnV1piTXRwVUhKNTdGX1U5bGlycXE2OV9SMGZrNXZVV2RZZE5zSWNIRXlnV1BUUFZsZ0ZiRk9qZ9IB0wFBVV95cUxNcU0yS19wSnhnUHpJNE9hNHRvMTNHNXd6aEc4QzJpSFgybTBwamtyYnVkUTdaRnB6RlFIVWJxU2JyN2pkdm5QeXA2NzB4MXN0VUxydW81Z2VPWm8ya0hFM3pfTGNiV1lLLVkwdThKSE9QNFNuVzVKS3QwQ2ZzMWRWN0NFTUIyNUdiMzhjeTdEajR5bGdwM0pubVpxeWhaRTBZNVBSWnYwNFNvZnBFNzVhd0lrZDdrejVWTkpPSVY5d25MWUpaMmN2cjd4OUxnUzQ5bC1F?oc=5",
   "id": "r61"
  },
  {
@@ -1338,27 +1338,6 @@
   "id": "r63"
  },
  {
-  "title": "Birkenstock unveils new store in Hyderabad - Retail4growth",
-  "type": "Demand",
-  "city": "Lucknow",
-  "corridor": "Lucknow",
-  "price": 0,
-  "rent": 0,
-  "area": 0,
-  "distress": 1,
-  "fit": 4,
-  "margin": 3,
-  "timing": 5,
-  "reason": "Demand signal via Retail4growth",
-  "source": "News: Retail4growth",
-  "date": "Mon, 21 Sep 2026",
-  "phone": "",
-  "lat": null,
-  "lng": null,
-  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMmJ2Vzh5c2F6YUtILWludVZhZHFES25Lb2JKLXVBeV9Ld1dFbVZXRjVOQjlJNUh4RFlKNHNMOXQ3NVhWbGU3eFRaMGpqenNvd2psTHFVM0xkYzFhdlZyT0lMdUZPNmNqOUIwOU96ZFVlX0RzQzFNdlB0ZDZuVG5Lb0pxSi1Vams3YnfSAZABQVVfeXFMTnUxX2V1QndkdjNxSEVkYVdWeGpmTGV1YVlRQ0tFQzZhUkppS09qVGdiSm9kdEl1dmI4TGh1WmJMRDRIbExjSzdrd240eTd0N0dhMVlyRGw5SHFiaWtwX0FGajNlc21SOUJQRVlVSDJkU0txQ1pQbFBzenVTcWxmeTdiZnF0dUQzWU5STEFtNjY5?oc=5",
-  "id": "r64"
- },
- {
   "title": "UP Government Clears Rs 380 Crore First Instalment For New City Projects In Lucknow, Unnao And Rae Bareli - Swarajya",
   "type": "Demand",
   "city": "Lucknow",
@@ -1377,7 +1356,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTjY4NVlJaW9IeHNlTVA2LWVmZkFXZjl5ajRUN0F5Z3Y2RnJ4eEdDWHhSMkhHSWJFbGxnMElVVU93aUFQRzhWZndFVTdTTTVZT2ZaMG00RnEtaHBnMWtwUFBRbTlNOVU4T2RwTXgyMUVrTERQTF9XRUo0eUp6NUZpbmxpSUhleDJJYTRmS2NsVzdjd2ZzdUR4UHc1NkpkenA1eFl3Qjh5RHZZcWRQVU5jdlozVFI0cjN1LVFmSEM1TWJMQ0JadkE4LW4zUmVyR2lRcG1LakNn0gHmAUFVX3lxTE80Mk9samM5YXBqYnU4bWF5ZGFzcEZzQnprOUdGRl9tbFpfbGJPMzE2bU1IVFVNdmxqckFaX0pVV0V1aExrTVhiMk5LaDMyZzZ3Smx2NzVjUmlUV0I0aGY5WkdhemxQdHJvOXFuV2ZWWk90QUZTalJua3dBSko4ZmtkbFRjZFdOVjZNUXRWOWY0STFudGlvTFlDaFJCVkFWeEdrczlKT0xqWDlWT2N4dGJjaEEzOF83TzBXa3J1TEhXcWpxZmVOZFNZLWl5SEIyRVduSmVmS09wVUM3d01rX2xCVGdueUFB?oc=5",
-  "id": "r65"
+  "id": "r64"
  },
  {
   "title": "UP CM Yogi Adityanath Meets Japanese Exchange Students In Lucknow As Selfies Go Viral – India Today - India Today - India Today",
@@ -1398,7 +1377,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYUY5OVdEVXh1aWZ5cDdFUGU3bXg1Q24wNW1ocWQ3cGZveDBpNlRMWUZUYlRoYWZjT0pLekZtN3lpaGcyS1lBeXZlZE0weG41MGxpUUtpeVE1Sk1yZFpub3hOT3FxLVBaZG44UW92Y3pjcko0YzY2WkcyanlGY3pJT3ZZVXpSU3dRWnNNUWtLNExWRE9BRDdPSjA0TU9TMVVNaDRQQWxkQjJTVG4ydXFpMUdUaGNPXy1nYU9Ba2xIejFhaFp4aVJuUnowN3RKOGhaZGdQSlV5RlJ1Vm9ld1NnTtIB5gFBVV95cUxOVHJVVVoyc1pNMjdtTmk5aFh1RWY0aGdSaDFzQUJiR25Jd0xocFRhaFdKWTRncGwzd3hBVi12bFN6RXd4R0w0em8wTnNiZHNGTWg5QW1IY25WVlJzUG5jcU5vbTRmcWFyaGZ2VXhSeVd6RmxfUFVHaEd3NjVKNGVuZENuVG1sVkFDMU13aGJnUjFSM3R4WnZVWXViaHA1RDFUbmdiTGNCcHBtOVNDc240a1V0MXhDaG1MUFJ6NXBGWFdMdWV0cDBURm5VdThveXpPWEE0Mkt3RVphVUxybjkzMjQ0MHM1dw?oc=5",
-  "id": "r66"
+  "id": "r65"
  },
  {
   "title": "Water supply to be hit in Aishbagh, Balaganj today - The Times of India",
@@ -1419,7 +1398,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNblFXcnhlQTRpRWVUT1FSWDRobmpNbUJWZnBwaVRRZ2h3NXlNT0RYVDlNMFBvTm5TQnJ3NmJSal9BUnc2QlpLc1NVaEZRVElMQTFTUjZYem5fV0hmM3NUcXdfZWNtWkYzamN0Y2F6a0FINXlPdVRBWTd4YWxKclhfaFZUVUIyRHZmTmJ0ZENKdXJpWGNjRERjQ0JZenRldVpMYV9zMGc1V0ozLXU1bkt6eTZoalhHZlRHMHNaUHNreDI4QdIBxwFBVV95cUxNZTNiZlZVQWhmeXAtc2M2Qm1GNThfYmxHZExZRzJtT0pUa2RmNHB6dExCa3JLdEhLUWFKREFTWEFvM2NjYXpTcTNDRC1meVM1blptX1JEZ0lVbmNGaFV5aThSRjFDT0xiczZpdFkxdW9DZDZ2THpQTC10X3NiQnVlekhzWjRxcTEyWVNjWWU3R0RYYUJKNDVVMi0zRElzZlVHejBQSmktUWtjSGN4eF9ZWlBaXzJnVFBXRFc1VVltS2JFWDNZNmZJ?oc=5",
-  "id": "r67"
+  "id": "r66"
  },
  {
   "title": "Flipkart Minutes overtakes Swiggy Instamart in dark stores across top 10 cities - ET Retail",
@@ -1440,7 +1419,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNGgxN3c4OVhnRDZVanlibWZnUkZVN1RVTEdjYzhIQjBKakZ5WEpkVVhIblJIbzI5aDA4b0RENVpQLVpmenpGeHhyTGtwMmo5ZTRXOE85bERnRE5NUVNPYUJoWFc1M1lZUzB3SzByaTVlc3RGUWRGd2Y0UVFuQ0sxZFQtRTA4blhTMFhYOVg1bkV4Q2c4aGMxUlFCZk5ONkdRc1h3Y2NCT0tqNjdYTlNWdk5Xb2pRSG5TbmdacWhyMWxabGZrT0hGXzNPSEJsWW9meGo3NFhyN1BNcU13UU5IUU1iMW1VUU5VcExJZTRXSFbSAfYBQVVfeXFMUGFGdXZZVkJiTDFZVS1zX2FPX2NPdTI4eUxXY2wyUmlpQUJ0SXdZVnhtbThhdE1XMVhkcmtRM0lxclhwQmxLUktpdUhOQlF5STc5aUVhSmdIbWF3b1hEbzVsUlpLY3dhRU9LcU1DQkI1ZTI5aldsMUVtSlEyaFVNWVdmWHN2NWduZTAycHN2ZkZCQUxTLWdrTjZhQ2dudDg5cE5EcTF1dHY5RFdNNW1tcFo4TzY0b3FjMzNmYVNKSzJhMGlkMzRMNVR6V0ttSzJrMEx5bzNVa29MbHFUUno4QmJsNUNyZGdyLTJtVTNZbzRZelVoaUN3?oc=5",
-  "id": "r68"
+  "id": "r67"
  },
  {
   "title": "Ahmedabad residents take 15,000 fake blood pressure pills: 1,200 strips seized from medical stores, 2,700 s... - Bhaskar English",
@@ -1461,7 +1440,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQXzFhempMZzR0S1M0ZTMzSlJkaWd4am50Sm1tc2tyX3cxQ1ZESkl6THZHcDNUN3pVdk9vRllBVmpUb0VVWDN4cUI1OGlid0loaTItNldLaEloeVpRVlZjQWRPaTZUbzYtVjZRYURxNFZSM05COVNqTGlNQjdDUkNPaUFhSk9PUVdGdGZublF4Q044Q1l1cjhGVE1aSXNyVTNfbkktZ1RpbEpidW5QcC1ldmtiTXVJb21xSnQ4a0dkeWlhbnV6NkoxYmRVRjE1cndYVjUzZ3N30gHbAUFVX3lxTE9Ia2JEVjNqYVlWOHZrN1BIVXdXNFBqcXhCRzY1N0lnZTZSOVlKV3FQY0R1Q3N0Q2h0TVc4VDJwYjdibzdWY1lpbTlIVUJYNkc5U1M5dmJHZzlaUlFUb2NWTjhLbEhpWXdsTlpoV3g2d3lla2RfbWRPZzdOajRLLUlnbzNzOXN0SDVYZ0NZUkd3TFZnN21VY2NyUFpUVDBPa2ptR21Qa1dQdUNIbTNYRTVBLUh5eExCTFM5ZWpZckxQNVdYVmtMS0dmY3hOMjdLMlpsc3BhakJVY1k5NA?oc=5",
-  "id": "r69"
+  "id": "r68"
  },
  {
   "title": "Step inside Sabyasachi’s New Delhi store designed as a living museum with 300 artworks, antique carpets and Bengal tram | Hindusta",
@@ -1482,6 +1461,27 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPLWNXN3BHS2FyYWlrVk5lMHlOSW5MdWZqdXpPQmVvSjNMSDd4MTJVNDFKNlJsZkg0M2E0SFBadlp0Zlp2ak02NzhPSjRUbmF0MzNSTlBzSmdKYXB2V0JuZkdTSkJjWEJmMUhFUXdvZjhvbTNXc3dJR3BqUDlxcHVEeHhJelhodHQyaDM4bFpjYzkwM3o0dGxFQWZTWU5lUDZpWG5BbkVWYUZxUVBkY1liUnNMejlDT1ZUYnFjYmJMeUdiNzlrc2h0UjBydW5lbUJKenp1M2tkTHpiRzlmTmtnR3VPXzZBeHg0Sl9RRmlTRk9jOFZfQ21OM1VLbURYUjBTYXFwWnkzN1lCZXg1dWk5b2Y4bG5lYmVBYVdpRtIBogJBVV95cUxQYVhCRE5kZ3ZRQmNQWlNhRVI2TEF1NEpHVjQwOUZfQ0NScWwtZkRjckthNG1VWEVELXRhd043WHJUNkNud1llSnp4eVhCQUFzMEdEcGxrenVuQ3VpOWFlN3h1NURzNzFSZ1duWXE3MEVfaWd1c05qY2NsdW9KNUxqbHZib2lCMkZvMmxoZkdPVmg0NkYzVkl1RTJaVUhLTGhLMURxRThPSXdISm96TkZ3VFdiQU1PbWhXN1lBQnZCN1BDNFJkY0trdU91X1hsaERfMkFqYUozLUprSE5PSU80TVVYRXpQWEc2TnY2SFpwa21Yb3ZhQkZ1TWFHWVhzc19WWVFMWjJObU1ob1JqNEpaYjI3djZPTWdLREhSRDNPempQZw?oc=5",
+  "id": "r69"
+ },
+ {
+  "title": "Apple pays ₹42 lakh rent to Ambani: DLF charges ₹45 lakh – what others collect from its 4 other exclusive s... - Bhaskar English",
+  "type": "Demand",
+  "city": "Lucknow",
+  "corridor": "Lucknow",
+  "price": 0,
+  "rent": 0,
+  "area": 0,
+  "distress": 1,
+  "fit": 4,
+  "margin": 3,
+  "timing": 5,
+  "reason": "Demand signal via Bhaskar English",
+  "source": "News: Bhaskar English",
+  "date": "Thu, 10 Sep 2026",
+  "phone": "",
+  "lat": null,
+  "lng": null,
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQVJFYUR6Y3VTdDZEWUFnckJEcmYzRjFmUFRoSHV5Sko3SWJVVGlXbTlfUVJDNWpsVGhiOHJDUEpadmZfejVxWkloTjRkODg0WVcxZ2wtOUNXTUhLS2lmYnR4R2pYS2M2SkdkSE5kYUZTSTVFMVVYNncyb2duU0IxYVRGVVJDYll5dU1GSHRtdWF5cm90WTlCa1JiRXZjY3pPeVRXWEU2TFJjT2wwS01DbDlDQXVYdnPSAbwBQVVfeXFMTWJrOHl1U2NDQTE1TUh0Y2E3d0ZVeXdqYTRLc3pMaFFGZFZBQVBOaVRkcGsxbFh1OVdHb0hJVTBQNWlOc2tlWFhDSks2azNuaFlXRmNTcUp3ZnFIc0NzMDNVaWlRSGxLVmdZSV9iZ0JBazVHZTFqTHJlVV8tYTFLTU9KWG1XMXJkZEcwRlBqaXR6bXRtXzBoT0pqQ0pmSm1tdWxyTWRtbHh3R1VTWElWZjFIT3BjdHlZN3BQRm4?oc=5",
   "id": "r70"
  },
  {
@@ -1716,27 +1716,6 @@
   "id": "r81"
  },
  {
-  "title": "Apple pays ₹42 lakh rent to Ambani: DLF charges ₹45 lakh – what others collect from its 4 other exclusive s... - Bhaskar English",
-  "type": "Demand",
-  "city": "Lucknow",
-  "corridor": "Lucknow",
-  "price": 0,
-  "rent": 0,
-  "area": 0,
-  "distress": 1,
-  "fit": 4,
-  "margin": 3,
-  "timing": 5,
-  "reason": "Demand signal via Bhaskar English",
-  "source": "News: Bhaskar English",
-  "date": "Thu, 10 Sep 2026",
-  "phone": "",
-  "lat": null,
-  "lng": null,
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQVJFYUR6Y3VTdDZEWUFnckJEcmYzRjFmUFRoSHV5Sko3SWJVVGlXbTlfUVJDNWpsVGhiOHJDUEpadmZfejVxWkloTjRkODg0WVcxZ2wtOUNXTUhLS2lmYnR4R2pYS2M2SkdkSE5kYUZTSTVFMVVYNncyb2duU0IxYVRGVVJDYll5dU1GSHRtdWF5cm90WTlCa1JiRXZjY3pPeVRXWEU2TFJjT2wwS01DbDlDQXVYdnPSAbwBQVVfeXFMTWJrOHl1U2NDQTE1TUh0Y2E3d0ZVeXdqYTRLc3pMaFFGZFZBQVBOaVRkcGsxbFh1OVdHb0hJVTBQNWlOc2tlWFhDSks2azNuaFlXRmNTcUp3ZnFIc0NzMDNVaWlRSGxLVmdZSV9iZ0JBazVHZTFqTHJlVV8tYTFLTU9KWG1XMXJkZEcwRlBqaXR6bXRtXzBoT0pqQ0pmSm1tdWxyTWRtbHh3R1VTWElWZjFIT3BjdHlZN3BQRm4?oc=5",
-  "id": "r82"
- },
- {
   "title": "Bonkers Corner Opens 39th Store In Nikol, Ahmedabad, Strengthening Its Retail Expansion - IFAB MEDIA",
   "type": "Demand",
   "city": "Lucknow",
@@ -1755,7 +1734,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Xald4dU0yWGs0V3JreFJhNFBtN0JKYUhhRVBwck1IVjEyaUFJT3BpZDJhVlNZa0h1MGhZQThoc0hoaWkyWmtkVUY0eklaNkJjR0ZDX1JxNkRScFlERWsyTnZyY3U1QQ?oc=5",
-  "id": "r83"
+  "id": "r82"
  },
  {
   "title": "Allen Solly Strengthens Its Presence in UP with Maharajganj Store - Indian Retailer",
@@ -1776,7 +1755,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQkswd1ZGNGs2ZndoY29fN0s4VlJMWVlWVW1JS1JDTWhZWGt1ZnJ0TkVlT2dTdWFBQmNiT0wtcEhwRlp2SXFnSTgycll5SkczZzl5T2dQaXowRUh6R05XZHl4QTlFMkdURlEzbTNuYnlUZ3ZZQ25LWHJJeFNoZjliNHVZTDNCVGo2d3RxX1VxTmFKb1VialRlOXlRcDdLazlFd1k3anRYV3Ewb0hmcTRERg?oc=5",
-  "id": "r84"
+  "id": "r83"
  },
  {
   "title": "Uniqlo India to focus expansion on six cities where it has a presence - Business Standard",
@@ -1797,7 +1776,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQWU1LWR3UGtFcUJxWndoMk96bjFFeHl4RF9PVHFScTVWYkRoVnJ2a0ZMTnVFVThRU0d1Z3BWNWxVRGtXY0dBREFMNVFiMUdrRmpPUngwS21WaXp5RmFVSWdkNzdqMTlCUlgzeFFMNWJaQjJNWVhsdkZnZnlxenZtc2szeVE5S0U5b3ZqT2JCeks1cEFLbDNYWDFybDB4WVEzSUlzajFza3prdjFPMDE1RGR3WXBHbkNHOW1kN2FjWjk4elZQaGhCUXdza2dNd2cxNFhLZtIB2gFBVV95cUxNTk5oU3FMdDhZN1NqYlUzdzFqWklGNHdkcXgxTW9MR256eTNwbGprMVA0ek1RUDdjVzdWNUpXNEdxYUdZVDFkUkE0NXd0bjhLLXpHSFV5aVV0NWc0bm5aUHhSdU92MGtNZFFsQ0Eya0owTjd5SGdQaGhoN3BaUDJaT0duRW93Q3JNVHpOTEMtOHhYSjBUOEJIaEpUZUFoaTU1aTJocW01MU9ZVkI0SFpRRk1QRkJlc0xBWjI0Y0lRdlNTamhVelF1R0p0czZoZlE0TUt2SkRWcVB6UQ?oc=5",
-  "id": "r85"
+  "id": "r84"
  },
  {
   "title": "Momoka Brings Japanese Kissaten Culture to Pune with New Flagship Café - FranchiseTv - Indian Retailer",
@@ -1818,7 +1797,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdE9lejFISXRRYU11MUVQWGxGdHZRSmFPNVlkbm1TLUlXbV9qZzQ2T3R2QTVTWDlNZVROMjBOQUxfeTdGejNvUVdqQ0ZyTVFYQkNXUU5Ra0pYZXhTbkpVa3lIbGVWSWY1SVNHcXdCOEd6cHdKRnNQME1YMUpDZnl4ZHJFcVF2NTJoM2V3OVdkbzRuLVJjbERaMGxDRDhwajBOX256aVloTTd6WXlQSEQ4WmpDQ2tzVjJGcUJJ?oc=5",
-  "id": "r86"
+  "id": "r85"
  },
  {
   "title": "Buying a home in Noida? UP RERA notifies new IFMS rules — Here's all you need to know - Livemint",
@@ -1839,7 +1818,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQYTlpUXBKdHBIWWNHOFRhcW91YVhsR0k2cFlMdzBNWlk1ODJsdWd1ekozZUhsYlk5WXBsZGxPbHNMdHdkaXZXNUdCQ0dHMl9MZTloOUNubkNjMW5PT0tYcGVUTy1WU01EcTF6MHJmZGxILVAyLWd2VmVLa2NkaUpVSVp4U2M0aXNaRWN0WEF5eFItdUZZZWYyeW9SVWRxdnlKcVk5ZDA3S0pnNUdCQk5lNVhqcDlJU185S1hWUGhGYWZ2ZlhIM21iY3Eya1RZOXBTajB6czhhT01wOExTUmI3R2wtbGpMV0ltQ09YR1E1ZmFpSXJnblNyT0szellDSEFrRF83VHJhdWV0VEJORHpOMkE1alkxLU3SAZwCQVVfeXFMUGt2LTJaQkpoZHowd2R2cFd4V1dSTDBmYTQtWV9qZFUycGpHeFBqMEltN2dvc1lWdzNkNDBQamtrVE9OOG4yWWswWjVZT0ZvZXlwRUNmVnhkamV1bUdLa09uQjh2dmNtenJXQjdoOFc5UHlkeW5hMW5CU0RzNEoycTI3OFZpQWhFTF9WSFlUS2xhOVV1U3ZsUUJFRU5YcnlqbWctVDJDWmVjNzFKZlNhUVJNQVNnd2paVHI0bWNFamlPZGpYWmVTVktaRGp4S3JVbUFScDdlbW12ZGkwM2p2VHd4Um5FWU5KN2VxRjdmYlpDcHB4TFpSMEVYX0RxSHB5VmNNU0FrYkdwM001cFlNaUlOVUt1RWYxelVnRG0?oc=5",
-  "id": "r87"
+  "id": "r86"
  },
  {
   "title": "Hero EcoMed addresses India's mobility-care gap with expert-led stores across North and East India - Business Standard",
@@ -1860,7 +1839,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPZ2pQVHV6LXBGNXZuanVDMXRkc0Q4UE1KRmhFS3RHLXBNLXNRcjctRC1neWVhMk9XSzNHRElaQkhTSFlVZjdkVkRlYzN4X2RMeG5PNmM1WGs3enRCOGg0Zk5Ha3p5ZGYwdGJaZ2psU2VZRGlDTUxDSzZhcllzQThsdWdHcmdOaFVNSEw2V3F3R3JUaHJBWHF3NFQyTkUyaG9LSkhxdGNiaFFacFNGREFPcE9xbXZkSkhKWkxjcUw1VzRkS2N3UTdIZzhQcHhXcUxQX3plNHBjSXpOZXBqckN2RU5KTXp2cTJUamNfYkVpc21ZbG1rXzRxTDN4VFlLbmZxWXpfWDBlQU1udzNCZERNNNIBkAJBVV95cUxPZ2pQVHV6LXBGNXZuanVDMXRkc0Q4UE1KRmhFS3RHLXBNLXNRcjctRC1neWVhMk9XSzNHRElaQkhTSFlVZjdkVkRlYzN4X2RMeG5PNmM1WGs3enRCOGg0Zk5Ha3p5ZGYwdGJaZ2psU2VZRGlDTUxDSzZhcllzQThsdWdHcmdOaFVNSEw2V3F3R3JUaHJBWHF3NFQyTkUyaG9LSkhxdGNiaFFacFNGREFPcE9xbXZkSkhKWkxjcUw1VzRkS2N3UTdIZzhQcHhXcUxQX3plNHBjSXpOZXBqckN2RU5KTXp2cTJUamNfYkVpc21ZbG1rXzRxTDN4VFlLbmZxWXpfWDBlQU1udzNCZERNNA?oc=5",
-  "id": "r88"
+  "id": "r87"
  },
  {
   "title": "Vijay Sales Brings Ranjit Satyanath on Board as Chief Information Officer - Indian Retailer",
@@ -1881,7 +1860,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaThqNXloS3dYSWhqekJRdHdEeHlGUUNyZ1dZdkE1MGxhUjZWUkxyLVl5QmJKQXJyckpvbjc5OTZmQjdDUWozOUVLRUVRcGY0VDlnaF85b0c0ZWZMTWM1MUV2RjYySTdlU3A5SGp2dGg0bFN0Y05xOEk1M3dXNThmOWdCMnJyRHZrdmtDX3pNbEUxMTdaRlE2YXM3U0pwbWw5d3pMV2l3?oc=5",
-  "id": "r89"
+  "id": "r88"
  },
  {
   "title": "Diversity of Indian sarees, textile heritage displayed by diaspora women at Times Square - Mid-Day",
@@ -1902,7 +1881,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdV9UUkhmbG5VUUlzOEtuVS1oQlg2ZTQwbkI4cmViSDZGVGNoUnFVbkZrb3d4cHJqa255SmwtYnRnMlpMU0lRMTczeEc0YmZjdVMxdVFqVWpJY3R6dmV5dExLT1c4U1pBaUEtVXVOc2JWcjN6bjR2aF9EU0ZIaUttMWptbmlaNmNGMjU4SXRENjZfVkk2T2dobWFZN1pWWmFhSWxvTnpJUTB6OGtiNXFicnpUdXVMRWx4YUY3Z1dkQTcwS1RVOVd3YmppcjY1UGVZZlRaQmx6VHU4OFd6UkZEcDRfWmbSAeoBQVVfeXFMUGF1c01RSE1abTFLcVNlR2EyNGNScnRCZkRYN1U5WlRlaGE3UkJJaW5ENmtQY2lEY2djdXFJZ3NRUU1wNlkyREE3ZkFBYmhlMlhsTW9BcV9TWFp5VFFUMUhneW1Qdy1uUHBKWUxwZmd5c3lYT0ZrRTNxTWd4dnZ0LXVSQ3ZfVTdVa0hzTjVheEV1cGxMLUY4U0U3V09Fd1lpNmZDYTFNU3hvU0kwdlU0b3lwdHdiRHhwRXk0dnY5bVZtRzViR1IzQXZBNHlYX0xMWU5fVnJ5c2RMOFlkbXA0NmRVWFhvYnhXNTB3?oc=5",
-  "id": "r90"
+  "id": "r89"
  },
  {
   "title": "Uttar Pradesh: Lucknow Gets New Vehicle Detention Yard At Ahimamau; Facility To Store 237 Seized Vehicles - Free Press Journal",
@@ -1923,7 +1902,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUDE4N2JwREhvcGttcWx1RnlydW15c0VVeXFPdGhkQ0k3em44a0VZMExoclBfZUdlRlh2MzNUbHM4dVJDTnVzcGRqNHdlbGRra0JyM2xZWEgwWW9qelhYb2pmZVlqVVUwRFo4ZU40ejRkMEl5QXdYaEZUSmRxWEhpaVp5NkpUOVVzb2JuZnYtUldKSTZSTHpoRGdCQjNUS1M2aUUxUDhCbGlnWFdjUy1yQ2E1Wlo4V0NhNVdNWklwN0M5a3NIdnF3STNtYWlnWVR2QUQyS0o4Ymx0Q181SmVLZ1cxUdIB6AFBVV95cUxQZnpkT040eWl1YTVrLXhWYUFrMnhWY3U4NkJjeTBEcTVSUURLWFBSY0tGX0ZHaERGMDdScVR5cWo2dnVpQnZ3dU5lcXJyMWkyQ1E0ZUh6WndLNkt4SE4xR1RvdFBMRDQ3WnozeE92aHpHU3VNU0ljbVJxaUxDQ2h2ZXpPUW9ETnJKNzNkWlRabGk0czhpVFdlc0pOLW1RSkZwX3BpV1NKY0xWVE40ejhDemk2dkVhSGk4b2ROUU5UWUNWeFFxeGtYOTNHeEkzYmgwT0lxNkg3ZWQ0U3BYdjE3b255NGJ4djFt?oc=5",
-  "id": "r91"
+  "id": "r90"
  },
  {
   "title": "Sri Jagdamba Pearls Expands South India Presence with New Store at Cochin International Airport - India's News.Net",
@@ -1944,6 +1923,27 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV2U1dVVEYU9aZ2hIR1doQTBHZ09HNGVCTXcyQjMxbVhMUE1zT29fWmFCTExicDZYWmdVNzNXenppeGJ6SFc0TzlZWXdXRlRHNmlocmRLYWw2UXdVbUJiX0hwQVNJTU55UHFscnZ1Q2FGSFhyaW9IM09wSGl2QVZSUXVyZlhSb04tRHRsYl9SdC1nWnM4LVdXYUxONVNzREdra01ZU2lsR2ItU0Q3QjlPUXpYanhaQkdnMllVMzliSFpscl9CX3FfV0kwM0xNN0F3bjRB?oc=5",
+  "id": "r91"
+ },
+ {
+  "title": "Google India Nodal Officer Booked After Defence PSU Employee Loses ₹7.95 Lakh In Fake Play Store Trading App - Free Press Journal",
+  "type": "Demand",
+  "city": "Lucknow",
+  "corridor": "Lucknow",
+  "price": 0,
+  "rent": 0,
+  "area": 0,
+  "distress": 1,
+  "fit": 4,
+  "margin": 3,
+  "timing": 5,
+  "reason": "Demand signal via Free Press Journal",
+  "source": "News: Free Press Journal",
+  "date": "Thu, 30 Jul 2026",
+  "phone": "",
+  "lat": null,
+  "lng": null,
+  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUlBZRnZXRVVXVTJJSURlTUo1UHMyTWVCSGtfQ09BTWVYSU5RbjY0N01FTmlVUTU0Qm11cS02N3BZNVZXLThDWkI3b1BRczVjbzRZNmZUVTRhUzRjbEYwZXdUU1FxTG5YbXptdi1Yb0ZOeGVMX2h2eXhSUFR5eG9lRFJmSFdSQWR3SEl3dXVWb1ZsUnIxdGplTjlVQTU3UmQzUHJLWDF5clRqSFZmbXFjNVBldl9SME45VU84UENWckZXOThmYzhZUHBXaUhOTGZOYzRfSWFHcDlkTkhBY3JZZzRB0gHnAUFVX3lxTFBmdU5EWmpEbjNpUUh6ZVVnaXQ4eTN1cDFVQWM0dkpUTzNrLVBlNktBUUFZZmc1dGw3U0NPRTZqWUxscUZTX0VxU2tzQzhBNXdrSVFMUHl5V3R1VzJUalgyeGswV0dJTnpaV0gtNGN3WTVZRTZwQlctY1U0b2xUU0JaMDNrOUR2YlRwSmV3VW1EVldtXzk2WGljQUhBUGNqU2s4ZlZtUUNNSmJBcVVVUmxua3p3bDY3S3pqdXFQeThiZ0Vpdk4zbU5ydXJ1NDJkck5wUDFhdElEdVlFcUEzZGZfQ2dVeXViVQ?oc=5",
   "id": "r92"
  },
  {
@@ -2031,6 +2031,27 @@
   "id": "r96"
  },
  {
+  "title": "AutoMovers Group Plans ₹500 Crore CAPEX, Insurance Expansion - Autocar Professional",
+  "type": "Demand",
+  "city": "Lucknow",
+  "corridor": "Lucknow",
+  "price": 0,
+  "rent": 0,
+  "area": 0,
+  "distress": 1,
+  "fit": 4,
+  "margin": 3,
+  "timing": 5,
+  "reason": "Demand signal via Autocar Professional",
+  "source": "News: Autocar Professional",
+  "date": "Wed, 23 Sep 2026",
+  "phone": "",
+  "lat": null,
+  "lng": null,
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORG93YkF4U21BWnI5QS11N0RjUkNQcmNmZVZzSnNYdktDVmxsNlhMUWpXN21aQ29EN3ZRN1ZVUnZHSTh6MW55U1pmemZuTVVTak1MZEZSLUR4aS1lZGV0VU5fcDg5UGE0TDNYdDJiTjZzbHBTZmFTUkdvSmJPU3owaldOczAzWkhmWjFpS3dQZzNQQUFZWlVWdmtDVGtScmph0gGoAUFVX3lxTE5DSjROZlV2d041TEIxaTlna3FLZV8tTkpVRmkxVGkyeE5DN1RWTFVWOE85Wk5EWDRpb3A5dFIyeHlMWlZxSUU4SElkbFA3SElKaVJBa3BhOV9VTkVLR1htcXUxTm52UmxIVHprRWVwOElFYmM3VGlGMUhMSXZtNGtkY0J1OGxNZ2FWa09CNklIeTFZVDFwc3JyVXh4LWNTZDRBY192Tl8zUQ?oc=5",
+  "id": "r97"
+ },
+ {
   "title": "Third Wave Coffee opens 250th café in Lucknow, targets 320 outlets by FY27 - ET Retail",
   "type": "Demand",
   "city": "Lucknow",
@@ -2049,7 +2070,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZFh1Nl9rSC14dlpWQXBpMVg4LVhJT0p3b3IxRHdtNmJKQWl0STNrUm0yU1g0NFJHdVIxMUlkSmVyY0JmMC1tc3R4c2VuTGhXVVkwMXZPTnktQ0V4UHUxNUhYZnlpekJLamNaNk1YbTlRNnhueFRNd25KWXVXdHR4STNnaG5Ta2w1aWVZMlpmT3pXUnNIU0xpMF84M1gtb0JDWjNyQ1dTbDM0dng5a0NiVnJVc2tHSXE5bFY4T0xPZG43WlVXYk16N3hsSVVCZ0hvdHhhcFN6bmI5MFo5cW56OGxIREw2WGFDbnh0bXlOazQ3Zm81OGI00gH8AUFVX3lxTE1uem5zNWpYSVZKTS1QcGo2aUhISlVQbnRVbzQ1S2dudjZ6cGFGN3FjTjBGQ2xxTF82OVRSZWpFTTA2cllvTjd0RFBTVERoaWVxWkhkNWZ1Q2FzUnJpRkd2bHF3YzVPYU02TnZ6VkVsRUtETlk3bzl2SUhnX2o0Uk5JUk5QYWxJRWgtOTUwbTA0XzRPMWdzazVqbU5GazNsNTc4dlF5ajIwY0k2ZGNTUVZRelA2MndLS1JkdE05VEJiNkxVNDBLM2o2TGtnTE1mVmpTWi1VWl9DdkFWOUNwb18yaVlmaGw0YlJJLVVWeVRJUy1PY3JxOWdEdWVWbw?oc=5",
-  "id": "r97"
+  "id": "r98"
  },
  {
   "title": "Vishal Mega Mart hosts investor meet at Lucknow store on September 24 - scanx.trade",
@@ -2070,7 +2091,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQVNHTUNVWFhZQVZCVXNWMW1SYmVnd2RNNm5lcjlYTVhTODNyRkxWZV9namg0REUxWlB5ZjAxOFdjNXAtVmNEcFZCMmVWdXNZMVkweXpyYVctVVg5QXpnb0JKbW15SXBVY2dzZjcwVk1EWjgwLTRFSG1HdUI4S21ZcVRPUFRIYWlnNEthNVIzM1JuT2JzaWtMQ0RtQUtsbFk1SThBcjBYZUR2RmNXNzVLQnlHWUFPbmJVS0VZRw?oc=5",
-  "id": "r98"
+  "id": "r99"
  },
  {
   "title": "Airport city with hotels, malls, offices on the anvil - The Times of India",
@@ -2091,7 +2112,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZDZUTXRCejd5cDlIWThqT1Y3NW9QYXNnakloc0xBeDNFNzJsZlNPX2Z5SnVsWHRsREtCZm5PYmhLMkg0WEx5cTZqQkJJeW90S2N0WU9WY2FJdTBQT3kwTDRucGN4d0VXcWFKOGY0eVR0MVhodFFRSGlqTHppaDQwYS1xWXVlTHgtUm8zRXVxVTJPZm5ac3JwVnV2RVZCNFZUSG1qb3hRa20xdWZmR1M2c2hiRTM5SmR4M2NTbFJRT21sSnow0gHKAUFVX3lxTE5lZ2RaNnNSa2d6ajJKYkMydXhJcnBIeVpZWWNMVjlFUF85V0Q4ZERPODVLa1Q5bEMwUk1Bd3hfMHBQVlI2Q01acmFybFZkcTktbjgzbWhlZFRaa3VkTnByVS1McWlxUWVCVnVBY3ZVQzJNbU9samlVM0J4TjBsaWJqdXVXRUhJVnduMWFZNm9ScHJaMnJyWFBvTUdFQTR0WHhYanl2d2d2T05rRmRQbUJPdlB5MnVkbUZ4b1VUNzVwRE5lbXNlQTQ3Y3c?oc=5",
-  "id": "r99"
+  "id": "r100"
  },
  {
   "title": "Retail India News: Nothing Opens First Flagship Store in Bengaluru - Indian Retailer",
@@ -2112,7 +2133,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTjFta01oWjB3eDM1NVNXQnI4ZjdJVmVza3lxQjdveEFIcDBteUtNNHlTT0ZTNWdqcEZwMkx1SmZyRE93NU81Nl9Pa3RmMkFoVHpHbEZfRE41Nkl4U2NXSUZrb21OLXRDOXgxNHhYa3hGYXB0UkFvNHRRYUxkQXM2SktUcmJLT2EwX1JDQmFOTm9yd1I0M1hXcWxzU0s5LVk?oc=5",
-  "id": "r100"
+  "id": "r101"
  },
  {
   "title": "AutoMovers to invest ₹500 crore to expand retail, service network - ET Manufacturing",
@@ -2133,7 +2154,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORUYwRHBxWTRGc3UtZmdPTThTbXZVOXphTldfalp1eFlDSXdvZWVXcWFfeGpoZHo4d0UtZWVvV29uTmZtbElUSl9pMGQ4UmRmNFRMSXRiYWV6LTM0UzlCUzBOMFlMeDZMQThCbFo4a2lFRDBsNndGeVUxcUluczBZNDBHN013d25FMmlVaXE2T0g5VnNlY1BMUmg0NGs4RzZ2T1pEckZDcm1lTVNjdk9LejZuUWxwWHNuNUhzcUJaeFZ2cTJORUwtUld5ZVNMY3dwdk1FSkl1V3NRUC120gHcAUFVX3lxTE5FRjBEcHFZNEZzdS1mZ09NOFNtdlU5emFOV19qWnV4WUNJd29lZVdxYV94amhkejh3RS1lZW9Xb25OZm1sSVRKX2kwZDhSZGY0VExJdGJhZXotMzRTOUJTME4wWUx4NkxBOEJsWjhraUVEMGw2d0Z5VTFxSW5zMFk0MEc3TXd3bkUyaVVpcTZPSDlWc2VjUExSaDQ0azhHNnZPWkRyRkNybWVNU2N2T0t6Nm5RbHBYc241SHNxQlp4VnZxMk5FTC1SV3llU0xjd3B2TUVKSXVXc1FQLXY?oc=5",
-  "id": "r101"
+  "id": "r102"
  },
  {
   "title": "Beyond the Metros: India’s next 11 real estate hotspots - The Federal",
@@ -2154,7 +2175,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdDlVLVh6RDdQRGtONlNjZkt6dldJZFVTdi1xekMzRmlqVi10VFQ3TFR2R3BJMFFIYkd6N3F1MnZqbkNXN2lrS05jYjZEejVYM24wcG9zVktaSVA3dVVqX2JuU1JqVFZQUmJtLWtQb3pPdkIwUU5mRE1hcUhndnY3MWVVcXlLUUJFenhob3lqc1Jpb01qU2sySHhacVZCZ1ZKSGFV?oc=5",
-  "id": "r102"
+  "id": "r103"
  },
  {
   "title": "UP’s economy tripled over the last nine years - The Times of India",
@@ -2175,7 +2196,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ0YwSGJuWWZQSGg5RWt3N1JtQk9wWlBiRVQ2TURMVWxhTmtXdk50UmFnUnpvdDk4ZkdlVTVpdGdySkhIdjBWdkVudjN5ZXQ1cXFLV25WdUNCa3ZneFo0Vkw2Qmw2b1M2TERabThvVE5JdFczcnhkRGIzLTA2dGJWalF3eC00a29LV09majE3UlJTMzY0R1NvQ19mc1BHcVA2SENaYjRrcVYya1FpT1VCc3R0Z0lNdGVHNkNz0gHAAUFVX3lxTFBLUmRadnUtcWl3SU9kRWpaRlBnU01QVHg0b2RUR1JRSEdCQmUzTUR3MFdHeUdoOVN3d2ZIWjluQTFBTHR1azl2cFYtRHdOZC1iNE01NWhGaGtqUWxwNkxia290eEdCVEV3VUZFSjQwa1pnVk8wSW8yVzVjSFFpdldsOEVHTzgzSWpMZ24zM3o2NEJrZF9JZnFtWFl6T3hxTFpkT1g2RnZpeFVpcE40MGUwQ1RLZXVXWVNaU21GcTlQbQ?oc=5",
-  "id": "r103"
+  "id": "r104"
  },
  {
   "title": "Noida, Greater Noida and Jewar: The golden triangle of North India - The Times of India",
@@ -2196,7 +2217,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTm9GbTFZX0pkblgwVWhxSWZka1Q4UG1LMnM4ejhQSk8yb3oyWlNrYmRUVFZRSG01LVExeDVQVUlTRUVPRnZzR195a291cjhqcUcwVU9ldE4xLXpkMFNaaWZNai1HRG9UaWZpTHc0SURmWkhRdkRVTXEwc1ZiVE9Wcy1hQWNUbW1qRHRWUE9YWHByZ0JNWEdpTnpHdTFLRnZ4UkU5aUFjblBQaXBCQVJaMzhEaS1JNGJRTWxsTUp6Skc2ZXRmbVZEUW1nREFUeWlvSUprb2p30gHbAUFVX3lxTE5iZHViVW92aTZrWkZheTRMLVlPMzFzT0pRWW9jcWxEWFpvbXJOWlVFdndYSzY4ZEg1dkNHelFWbXdlUFZoN1ppZjVXVjJoSkhYZC1WSjFzaVpNanczd3dTQmZOYWt3YkE5cGczd3Rtc2V2SHBJbk9hZUNuZjdDVVpLRG5nUnBqUEQtSDE4UV9ndFBETE1hSEoycHctQ0tmaVV2UVdvS19UcFBmWk9VR01uOXdrZFNOay1KQUtPOEo1NDd5LXFFUWJNLUtaNHpibkJtakQzWTlOMUJYVQ?oc=5",
-  "id": "r104"
+  "id": "r105"
  },
  {
   "title": "Flipkart Minutes Moves 12 Dark Stores Ahead of Swiggy Instamart Across India’s Top 10 Cities - ascendants.in",
@@ -2217,7 +2238,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMUxzODlUa3JOby1rdHp1ZUF6WFoxQmxRMzZQNTZKUFNIVzJqRlZ4cHhodzdweWFFWV9TUmEycDlFcVg2MXBkd0o0RFJPalFkTkFGNnpEb0dtTnZ5Q2ExSklnTDlvZFQ4N0hUc1BVdGNidDhVbHN0X2l0WURiMk1RajhsYmZXMjIzY3ROaTJOX09wbFhOOTM4WVZadXV1amJXam91eFpudDFzdUpwX0E?oc=5",
-  "id": "r105"
+  "id": "r106"
  },
  {
   "title": "Festive hiring boom moves to tier-II & III Cities: Demand for jobs grows beyond major cities - Bhaskar English",
@@ -2238,7 +2259,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQUlad1VRUlRMYi16S2NjUDJCYUdwWi1YdTdGd3daZzR6QU1lTXllMDdLUFdIWTQzS1hvemZ4MjA0QkEwZ29INXFXb3YxTy1nOWppdHAzSE1zanZ0N0lYNDRiSkh6UU1ucWZnLUFnT1VsOTJNY0p4RXpCYmRtT1RGb1I0TE9QNnktRG1RUWZSSVYtZlUxamfSAZsBQVVfeXFMTW5weDhPTzEyMWVIVHQyTWM2d1E5Y1JoZkk2UWxxNDJZWXpvdHYxazZTN29xUnJ6d1JnWmFqdDl0dktqTWZOM2EtQWJoZTJHMWZnOHpiWmxGYXJyMVRmcTFCU2VINW1CemtaM0NfOFdBc0pFdXJzeEVJR1R0enhfbXVtZFUtbEpfV0VXU1lzc0R1bHZaYTFUa1BEcXM?oc=5",
-  "id": "r106"
+  "id": "r107"
  },
  {
   "title": "Home prices in 11 emerging cities rise 63% since 2021, beat top metros: CII-Knight Frank - CNBC TV18",
@@ -2259,7 +2280,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONkdyY2U2RVJZbGItUjhrWktldG9RcVZwcnQ3eFhwakNRVlVuRDRVdVJwS0ItYTJYd2NmSTVfTkFYbVB6bVNzaUNELWNTNFVoU184Sms0cjlMNEFCSVlnaXpvemVyS1k3ZnB5aUxmYnEzcjhQcF9PVEt0MndJWEdzelQ5MlNwYTdYN2FNWUFEUnJvQ2k2OFFYUFRZUklmSUhJS2xLN2xyQ25nX0VweGlfaF9Zb2JsUTJ3amF4Ul82REhIOXJ0emY1RlBNT1JRSnJZ0gHWAUFVX3lxTE1HMW9ZdkxwbHZ3UXVtMlZKTHNZQUZCSDlZaHJVdEQybEgyVVdaMzVEY3hNMS10MjdXVENZVGxPcWx3eE90M2F2U3c1WjJ4b0dfNWkwdThrdHFSSy1iZEwta2NUbDNjWFUyOFZKVlYtTFVtc1lMV21XanFqeTNVQ2tzRkN5RnJTaEs4S2k4Y3pXcnUwbGZaamdMQ09xUjZWRzBfRWo2RFVsZUdVNVhYYzlRb1JxNEpfYjZxZ1duYWFtNm8wNURRRTBqZkEwMVBxN2d2by11d1E?oc=5",
-  "id": "r107"
+  "id": "r108"
  },
  {
   "title": "Prominent Mall and Prominent Cinemas Turn Janmashtami Launch Into Lucknow's New Entertainment Talking Point - Big News Network.com",
@@ -2280,7 +2301,7 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSkNBNmw5LWI1OFZ1Sl9pSUxNVEZ3cWM2Mmk3amtrMEJ1aHpsaXEzMjlvQzRPS3hzNm9sVzItaGFnRFdtMGhpVmZCNURNVm9IY2VUa2xkNzNKMGFCN1V1ZTZoMkF5ekVWVDVCbUR6a3hub1B0Zzh4V0dNN01Lc3kzVE1yNEZZZnRCdGxHUlYwV1JaSmNoYlhkZS1UdUYxQWtESzlaN3BzM2FFUE10OGpZUDYtdjRGbFF6enh4UWp1Vm1DMlF2ZU92Q3hTYUxIQUV2WURmdmdQMzRjYlVKaG9senc0YzFSQQ?oc=5",
-  "id": "r108"
+  "id": "r109"
  },
  {
   "title": "Samsung Galaxy S26 FE With Exynos 2500 SoC Launched In India, Priced Starting At ₹79,999 - Free Press Journal",
@@ -2301,6 +2322,6 @@
   "lat": null,
   "lng": null,
   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc3hvYkd3aGVUZ3NvVGpvUWk5bHF3a0xSUGhaNnFKME5tSG1GSWpjR0F3YVI0aWNLZEtTTE5GdXlSdzJrSVJ2QVBtd1dSZExza2NMbC0tU1ZqQUNmdGRUTmRmUGNDMXZsMGNhMkJwS0kzYnNlT244b29FQ000RHNUZTVnRmVrWThKNmwxS0Z4RjhkZFhDRlI1OEkxVHE2TEE0Qmtj0gGoAUFVX3lxTE8wQ3JxVXBabFVFejZpVHNqX3FXZ2tPNW1GZE1iN0Ywa05laU1nWVFGdXpkYnJrZEViZTBJallPNm9nWG9fWTg4dnlNbEVVRjlTOXVya3lidWRfUE9sWU12a3RHMGdKX3hTTGpLcWJoeVlYekhndWpfVTNDVEtBSk5HeVdjR3R1c3g1T20xWDdGZG5oQVk4eENjT1pfUGNGenN6MDI0STExcQ?oc=5",
-  "id": "r109"
+  "id": "r110"
  }
 ]
