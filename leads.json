@@ -77,7 +77,7 @@
   "signal": "Taj Palace Opens in Lucknow - https://safariindia.com/",
   "source": "https://safariindia.com/",
   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGbFNfcG1FMnY4OW9kYUZZd013SVlTUGNHQTRBMGhBUS1WRWlJS1ZiUDFPbjJCcEEtOHdXNlpfSVZHOGtJeFBxbENlUkdwaWZBT2dnVHpnV0NCeEF0Ry1LZTJR?oc=5",
-  "date": "Wed, 07 Oct 2026",
+  "date": "Thu, 08 Oct 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Taj%20Palace%20Opens%20expansion%20real%20estate",
   "stage": "Detected"
  },
@@ -157,21 +157,6 @@
   "stage": "Detected"
  },
  {
-  "name": "Chaayos Expands with New Stores Across India",
-  "category": "General retail / office",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "Chaayos Expands with New Stores Across India - Indian Retailer",
-  "source": "Indian Retailer",
-  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMjZhRnJkWFotWmVQd1FFQXJtUFg4bDN1RzljNU1CNHFFeUNnSUk4N213TVQ2alRRWE5Wck5TOU5IOF9DUW9NQTVJRTRpSThqYWpQcG4xaHhrLU5KY1VZWVg4NVN4UTNDUW5ma2tFdk5SV21ITGdOaGdLeE1ZeXBwZA?oc=5",
-  "date": "Tue, 25 Aug 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Chaayos%20Expands%20with%20New%20Stores%20Across%20India%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
   "name": "New billboard campaign urges Lucknow communities to support",
   "category": "General retail / office",
   "city": "Lucknow",
@@ -199,6 +184,21 @@
   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSzRUMUhFcTVveVUtU0dGN1BXMy1ZbEt0aTdtVlNVRmVpcU5iVTBpRHBBckhTNlBxXzJ1REJ2c1FYeWFtXzliZTJLT29wOU5DaHVfZGRZMGotX1pfcVVtU0JpS1BJY1dEY3VLZ1NEc2huWHZKZnZtTElRcmRVSGlBRWU3T1I4RXlFUzh3SWlqWnFJU2lEOWtVcFFfclNzY0dzQjZEX1RtaGJSVk9mNG9nOTRpZFFPd21QeXVvSnc3VWZGdjN5dEF3TGJWeEQ?oc=5",
   "date": "Tue, 11 Aug 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=New%20Gorakhpur%20road%20to%20ease%20traffic%2C%20allow%20bypass%20for%20commute%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
+  "name": "adidas Originals Expands Its Retail Footprint With New Store",
+  "category": "General retail / office",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "adidas Originals Expands Its Retail Footprint With New Store in Connaught Place, Delhi - Indian Retailer",
+  "source": "Indian Retailer",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeXlzc2dvVjNDbGQzbHI5bzFER2VMdnMxR0xCbkZMQVFrRjV0MlhvQ2FKbFZXU0lYWTYxM0lkVmwzX2JMTEhDdGR3YTNCd04xVUwxbkQzY3NWN25NLUJGeFctVjhIZjRvVXpOT1RCWThwWVRYcjZPOURPbjBCOEMxaXBfRFM1RmVvZDVNc0hBdUNuWXRaR2VoWTU0dHZfaU9wTDlUNzY3YVBGdUozY1NoQ1dxVi1Za194S0JTTzB6YXhPbk1fRXdBREhVTmRMWnc?oc=5",
+  "date": "Thu, 27 Aug 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=adidas%20Originals%20Expands%20Its%20Retail%20Footprint%20With%20New%20Store%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -307,18 +307,33 @@
   "stage": "Detected"
  },
  {
-  "name": "adidas Originals Expands Its Retail Footprint With New Store",
-  "category": "General retail / office",
+  "name": "Third Wave Coffee Opens 250th Café",
+  "category": "QSR / F&B",
   "city": "Lucknow",
   "person": "",
   "budget": "",
   "space": "",
   "locality": "Lucknow",
-  "signal": "adidas Originals Expands Its Retail Footprint With New Store in Connaught Place, Delhi - Indian Retailer",
+  "signal": "Third Wave Coffee Opens 250th Café in Lucknow - Indian Retailer",
   "source": "Indian Retailer",
-  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeXlzc2dvVjNDbGQzbHI5bzFER2VMdnMxR0xCbkZMQVFrRjV0MlhvQ2FKbFZXU0lYWTYxM0lkVmwzX2JMTEhDdGR3YTNCd04xVUwxbkQzY3NWN25NLUJGeFctVjhIZjRvVXpOT1RCWThwWVRYcjZPOURPbjBCOEMxaXBfRFM1RmVvZDVNc0hBdUNuWXRaR2VoWTU0dHZfaU9wTDlUNzY3YVBGdUozY1NoQ1dxVi1Za194S0JTTzB6YXhPbk1fRXdBREhVTmRMWnc?oc=5",
-  "date": "Thu, 27 Aug 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=adidas%20Originals%20Expands%20Its%20Retail%20Footprint%20With%20New%20Store%20expansion%20real%20estate",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNalVhUmE2eTk4T09rWF9KYm1zUzlScmlJNlotT0NWNnRxMzNYMFIyazJ0dHNDMkVzd0JicHpIUmhRN3ltT0NReEI1U2hPRk51VUc3T2UxNjI5TzNYR1FzSnpBWVFsQTR3VUVQZTlFOGF5OUZaNy1hUWdNTkxROGZFbE9EWVRmSVVoSWgtUEtvUk1IRHBVQk9ZTFY1VzRzUm1T?oc=5",
+  "date": "Fri, 25 Sep 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Third%20Wave%20Coffee%20Opens%20250th%20Caf%C3%A9%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
+  "name": "Tanishq Strengthens Gujarat Presence with New Store Opening",
+  "category": "Jewellery",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "Tanishq Strengthens Gujarat Presence with New Store Opening in Bhuj - Indian Retailer",
+  "source": "Indian Retailer",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVmNCUWJpZmc0cXZoWFpGWEVyZ1dKVk5kOTNhWHpuY1FILWdpTmhBQ09HbU5qRGxHZHpGbHU5YW1scmNXTHZPRjRRWlJneXdvTHFKakkyaDh1R3ZIT3I0Q1FEV3NEak1VVjRnTlI0a1VRdS1MdHZFTjBjZWZ5UzN1b3YzbzhVeTVkLVdFaHlLNlZGVVBWbl9NVzFxRQ?oc=5",
+  "date": "Thu, 13 Aug 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Tanishq%20Strengthens%20Gujarat%20Presence%20with%20New%20Store%20Opening%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -364,6 +379,21 @@
   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNblFXcnhlQTRpRWVUT1FSWDRobmpNbUJWZnBwaVRRZ2h3NXlNT0RYVDlNMFBvTm5TQnJ3NmJSal9BUnc2QlpLc1NVaEZRVElMQTFTUjZYem5fV0hmM3NUcXdfZWNtWkYzamN0Y2F6a0FINXlPdVRBWTd4YWxKclhfaFZUVUIyRHZmTmJ0ZENKdXJpWGNjRERjQ0JZenRldVpMYV9zMGc1V0ozLXU1bkt6eTZoalhHZlRHMHNaUHNreDI4QdIBxwFBVV95cUxNZTNiZlZVQWhmeXAtc2M2Qm1GNThfYmxHZExZRzJtT0pUa2RmNHB6dExCa3JLdEhLUWFKREFTWEFvM2NjYXpTcTNDRC1meVM1blptX1JEZ0lVbmNGaFV5aThSRjFDT0xiczZpdFkxdW9DZDZ2THpQTC10X3NiQnVlekhzWjRxcTEyWVNjWWU3R0RYYUJKNDVVMi0zRElzZlVHejBQSmktUWtjSGN4eF9ZWlBaXzJnVFBXRFc1VVltS2JFWDNZNmZJ?oc=5",
   "date": "Sat, 19 Sep 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Water%20supply%20to%20be%20hit%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
+  "name": "News by CNBC TV18 on TradingView, 2026-10-05",
+  "category": "General retail / office",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "News by CNBC TV18 on TradingView, 2026-10-05 — cnbctv:ed52c7feb094b:0 - TradingView",
+  "source": "TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmWmRfVHBXWlIyc29YYW03cTIyb19TSlRyeHFrNG0xV3FHU1UxUkMzeWNxS2R2VFFDYXQ4VHdobEp6cElVZEtrcm03b1FBNEhMTVJhd2hnTlRhQ2wzZzducWllNmhRYWs?oc=5",
+  "date": "Mon, 05 Oct 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=News%20by%20CNBC%20TV18%20on%20TradingView%2C%202026-10-05%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -484,21 +514,6 @@
   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTnc3U1ZPc3hFbUdfT2FHU20ydjZycGdHTDZUTVZxSTl2aE55emI0eGZmMmZoa2xRY1V6eXZrZmhfRm9oOGJVQjdMb0d3NzVQV0F6TlNTcnZnZXpoenJoeTU1S3NYa3IzYU9RU09kSFFOaFg2Q0YyTVpBOVdCLVVhQ2ZnRkNqdWtOb3FvX1ZRV1BsUWFuclRxaDdESllkRnRsQnVlczl1c0d0b0l1RkNQRXZnVGNfdUM0aENLaEN2LUtCV092ZGpwOVhTeEtHbFFvWlRUR1NOVmLSAd4BQVVfeXFMTmJvRDJvRDk4aldQSTFuWTN2RHFTOFU1UWN6SjF6X2swdkZjT1dsRVIyMnc2amZLUE1LekRIb29XcmNTYnNuaklMaEhlcEEwaFRMSk9kTl9VWktXODFOcUxKZW9oc3VQekpwc0VvcVJwb09BZXNsZGpBYUtjZlhtaTA3Uk5NX2diYlhfV3B4MjV2dmQteHZDMjBqM0FERFR5QUMySFBVZ3ZtV3o0QW8wdFRidnRwWmVyVGREUTEyc05WdDJaMXBjVEc2bWVkNVBIM1VfQXdXYkVxSTZMdGFR?oc=5",
   "date": "Thu, 17 Sep 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Dream%20big%2C%20explore%20unconventional%20careers%2C%20Shubhanshu%20urges%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
-  "name": "Step inside Sabyasachi’s New Delhi store designed as a livin",
-  "category": "General retail / office",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "Step inside Sabyasachi’s New Delhi store designed as a living museum with 300 artworks, antique carpets and Bengal tram | Hindusta",
-  "source": "Hindustan Times",
-  "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPLWNXN3BHS2FyYWlrVk5lMHlOSW5MdWZqdXpPQmVvSjNMSDd4MTJVNDFKNlJsZkg0M2E0SFBadlp0Zlp2ak02NzhPSjRUbmF0MzNSTlBzSmdKYXB2V0JuZkdTSkJjWEJmMUhFUXdvZjhvbTNXc3dJR3BqUDlxcHVEeHhJelhodHQyaDM4bFpjYzkwM3o0dGxFQWZTWU5lUDZpWG5BbkVWYUZxUVBkY1liUnNMejlDT1ZUYnFjYmJMeUdiNzlrc2h0UjBydW5lbUJKenp1M2tkTHpiRzlmTmtnR3VPXzZBeHg0Sl9RRmlTRk9jOFZfQ21OM1VLbURYUjBTYXFwWnkzN1lCZXg1dWk5b2Y4bG5lYmVBYVdpRtIBogJBVV95cUxQYVhCRE5kZ3ZRQmNQWlNhRVI2TEF1NEpHVjQwOUZfQ0NScWwtZkRjckthNG1VWEVELXRhd043WHJUNkNud1llSnp4eVhCQUFzMEdEcGxrenVuQ3VpOWFlN3h1NURzNzFSZ1duWXE3MEVfaWd1c05qY2NsdW9KNUxqbHZib2lCMkZvMmxoZkdPVmg0NkYzVkl1RTJaVUhLTGhLMURxRThPSXdISm96TkZ3VFdiQU1PbWhXN1lBQnZCN1BDNFJkY0trdU91X1hsaERfMkFqYUozLUprSE5PSU80TVVYRXpQWEc2TnY2SFpwa21Yb3ZhQkZ1TWFHWVhzc19WWVFMWjJObU1ob1JqNEpaYjI3djZPTWdLREhSRDNPempQZw?oc=5",
-  "date": "Fri, 21 Aug 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Step%20inside%20Sabyasachi%E2%80%99s%20New%20Delhi%20store%20designed%20as%20a%20livin%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -632,23 +647,8 @@
   "signal": "Sonu Sood takes a dig at crowds buying iPhone 18: Actor says ‘New EMIs won’t change society’; Vicky Kaushal... - Bhaskar English",
   "source": "Bhaskar English",
   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ255eXJhY0VoQ1FRM0ZGZUR0N2xfa20zczZaT0ptazIxVVhxLWFPc2RsbDdaVUdDSW01alM4eFNFSHVFN3JGeERRQ0ZwLVZ1VEFRU1pmOVdQQlkxTWZkWHltQ25wb0VRV3padHl5S0lidS1WN2FLQUJSY0x4SjJPYzRUOXQ0RlFfa2tYS2pqZGRGQjZCRkxIV2trZWlnRXVsR3RZNlpRbjQ3eVBZcWZELUVOZkhKUExHM0JfR0N2MDlEZ1dlOWJfSjMydU84QdIB0wFBVV95cUxQX211UzhONGFWWURzQVNGdFRTTzhXV1ZYSXpqSVc2N1NMc3NoNjk3cGIzRmkzbXREMWFhMmRFM1BEZEdESGNrYlpRRW0xTnVSRVlxdnIxZWgwSmFSb2c1QThBSjZ0RFM2bFg3TktJVUFDVzV3NEszdU1PcmlxdTdmdzFERGgzb1VjWl9LblJ0M0VCTExGV1FwdGUwTnUwZERPV0dlMl9Nb183dU1HcE1taF9hcXBVRndfQ2JEclVhOV9jNnpNMUFQNGZFeGxfbHVEYU5R?oc=5",
-  "date": "Sat, 19 Sep 2026",
+  "date": "Fri, 18 Sep 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sonu%20Sood%20takes%20a%20dig%20at%20crowds%20buying%20iPhone%2018%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
-  "name": "Stock Crash Explained",
-  "category": "General retail / office",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "Stock Crash Explained - Here's why V2 Retail shares fell 18% on Monday, the most on record - CNBC TV18",
-  "source": "CNBC TV18",
-  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNX2FSenV4WTJ1czQtVDBIcG1NU1ZfZzBBUG82XzhYX2N0U0FUTlZwazVUYnFLZ3FwY1lkMF9fS1ZPOHRRaTFTZFZ5U182QUp4aElwLWVZU1V0VnRIZjF4MjdUT29jNEFEd3NsQjg3TE1sZjFzNUphZVg2RXFZYUJIdjBrSEpaTEFPeHowbEJBV2E1SGExMFBYanpITF94dnlqMDViVC1GS2gtZlEyMU5Va0JDVTc5Nk5BUE5fLXdxejRNeTFuU1diWmh4Tm91TXNGZmJpZVIxVdIB3AFBVV95cUxPck1MbE5Oc1lHMTYzcjF2OGpKWWpPMEJfX0hzU2ZLLTdTTHhNeTAtZmlraHBISGk1dXU2REN0SHZsamUtMUV4SmRPWnBsUUxkQ3EwTXpLTlEzT2FUMVVfV1FkS192U196NXJOSXdkNWxUYUoxdElnVFVSRzFpaVRGVzkwWG1OejNoVU53cmstX0haNGFFT1B2bm9GaXdZWkptSWstN2VROWJwQUxnMmYwSUdlX0d1SE9mNmVoQWNUT3d4ajlQSGlOWF9tSVgxczByYUl4dmhodzNsbXFT?oc=5",
-  "date": "Mon, 05 Oct 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Stock%20Crash%20Explained%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -679,6 +679,21 @@
   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQYTlpUXBKdHBIWWNHOFRhcW91YVhsR0k2cFlMdzBNWlk1ODJsdWd1ekozZUhsYlk5WXBsZGxPbHNMdHdkaXZXNUdCQ0dHMl9MZTloOUNubkNjMW5PT0tYcGVUTy1WU01EcTF6MHJmZGxILVAyLWd2VmVLa2NkaUpVSVp4U2M0aXNaRWN0WEF5eFItdUZZZWYyeW9SVWRxdnlKcVk5ZDA3S0pnNUdCQk5lNVhqcDlJU185S1hWUGhGYWZ2ZlhIM21iY3Eya1RZOXBTajB6czhhT01wOExTUmI3R2wtbGpMV0ltQ09YR1E1ZmFpSXJnblNyT0szellDSEFrRF83VHJhdWV0VEJORHpOMkE1alkxLU3SAZwCQVVfeXFMUGt2LTJaQkpoZHowd2R2cFd4V1dSTDBmYTQtWV9qZFUycGpHeFBqMEltN2dvc1lWdzNkNDBQamtrVE9OOG4yWWswWjVZT0ZvZXlwRUNmVnhkamV1bUdLa09uQjh2dmNtenJXQjdoOFc5UHlkeW5hMW5CU0RzNEoycTI3OFZpQWhFTF9WSFlUS2xhOVV1U3ZsUUJFRU5YcnlqbWctVDJDWmVjNzFKZlNhUVJNQVNnd2paVHI0bWNFamlPZGpYWmVTVktaRGp4S3JVbUFScDdlbW12ZGkwM2p2VHd4Um5FWU5KN2VxRjdmYlpDcHB4TFpSMEVYX0RxSHB5VmNNU0FrYkdwM001cFlNaUlOVUt1RWYxelVnRG0?oc=5",
   "date": "Tue, 18 Aug 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Buying%20a%20home%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
+  "name": "Flipkart Minutes Moves 12 Dark Stores Ahead of Swiggy Instam",
+  "category": "Quick-commerce",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "Flipkart Minutes Moves 12 Dark Stores Ahead of Swiggy Instamart Across India’s Top 10 Cities - https://ascendants.in/",
+  "source": "https://ascendants.in/",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMUxzODlUa3JOby1rdHp1ZUF6WFoxQmxRMzZQNTZKUFNIVzJqRlZ4cHhodzdweWFFWV9TUmEycDlFcVg2MXBkd0o0RFJPalFkTkFGNnpEb0dtTnZ5Q2ExSklnTDlvZFQ4N0hUc1BVdGNidDhVbHN0X2l0WURiMk1RajhsYmZXMjIzY3ROaTJOX09wbFhOOTM4WVZadXV1amJXam91eFpudDFzdUpwX0E?oc=5",
+  "date": "Wed, 26 Aug 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Flipkart%20Minutes%20Moves%2012%20Dark%20Stores%20Ahead%20of%20Swiggy%20Instam%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -1102,18 +1117,18 @@
   "stage": "Detected"
  },
  {
-  "name": "Honda Elevate 2023-2026 On Road Price Lucknow Oct 2026",
+  "name": "Mahindra Thar OG On Road Price Lucknow Oct 2026",
   "category": "General retail / office",
   "city": "Lucknow",
   "person": "",
   "budget": "",
   "space": "",
   "locality": "Lucknow",
-  "signal": "Honda Elevate 2023-2026 On Road Price Lucknow Oct 2026 - ₹14.21L - ZigWheels.com",
+  "signal": "Mahindra Thar OG On Road Price Lucknow Oct 2026 - ₹12.06L - ZigWheels.com",
   "source": "ZigWheels.com",
-  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZXNhbDRGZF9ST2F1a1VlYnVxODFzX0RiMHF6dHU1NjFCX0RkLUpoTEMyRkRRMjIycFFNSVRTeUhXeHRLVXZwdDNYLUJIbjc5d3YwLWdiVzNmX2hJQkg2cnFHOWk5c2puTmZieVZ5OTlpd19hM2RROWZtbTdlMGRSWjhGcw?oc=5",
-  "date": "Tue, 06 Oct 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Honda%20Elevate%202023-2026%20On%20Road%20Price%20Lucknow%20Oct%202026%20expansion%20real%20estate",
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44WC03TUN0V1BzdjE0TWdiNGhXRlQwZ1lOVHY2NkZDYU8wQTBjY2I1NFZjVXo0RGdlZ0tCYWFSZDNOOEZkMGVfdkVUUkNhMnJRclV6Vi1LUEFjTWp2Ylgza0ZiODNzRXRVNWdPNlM2TnY1WFZ4MG84V3ZR?oc=5",
+  "date": "Thu, 24 Sep 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Mahindra%20Thar%20OG%20On%20Road%20Price%20Lucknow%20Oct%202026%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -1282,6 +1297,21 @@
   "stage": "Detected"
  },
  {
+  "name": "ITL Plans 25-Acre Global R&D Centre",
+  "category": "General retail / office",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "ITL Plans 25-Acre Global R&D Centre in Greater Noida - Tractor Junction",
+  "source": "Tractor Junction",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOXNTVmg3NEJMOU5PS0ZsV1ZReWM2S1oxVEMyd3k0OXRjd1lJclJvNFZuX3BsdDBNRjVTa2I2Q2ZGeEg3cEszTnNvYmVjV0xtOERBR1dWb3h4ckppVDNyZDY0VzFnMFJCeUVaNmdHOHhRLVJQUlVGazNrOFM4MVlhLVVwbFZ5UkJuallJdmU4dmJFS1VnWXRLZjY0OFlERWFYdWtEZzJiSm5RdUxkQ2dzdUxPelVBNE5ZcW1n0gHDAUFVX3lxTE4yaUdNRjlNS3I1d3BtUGJUaHBkUERhU3lzX0dRX3JHeV9FNkNkQV9QdmlQU3BsYkM5Rk9nRnc5aEFrcVV1ck15Z1d4SENWUHBrX2s0VTZrTkp3NThlOWk0N3NaeURtRGlaa2hab0NtZmZiUUtIRWRnaUp0R0ZncG1jRjlIYnJYcjFOUW1DM1ZCRE9FdWVPVjllTnVUN01kRXUwRUVZd0xtTlBVMXI4M09yZ1VQeVBORGJvRWdjSUIzam5BRQ?oc=5",
+  "date": "Mon, 17 Aug 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=ITL%20Plans%2025-Acre%20Global%20R%26D%20Centre%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
   "name": "Escorts Kubota and Tractor Junction Sign MoU to Build Used T",
   "category": "General retail / office",
   "city": "Lucknow",
@@ -1324,21 +1354,6 @@
   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdG5uUk5adlIwR2pILTc1TkI5VHlxLUlSaGc3OG5lQWYzOXJFWGRiYUhNU2Nxa1FTdWFONUp0NWw3OWlYdXRQMFFHUW9mVjRkNmZsV1B4S29qX1d5WW9FVlRxYjdwWGtoeHpHemozajEwMXBYeGJkclBOSko0UldSMi02VmotQy1DM0FDaWtQY2pzN3VjZ0ZGNVYwVGNHazdVRTduZk9ZdlRLMUHSAbMBQVVfeXFMUHMwSy1yNmpqTUswcVdMclQ4a0dLbVo2cWRqVTA4TVRZNWVycEpuY0NkMVJCZ0JqTFlIa05Eb3B0UElaT1dhb0lhUWNaU2lsSEJiYjRLdGg4QWVkbHJPVWVoRDZYdENlalI5b2JVN2tiMkxxd3VwUjc2NERWV0R6MXNLYnBSVDZmMkN3YkxjV1o1X2Z1eGgxNHFmc1hjOEY2R3V5NmxDVnIwb24xTzQ2TmVINnc?oc=5",
   "date": "Mon, 10 Aug 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Escorts%20Kubota%20to%20Expand%20Tractor%20Range%20With%20New%20Kubota%20Serie%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
-  "name": "ITL Plans 25-Acre Global R&D Centre",
-  "category": "General retail / office",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "ITL Plans 25-Acre Global R&D Centre in Greater Noida - Tractor Junction",
-  "source": "Tractor Junction",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOXNTVmg3NEJMOU5PS0ZsV1ZReWM2S1oxVEMyd3k0OXRjd1lJclJvNFZuX3BsdDBNRjVTa2I2Q2ZGeEg3cEszTnNvYmVjV0xtOERBR1dWb3h4ckppVDNyZDY0VzFnMFJCeUVaNmdHOHhRLVJQUlVGazNrOFM4MVlhLVVwbFZ5UkJuallJdmU4dmJFS1VnWXRLZjY0OFlERWFYdWtEZzJiSm5RdUxkQ2dzdUxPelVBNE5ZcW1n0gHDAUFVX3lxTE4yaUdNRjlNS3I1d3BtUGJUaHBkUERhU3lzX0dRX3JHeV9FNkNkQV9QdmlQU3BsYkM5Rk9nRnc5aEFrcVV1ck15Z1d4SENWUHBrX2s0VTZrTkp3NThlOWk0N3NaeURtRGlaa2hab0NtZmZiUUtIRWRnaUp0R0ZncG1jRjlIYnJYcjFOUW1DM1ZCRE9FdWVPVjllTnVUN01kRXUwRUVZd0xtTlBVMXI4M09yZ1VQeVBORGJvRWdjSUIzam5BRQ?oc=5",
-  "date": "Mon, 17 Aug 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=ITL%20Plans%2025-Acre%20Global%20R%26D%20Centre%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -1402,21 +1417,6 @@
   "stage": "Detected"
  },
  {
-  "name": "AutoMovers to invest ₹500 crore to expand retail, service ne",
-  "category": "General retail / office",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "AutoMovers to invest ₹500 crore to expand retail, service network - ET Auto",
-  "source": "ET Auto",
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS0hoSTdhdXNFMVRXOGZ6NFR5dy1vZnBwTkNHX1dDOUtVMEFYRHZwSkZEZmd6dG5xT3kwYkxZV1RDaVg3S0JDN2lQd1pkRDFNRHlKbmNzNUpWc3ZxLXM3VTVSNmoybU9temRoOExsWUN3X0wtQkpBeS0xNDhRelp6WWtHQ1FiQk9OVzBRc1A1MTJQSGxqWkxCenZrTDduczZoM3o1clJqSGRxRFhHMXFzVVhTVkV3Qklzb1BTajBDWmFqRXRMZ2RKVtIBzgFBVV95cUxOcjNJWjVLeFJ0UkF3Y3g0WmNYS0c0SnRabVR3QmtPRTFYQkphbTkycTJqazJDSnBtNTdMbE91SjRycGpmd1FEOHQ3ZjdOOThSNUd0QUlmVEdaZDFpVXVIOEpTQWJDS19sWDZQQTgtMGkzYkhYVXVyRHpPN2t0bHJkZHhMX0FnX3kxVWlyNWtjOW1GdEQ5T2xKcUczSFZtR2hFNTByblZ2WnZaRXdxUTcwMUtTTTlGR1lEeENHeWE3LVdvazVaUUViZGJYY1hZUQ?oc=5",
-  "date": "Thu, 24 Sep 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=AutoMovers%20to%20invest%20%E2%82%B9500%20crore%20to%20expand%20retail%2C%20service%20ne%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
   "name": "AutoMovers Group Outlines Rs. 5 bn Expansion Plan",
   "category": "General retail / office",
   "city": "Lucknow",
@@ -1429,6 +1429,21 @@
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVmdQOFVfc29BeDFLV3lzdEVOM01WZDdqc3BYSm5qMXMxNi1HZnJZcC1uc0I5eDVIUnctVkFsTWdLVjhldEtjeDdDbV9NLTRhR1A1NkgxRGM4OWJTajRNOU1WN043LUZTU3BYM194Vmt1NVBUbFNMbDVLelZ2emJwMzdITzdHYWx5WUowVkVRZlVIVnktSVVJa1MtbzQtZy05S00wX2I4WXVreDVfQ3dpVHRQMTc5bUxxNnRNVjRR?oc=5",
   "date": "Mon, 28 Sep 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=AutoMovers%20Group%20Outlines%20Rs.%205%20bn%20Expansion%20Plan%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
+  "name": "Airport city with hotels, malls, offices on the anvil",
+  "category": "Co-working / Office",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "Airport city with hotels, malls, offices on the anvil - The Times of India",
+  "source": "The Times of India",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZDZUTXRCejd5cDlIWThqT1Y3NW9QYXNnakloc0xBeDNFNzJsZlNPX2Z5SnVsWHRsREtCZm5PYmhLMkg0WEx5cTZqQkJJeW90S2N0WU9WY2FJdTBQT3kwTDRucGN4d0VXcWFKOGY0eVR0MVhodFFRSGlqTHppaDQwYS1xWXVlTHgtUm8zRXVxVTJPZm5ac3JwVnV2RVZCNFZUSG1qb3hRa20xdWZmR1M2c2hiRTM5SmR4M2NTbFJRT21sSnow0gHKAUFVX3lxTE5lZ2RaNnNSa2d6ajJKYkMydXhJcnBIeVpZWWNMVjlFUF85V0Q4ZERPODVLa1Q5bEMwUk1Bd3hfMHBQVlI2Q01acmFybFZkcTktbjgzbWhlZFRaa3VkTnByVS1McWlxUWVCVnVBY3ZVQzJNbU9samlVM0J4TjBsaWJqdXVXRUhJVnduMWFZNm9ScHJaMnJyWFBvTUdFQTR0WHhYanl2d2d2T05rRmRQbUJPdlB5MnVkbUZ4b1VUNzVwRE5lbXNlQTQ3Y3c?oc=5",
+  "date": "Wed, 12 Aug 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Airport%20city%20with%20hotels%2C%20malls%2C%20offices%20on%20the%20anvil%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -1474,21 +1489,6 @@
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONWw0Zm1MN2tSaWE3ZVc3ZjNZNzJGZENvcVE3XzBWc093VFVpS3BlZ0hUY1h1eV9SUjR2VTB6TUlnRWFyNk1VaERkUzF0U244QkhpT0x2TlFaRkJnMEhOTGt5VEhtN19RZnd2NWNJVk1aZi1wWlpua1ZaQmVfSXFMVzIyU2YyU05QRWtJcWxrOEF1LWZzSDBlLThUdm1RM2JtQzNLSEx3V3paaGlibFQ0S9IBtgFBVV95cUxPNGh2WFJTeFoyZUlSLXN5RThzSmdpX3hoanEtOV9MZF9BZmMzemJ1VWNWX084blRJNFZYTmZUcHhoblhfbXBESWhKRk5UV1dTMnprcVlUbGZ3eVZuQTBENTdtS1d1OHVrdGZoeldzX3RqQ1ZQOEJ1RGlfS2hodUZ5SUpOT3Jzdl9PeXlmMzkyOFpCeVl3a1lIVkdLUzlVODNwRlBRNUdrbWxlUHlfcy1UeWZQNTFkQQ?oc=5",
   "date": "Tue, 06 Oct 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=HCL%20Group%20to%20invest%20%E2%82%B9500%20crore%20to%20expand%20Lucknow%20IT%20City%2C%20ad%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
-  "name": "Airport city with hotels, malls, offices on the anvil",
-  "category": "Co-working / Office",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "Airport city with hotels, malls, offices on the anvil - The Times of India",
-  "source": "The Times of India",
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZDZUTXRCejd5cDlIWThqT1Y3NW9QYXNnakloc0xBeDNFNzJsZlNPX2Z5SnVsWHRsREtCZm5PYmhLMkg0WEx5cTZqQkJJeW90S2N0WU9WY2FJdTBQT3kwTDRucGN4d0VXcWFKOGY0eVR0MVhodFFRSGlqTHppaDQwYS1xWXVlTHgtUm8zRXVxVTJPZm5ac3JwVnV2RVZCNFZUSG1qb3hRa20xdWZmR1M2c2hiRTM5SmR4M2NTbFJRT21sSnow0gHKAUFVX3lxTE5lZ2RaNnNSa2d6ajJKYkMydXhJcnBIeVpZWWNMVjlFUF85V0Q4ZERPODVLa1Q5bEMwUk1Bd3hfMHBQVlI2Q01acmFybFZkcTktbjgzbWhlZFRaa3VkTnByVS1McWlxUWVCVnVBY3ZVQzJNbU9samlVM0J4TjBsaWJqdXVXRUhJVnduMWFZNm9ScHJaMnJyWFBvTUdFQTR0WHhYanl2d2d2T05rRmRQbUJPdlB5MnVkbUZ4b1VUNzVwRE5lbXNlQTQ3Y3c?oc=5",
-  "date": "Wed, 12 Aug 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Airport%20city%20with%20hotels%2C%20malls%2C%20offices%20on%20the%20anvil%20expansion%20real%20estate",
   "stage": "Detected"
  }
 ]
