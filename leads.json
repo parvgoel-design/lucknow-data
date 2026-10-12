@@ -487,21 +487,6 @@
   "stage": "Detected"
  },
  {
-  "name": "Retail India News",
-  "category": "General retail / office",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "Retail India News: Domicil Sleep Opens First Chennai Store in Anna Nagar - Indian Retailer",
-  "source": "Indian Retailer",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWEhKVk1ZeEkyMTRZakpxa2NCQ3FGeFdMRHkyUVh3eUZOVUFOb3ZQc3h0OS1hdENVM29BVTNEOFNtNHN4a1hoZ0NjU1NXR1Jjcmxyam1QR1lNRXBGTTBxaGdYc09YM0FPLTU1ck1pejlxcUxUNDJsb2l0X2dNRmUzLWIyaWxobE5tUVhMZElVaU5vQWl0UDNLYldDVF9NZjhBYkJGRzNvbw?oc=5",
-  "date": "Mon, 17 Aug 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Retail%20India%20News%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
   "name": "CM woos Japanese investors, assures of full support",
   "category": "General retail / office",
   "city": "Lucknow",
@@ -562,21 +547,6 @@
   "stage": "Detected"
  },
  {
-  "name": "Police bust illegal firecracker stockpile hidden under biscu",
-  "category": "General retail / office",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "Police bust illegal firecracker stockpile hidden under biscuit shop in Balrampur - The Times of India",
-  "source": "The Times of India",
-  "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMl90WWhGRndnYWdhQ2FDNHlrWExqejZnX05NbjZpMGxFaXlKbHJIYzgzaGRweFJJR1hjZkVicTZ1NUppanNURVd4QWZEU3NHb3hkMm5OWnhJd3ZoUDhNdjd2QkJZLVRmVVRjOTdZc2FYb1dlVTlWX3lBV2tSMHE0dHMwbG02ZUdXRnVWVk9jS3ZvbmpkWm5tYjBvbExqOTFEc29PRjM1LTFuVFdNT2lwUmNmdFMtd19nVmZOUHJLNG5mN0ZYeE9OOEZza01laU11ZTFmbTZhc2xtdGRjMTBoQ0duY3RPMHRFaC1v0gHwAUFVX3lxTE5XbjlWSXJzV2NucGFoUFB3U3VPdlpEd3JSTE1JMDQyTlBoM2VIYlNsM3VEa3FacTkwSV94VVZ6WVlEOHNoNV90MnFDcC1fcHlsWnVSbzR0bG5na1hUV1BvbjlnZGhwYXZIUDhDVGZwQnRVRXE4VFJoMWtmNkhFVnhTd3YxLUlOeElkWTV2eVFrbmMya05jN05zR0xjWmNYVFVTS3FaZy1YcU5EV1d0S1RRNjlQbWxBZ2FpT3RZWUZEd1NXMDQ3cld0X0NfWUlqMFJoZ1VCOXA3YzRSUTZraG9LXzFyRUdOTHJzSGlPc2hFaQ?oc=5",
-  "date": "Sat, 12 Sep 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Police%20bust%20illegal%20firecracker%20stockpile%20hidden%20under%20biscu%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
   "name": "Cong appoints media team for UP polls",
   "category": "General retail / office",
   "city": "Lucknow",
@@ -634,6 +604,36 @@
   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR1JrV05vUmVZcHFrOVVkeXV2OVdoUGZDeVRVZVZOU2prR0tpSHVOS0FQZGRDc0ViSlJFTURKRV9CcmVTYm9TbmdNRGtzQ2l5RkZwRDB6dHNPMTJ4TDFDcWxvbkg1dHF3aW50c3FIYktWZmFfUHI5ZkJvVTk0VVg0clZubGVWdDZxelJmZEZJYThJLU9LcEt6eExCd0t3NHdvUWc?oc=5",
   "date": "Mon, 17 Aug 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Cantabil%20Fashion%20Expands%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
+  "name": "Police bust illegal firecracker stockpile hidden under biscu",
+  "category": "General retail / office",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "Police bust illegal firecracker stockpile hidden under biscuit shop in Balrampur - The Times of India",
+  "source": "The Times of India",
+  "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMl90WWhGRndnYWdhQ2FDNHlrWExqejZnX05NbjZpMGxFaXlKbHJIYzgzaGRweFJJR1hjZkVicTZ1NUppanNURVd4QWZEU3NHb3hkMm5OWnhJd3ZoUDhNdjd2QkJZLVRmVVRjOTdZc2FYb1dlVTlWX3lBV2tSMHE0dHMwbG02ZUdXRnVWVk9jS3ZvbmpkWm5tYjBvbExqOTFEc29PRjM1LTFuVFdNT2lwUmNmdFMtd19nVmZOUHJLNG5mN0ZYeE9OOEZza01laU11ZTFmbTZhc2xtdGRjMTBoQ0duY3RPMHRFaC1v0gHwAUFVX3lxTE5XbjlWSXJzV2NucGFoUFB3U3VPdlpEd3JSTE1JMDQyTlBoM2VIYlNsM3VEa3FacTkwSV94VVZ6WVlEOHNoNV90MnFDcC1fcHlsWnVSbzR0bG5na1hUV1BvbjlnZGhwYXZIUDhDVGZwQnRVRXE4VFJoMWtmNkhFVnhTd3YxLUlOeElkWTV2eVFrbmMya05jN05zR0xjWmNYVFVTS3FaZy1YcU5EV1d0S1RRNjlQbWxBZ2FpT3RZWUZEd1NXMDQ3cld0X0NfWUlqMFJoZ1VCOXA3YzRSUTZraG9LXzFyRUdOTHJzSGlPc2hFaQ?oc=5",
+  "date": "Sat, 12 Sep 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Police%20bust%20illegal%20firecracker%20stockpile%20hidden%20under%20biscu%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
+  "name": "Nisara Eyes 10",
+  "category": "Pharmacy / Health",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "Nisara Eyes 10–15 New Stores, Targets Global Expansion from Dubai - Indian Retailer",
+  "source": "Indian Retailer",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdDZYdERkT24zLXhROUNwWmJERkJNazEyUDZ2YlViRTd5OWVYZEtEMlJYenQ2eTEzLUthdVFfTDMzMmN1RmRxUmRyMUs4OWRVYXZMV2RwMlJlaVdiQ3FzWk5YcnBnZ2NSVTBRNTFNaUtJMmZCdjZhUGYwcFJrenJTS29jQmpaY3lvZmloQWpqa1dncHNhVENOeHA3a1FncHZuT0ZqdjVBRUV1TXM1R2NTUjRUZHJBYlNBb2ZRU1NsUDYwOHg2TWc?oc=5",
+  "date": "Tue, 06 Oct 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Nisara%20Eyes%2010%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -802,18 +802,33 @@
   "stage": "Detected"
  },
  {
-  "name": "Lucknow Floods",
-  "category": "Pharmacy / Health",
+  "name": "Sugar Price Today September 2",
+  "category": "General retail / office",
   "city": "Lucknow",
   "person": "",
   "budget": "",
   "space": "",
   "locality": "Lucknow",
-  "signal": "Lucknow Floods: Water enters hospital in Faizullaganj, Ekana Stadium also hit as Gomti swells; Check latest update - News24Online",
+  "signal": "Sugar Price Today September 2: Modi govt reduces stock holding limit for sugar dealers to 2,000 quintals; check latest sugar price",
   "source": "News24Online",
-  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPU3ROZ21iMjc5ZHlTZFoyX0VrYVh3Ri1jTHBYOURxWU5fT0YyWHRSd0RrMDhkVDNrVlFaNnBocEdhX2F4Uzl2cnZObWNFNHlTRjV1alN4MlF5T3hTb3pfTFJzREFoeGFibi1vY0diZGN0cWgyOUtCZ3hZbFVFSThLT1ZvUlBEYkhZWUtCZHc1Sk5NcnJfQzBBSFdrTVV2bEF4TlZ3bDMzRzVFWGx5c2dBLUtONXJyY29CRGFXWWp3dzR2anhPYm95R2IycElteWV6ZGF4a3BpX1hwa2psNTdYRnN6ZlPSAegBQVVfeXFMTmZaandramZaZTN0QnR0d1RyQzZVWnZWMUxrdTJGTDlBMmVzTW5jNGZMU1dWWHJnRkotVVVEZjZDTTRyZjVmUjhjUjhZYU1mbWg4NmlNUzB5ZGVfV1hnVS1PWWtRUF9nMGhxNUlHZExUZVJBVFJJNUxMVnFGRmYzdnprdXpNM2RhT2FkOHJTQURGMXg1NmxSNFExV2dQaV9HQzRIdE44MUZpejE1LUNSNWZTQXVJamVjaUJsT1NCV0RpTWt2QnRLM29xVnhVYUJLa3J1R292QWFYaFE2emdBQ2ZiTmVGdlpUNw?oc=5",
-  "date": "Tue, 06 Oct 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Lucknow%20Floods%20expansion%20real%20estate",
+  "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOcGlxM3JfNWNFYW1rQ21Ob1d2cC1ZcHV4NlY5OTlfNlFrZ2o2em95UlVYUmthMzlub1o0aUc0bjFIVjMyN2dBSWRLNDdvdlRMU1k1VUtPYTZkM0dWbjZYNVlZWjlZeTJSenlkSnV3dkZyZFRWdTJPd25Fb09JQkJHZVh1cEI0ajFhQUZpSmlub3JPaTUyc1Q3MXRESThyanFVOEtSWGxIdk5iQTRiZ2VSb29oR1pPV0Mwcnk0TUpKWjM2UW5jMEdWQmp5ZDN3TUNBY0tCN2ZuZUxGd29OT2ptTWQzT1RUaUExaXF0YzRESTFNS0lXbEhHRi1ETzJuNW9QUGpKamE1R3FUNDlzYzNscUdXVkZWSTUza2c0Z3lYcEF2eVRyNGhPWFJsNVlQMGVvdjdLRm5RYnJUMVpSWFhyUUdMUjdlUkRPOVHSAc4CQVVfeXFMUG1ocTMyNG1ERkhKUHJ5MnVaemYxM0Q3RzBnSnBUakxybHRaYl9OVlF2S3hRVXk5UHlIXzB4ejM1Q3JueVFRc1dJa0lsWm1jc29TZ2pmR2ctUWxHNEZIZFItNURRZ0VQMUtBMnFEZXByRkhXbTlKc2FoaU5hd1hZMXJvekRxTVE2cFBBSWJLQzZKZzJZV0dMVTlvbDVaRjI4anRBSF9zQXlrYUI1SGVmcFYteFZVNnN6ZUh5LWxFa0gwWnliY1hYZ0R2akJpVl9zNURWNWtvY1BmZHFlbm1zT2NHU3hJZ3ZtMGY1dlkzZnpuSzlMYzQ4MnREV21iek1JUFhwWl9aa3R6d2t6S1RITWdmTE1NQVNmT29pZlJEUDIzNFl1dHVIYm5hQU5vcDl3ZVEzZmJiai1lOWtjZnFGZVlwY2sxMmlLTm1ZU3JTZw?oc=5",
+  "date": "Wed, 02 Sep 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sugar%20Price%20Today%20September%202%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
+  "name": "Big relief for Uttar Pradesh commuters",
+  "category": "General retail / office",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "Big relief for Uttar Pradesh commuters: Rs 4,776 crore upcoming Lucknow Link Expressway to cut travel time, check routes, speed, k",
+  "source": "News24Online",
+  "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNN2pSdlJRSGctaGZfa3JVWGh6VlI2aVYxT05rQldsc3I1NlczZ01waWN0dzJKUWpPb1RyX1ZIYWNodlI3TVo3clFWMzdIeWo5SExJb0JRZzV0bWIwY0c5bU0tSWkyT0JILXBYQ0EyRkJPTTZrUkNBc2tfd0RfeUxzZHQ2SzJQQ2RFb3U0QlFrMjZ1TWo1TUJoSzVKRFJfc05DQUt0V1Q5bkd6dUd4STlHN01ReWZIV0dNRGFQdFh5bE5ncUl3R3BGMUtoRldxdmF6SXdKSzF6Rm5NUzlWT0U5YzFwNlBBNWprMW1ic1NQZ3dRUlUzV3YtVnpjSVVpLXlVSzlqc3JWSXpJNlXSAY8CQVVfeXFMT0daVXFqdEs0ZnBxaG9HVzVNMXdPUG0zZmQ3X2hYSGlFYU9zNDdmbUxYcElXY2FiSktwOFA4bEJLYWV3SHE4ejJZbi1sWGtkVXBDV2tMcXVydkxWcFJpczY0UlcxcVk1Y3JnX1NaTmg0b2Y3UUxjaW1qTHdGQVFPTjBOMzZuUzNfTlNCdkpXVzdORk1LZ29UYm4yVlZIbnQyb3FocTlfWnFwOU0zajlIZnF1ejVEdWJsWktJYy1VbG4xUm45Qm5XRlFTSnJxaF96Rk9hSzBGYU9Ta0o5N25RQkRFYy1XYVE2UUpEdHAzUks3N3lHVUFjeGFmWGtUZnBVRHhSRHFCeUlabmVabzkxVQ?oc=5",
+  "date": "Sun, 06 Sep 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Big%20relief%20for%20Uttar%20Pradesh%20commuters%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -919,21 +934,6 @@
   "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPSmJ4cDlqdkxEZnVteEVmYlg4Mmk0ZTVxaTNqUktYbHlLcGRJRWpYWDl5TVJMVFI4YXlVQy1hZ0lGbHdXa0JRaFBnelVjVW1nOXRpVzVwYmhiTDBIRVFHdXp5cS1QQjQ2U1hNRlBMcHVKSjZnT2Y3VnY4dmZfQ1AzVTN0UUZna0UyQndFVjdWUUZubkRkZTFrZnEtTXc3al9yc052VUdKMFBncGwwemJaNUFrdlFiSVZEV0Q1RmlOaUNfZ3lKTDlwTEo3cC04TjdSZlN4TFV6U05TX08zZ29OREt3Zjd1alBLcXVnWG04NENlYy16Nk1DT2FFdU5UZnhuemhVOFpOOE9HSmxmblE1d3JkTjBWM3hSRFhEXy1zQUFVNVhYWlJpRE9Ua0ZGQmNuTUY4dV9n0gG6AkFVX3lxTE1kZ3lwUVJ3VU4zU2tiOEUwT1BNWnZpa3lNdzd3ai1SX04wT2VyMXEzTEkwSjFtOWtEa0VYcmRnOEdTRU9MMWQyWnBEdm80U1Q4VUpUTC03bVF0ZUs3ZUh2NlBFR20xQ3NXQnpGNTZxaDFYdkNHWVBwY3pudWV2cU5KNVA3dmR6QVRkYUJnenZmaExKMEtjRDIteFZseWJvWEEtUm96T041eFNvSDA4dzZiSjRCSU9rRTNyN1pCVngwWHE0MWxKYnppQlBnNWZqb1c3N29ZRTlxRU43OWFWV1NQYTYzZVNCTkdBb1FiNERfUnBqQU13aDJDSThtZVhyVVdDXzhXV0lGNUlfQ3pMenhtN0FoUU5aUGJtczhkMjdSb2ZlWGtkb3lDMzhpS1l6NUhoekJVUEl2cjZ3?oc=5",
   "date": "Wed, 07 Oct 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Gold%2C%20Silver%20Price%20Today%20October%207%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
-  "name": "Petrol, Diesel Price October 1",
-  "category": "General retail / office",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "Petrol, Diesel Price October 1: Government reduces export levies on Diesel and ATF from today; Check latest petrol, diesel prices ",
-  "source": "News24Online",
-  "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPYWE1UkJ5b1BmOWQzQWJjRTJsWXQ4ZW5RUE5JN1RYSjFmZjdoc3pmei1GazhFQm9HbDZmenphWFpOUDBxWk5kT3VkZkJTVEdmYzF1bWljamFiZm9NNS12NWdnRDZGeWlCeGFmVUM1cjdwbjVDZG1lSU5xbGhJNm4xUWo5VHJhcjQwVllDSmYtRjZDNldvbWhnaUt3SUdlMGtrVkdvMEx6U0p1aGRWUEVsaldVSEozUFdUbWJtS2x6SkRVdlRpc0RGaGtQckZxZ3hPdjdaakcwdjVSRjRJVnMyQndTZlRkYWpDNjBtRkgzUGxTY3EyeGI2bkVoQUF2OVZUVWVGcmJlTElOamRRMDhyMGhvazhVLVVhVjVndFlJR3FHd0R3RWJWNFV6MnVMOFJXcUtORU4yYlY3U3lyWGJvS0ZkdHbSAcgCQVVfeXFMUHB0cGJZOWJLdWJvLXF1d0xDazV1M29ManUycURHQTUtR2Z2eWlnUUtvRHpJWWNhU2dvWUw4R01xUEREby1sVnNvSlM1dEI0NGxPMXEyN0tXMk00cTh3MDJtbGhUZnNoc1oyWjNTdDdsQWdxMTNyT1pEUlBneFJtSzFvSEhhSlhDN0hpek1ISTlSTVJrcVlDZmZnbC1EU0JJeFlCUUx2eTF5WEs1c0hSQVpQM2o5UXF1THl3aWdMdDJlVm03WEN3NlhwVjZneXE2WGlBanZMVzRqWV9GZ1U5T3ZVQ1BUNy1aNlM3VkdIN19kbGs3bWoxOE96SzBOLV9OalZtNHgzbXlmZUw3SGY3Z0l3SHVVMHJhdDF1RUxqV1hDMm1wSDRITlA5S1c5ZWc3OTB0eG9iOXFMbUpKcWxzUF9CMmxqZi00ZA?oc=5",
-  "date": "Thu, 01 Oct 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Petrol%2C%20Diesel%20Price%20October%201%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -1117,18 +1117,18 @@
   "stage": "Detected"
  },
  {
-  "name": "Yamaha RayZR 125 Fi Hybrid On Road Price Lucknow Sep 2026",
+  "name": "Man enters house, later jumps to death from adjoining buildi",
   "category": "General retail / office",
   "city": "Lucknow",
   "person": "",
   "budget": "",
   "space": "",
   "locality": "Lucknow",
-  "signal": "Yamaha RayZR 125 Fi Hybrid On Road Price Lucknow Sep 2026 - ₹95,913 - ZigWheels.com",
-  "source": "ZigWheels.com",
-  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPamxRWU9BNDRkSDlTY2JidUZBcnRZbmk2ZWFRZ3NOcktqQV9XcWUxZTE2Y1NFc1FPeUZ3akNCMjJ5amJReVBRNm5KM0hJaGVOY2Z1cGFXdjJDc1M4UXlyMEF3VGVWd2ZUODk0SWllZ2ZURHBIcjlDc3dlMU1fcjFSSFN1T19oLXBM?oc=5",
-  "date": "Wed, 19 Aug 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Yamaha%20RayZR%20125%20Fi%20Hybrid%20On%20Road%20Price%20Lucknow%20Sep%202026%20expansion%20real%20estate",
+  "signal": "Man enters house, later jumps to death from adjoining building - The Times of India",
+  "source": "The Times of India",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMHdXWV9vZE12UDFzcl9Zb01nbUo4bFNaVVZDVVY0ZnFJMzRKeFRFanNCeV95cGdVOW9nS3BnZk40MlM3YW1yVVNsR2RaZTQxaFVJenJ2YUZVT0U4Y3BlU0ZCTnJFTEFwUnZ0Tk1HanpORWRSNkNwcXJSdGJibURma2F6cmE5REFEX211QXFHNnhTdW1VdVU3R0ZsSzZ3dndHT1NUWGdlcDNVUmJMZjE0RTljQVJYLXFtX1E2Q2xseUFTU0xUWE5UMXJDQjQ2aGhQZUHSAdcBQVVfeXFMTzNER3UxVklVVUYwbXpBQXJON2k1blZKZEszQWRPMjhrNUxZZElENVB5RkZ4eWN2Qm1uM0Z6c19XaFFVLU1uMlJ1S1NCWXVkX2hvVFhGRGM3Z0pmZ2JYcUpMMWdXZ0NGdUtEWXpKSHU3TC1laVJuTjBoWGt4V2dpT0g3Y2toU2VVSGl2ZGV5ZUdvaUJHMGZPdi1JRFhfVXpEY0liSEhWUGJqX2xpMXd2UlMyaU15X2FnOTFqOHdUNThtY3Y1VGF3OTNiMXJSNnpRZDB3a0l3a2M?oc=5",
+  "date": "Tue, 15 Sep 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Man%20enters%20house%2C%20later%20jumps%20to%20death%20from%20adjoining%20buildi%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -1267,21 +1267,6 @@
   "stage": "Detected"
  },
  {
-  "name": "Man enters house, later jumps to death from adjoining buildi",
-  "category": "General retail / office",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "Man enters house, later jumps to death from adjoining building - The Times of India",
-  "source": "The Times of India",
-  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMHdXWV9vZE12UDFzcl9Zb01nbUo4bFNaVVZDVVY0ZnFJMzRKeFRFanNCeV95cGdVOW9nS3BnZk40MlM3YW1yVVNsR2RaZTQxaFVJenJ2YUZVT0U4Y3BlU0ZCTnJFTEFwUnZ0Tk1HanpORWRSNkNwcXJSdGJibURma2F6cmE5REFEX211QXFHNnhTdW1VdVU3R0ZsSzZ3dndHT1NUWGdlcDNVUmJMZjE0RTljQVJYLXFtX1E2Q2xseUFTU0xUWE5UMXJDQjQ2aGhQZUHSAdcBQVVfeXFMTzNER3UxVklVVUYwbXpBQXJON2k1blZKZEszQWRPMjhrNUxZZElENVB5RkZ4eWN2Qm1uM0Z6c19XaFFVLU1uMlJ1S1NCWXVkX2hvVFhGRGM3Z0pmZ2JYcUpMMWdXZ0NGdUtEWXpKSHU3TC1laVJuTjBoWGt4V2dpT0g3Y2toU2VVSGl2ZGV5ZUdvaUJHMGZPdi1JRFhfVXpEY0liSEhWUGJqX2xpMXd2UlMyaU15X2FnOTFqOHdUNThtY3Y1VGF3OTNiMXJSNnpRZDB3a0l3a2M?oc=5",
-  "date": "Tue, 15 Sep 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Man%20enters%20house%2C%20later%20jumps%20to%20death%20from%20adjoining%20buildi%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
   "name": "Omaxe brings together 400+ channel partners",
   "category": "General retail / office",
   "city": "Lucknow",
@@ -1324,6 +1309,21 @@
   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQR1hxa1o5MGtHd0ltRGp5OS0wMWZFUlBVdU4xeElFQlJ6cnRoeFNKbFh0OW1VdzdPUnRtMVlTM2tDWkxXaC1fWTRzMnpyRGNyNUJxNXFnVVcweElENGFSYmMzSU14LTcyLTI3dExoNi02c0NDMEZFVm0xYVo3eDVNaEpOMkQ5SEVWZ1FWNGR5V0FENlVOdFlsNk9QN0ZpSjJpRDlmWjVaWVEtVjFwVmd4UVZTWGtTUjRzS3FndkI2QlZGdldZSExsMXNyaFgyMkJUN2Z6UUk0RXVITjjSAeABQVVfeXFMTW43QWNHU2dBZmE1TXhjaFY2S2tVTVJTTW9PSHBMRlppZW9PNHBhVm50b0cyN0N4dXhRVUR1ZnRWYVlyV1huTmxhcEJuRGtoRDZ5eW9FaW5XQUIwZVMwYVNXbmN3WDJhQmE3RG91MC1SMmpsUi1BbnBhSm9BMFlfajhtMHpBMlpsYVNLSkxNN3p4M3c4T3lYX0tEam93N0prOFIza3BmVkhiYVA3ZF9qZXU3X3J4cHhBTXNzZjZSeGppaFRoVzR4TUEyZXFfWS1PUXNqWDRLcGp0LUZkZVp6MWs?oc=5",
   "date": "Wed, 30 Sep 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Hamirpur%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
+  "name": "Dhaba owner, sister-in-law missing after jumping into Gomti",
+  "category": "General retail / office",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "Dhaba owner, sister-in-law missing after jumping into Gomti - The Times of India",
+  "source": "The Times of India",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMXdnbWpBMWRCc3pzX3JmUWVfem1RWE1la2NZT09ZRW40QVhFV2lHUDNoM0p2aVdRM0o2LXVSYW9XbVNTUWxPNDV2d0hMX0ctZVdfM0xYX2tzN2VuTkVQTkhlRHJJaEgwRGh5YWFJd1IyZUdqcHg4ZFczY2RvZU1NdzJ1SEwzaWZlOTZORThKc3JVLU8tWW5ycDFIOWIyb05rUVlmLUVCYlN1UFdjblRZa3RGNnZ3VUJjLTZOWUw1Qk01d25WUzVkb2xXWjAtZ9IB0wFBVV95cUxOaWtJaEpBZTJjZ1RVRXFCamk5WjF3S3dmV3A5MVlkbXQzMENGZkdiWDlIbVJOVEo4YUFGS2ZLRWpSSlozd2RPcXpVbDhPeHJ3WUhDbGhlM2x1ZjNVRW5QUnhtQTRLckY3WXh5RDVtQzBxbzI1VjJQcVZfc1EtazM4d0gtcTR6LW1kcUlwX2pmcnNja0RrYmNQUWliRk10R19tUks3aHVLNTlYVWxEVjNZU1NQUDN3WXllMExTdFBXUlBNVG1pbWlVUTN2LWFVZVlOZTNr?oc=5",
+  "date": "Sun, 11 Oct 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Dhaba%20owner%2C%20sister-in-law%20missing%20after%20jumping%20into%20Gomti%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -1417,6 +1417,21 @@
   "stage": "Detected"
  },
  {
+  "name": "Hyundai Creta CSD Price List 2026",
+  "category": "General retail / office",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "Hyundai Creta CSD Price List 2026 – Ex-Showroom & On-Road - V3Cars",
+  "source": "V3Cars",
+  "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pNDBuQ2laYUlMWEJyNnQtQ0l3blByRmwxcjhhanJROUg4MUNmQXVUNFBvcjB6enZCa0NfQ255WFRiOTd0SWRtUlVHbXJZUDhBbmFVempUVlMxbU1rR3JBbw?oc=5",
+  "date": "Wed, 19 Aug 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Hyundai%20Creta%20CSD%20Price%20List%202026%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
   "name": "Gold Rate Today",
   "category": "General retail / office",
   "city": "Lucknow",
@@ -1462,33 +1477,18 @@
   "stage": "Detected"
  },
  {
-  "name": "Jeena Sikho Lifecare Postpones Commercial Operations of New",
-  "category": "Pharmacy / Health",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "Jeena Sikho Lifecare Postpones Commercial Operations of New Lucknow Hospital to December 2026 - EquityBulls",
-  "source": "EquityBulls",
-  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Uc0hzTUxPRVY4R2dfckVYNmdxZktDUUdKcE1LdHdOQUd1WjRHUkQ2bFRUbGV5eTQwS2h5ZENPa0tnM2dHZk1vUTlweFBQdElYNFRWRHhSa0ExLWVtVzVJ?oc=5",
-  "date": "Wed, 09 Sep 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Jeena%20Sikho%20Lifecare%20Postpones%20Commercial%20Operations%20of%20New%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
-  "name": "Hyundai Creta CSD Price List 2026",
+  "name": "Businessman shot dead with 4 bullets",
   "category": "General retail / office",
   "city": "Lucknow",
   "person": "",
   "budget": "",
   "space": "",
   "locality": "Lucknow",
-  "signal": "Hyundai Creta CSD Price List 2026 – Ex-Showroom & On-Road - V3Cars",
-  "source": "V3Cars",
-  "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pNDBuQ2laYUlMWEJyNnQtQ0l3blByRmwxcjhhanJROUg4MUNmQXVUNFBvcjB6enZCa0NfQ255WFRiOTd0SWRtUlVHbXJZUDhBbmFVempUVlMxbU1rR3JBbw?oc=5",
-  "date": "Wed, 19 Aug 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Hyundai%20Creta%20CSD%20Price%20List%202026%20expansion%20real%20estate",
+  "signal": "Businessman shot dead with 4 bullets in Rampur: 2 men in car open fire outside shop; he had married woman 1... - Bhaskar English",
+  "source": "Bhaskar English",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN2paOHQwdTQ2b0pFOXdHcXVaV1ROU3VNUWRXVkZBbE5WWkdiNjlWTC05VDZHVm5sa0pwV2NxemNyNks3ci1JaHcxOW16QUJPX0l0cEtBTVZKb0FXY3M1ZFhBaWxoWVZvTEJOZ2NrTG5HdThsNzdCUG44T1N6TFhBTHB4akxKSENRLXM1bHcycTVnQkNBUDdrdjRUTGtPamVBOWxKWmVsU2tSU0hTbVBydmUzQVRXcDVXZzdEeDU4YWZoX3o0Z1NKaGgwUmXSAcwBQVVfeXFMTzdqWjh0MHU0Nm9KRTl3R3F1WldUTlN1TVFkV1ZGQWxOVlpHYjY5VkwtOVQ2R1ZubGtKcFdjcXpjcjZLN3ItSWh3MTltekFCT19JdHBLQU1WSm9BV2NzNWRYQWlsaFlWb0xCTmdja0xuR3U4bDc3QlBuOE9TekxYQUxweGpMSkhDUS1zNWx3MnE1Z0JDQVA3a3Y0VExrT2plQTlsSlplbFNrUlNIU21QcnZlM0FUV3A1V2c3RHg1OGFmaF96NGdTSmhoMFJl?oc=5",
+  "date": "Sat, 10 Oct 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Businessman%20shot%20dead%20with%204%20bullets%20expansion%20real%20estate",
   "stage": "Detected"
  }
 ]
