@@ -62,7 +62,7 @@
   "signal": "Taj Palace Opens in Lucknow - https://safariindia.com/",
   "source": "https://safariindia.com/",
   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGbFNfcG1FMnY4OW9kYUZZd013SVlTUGNHQTRBMGhBUS1WRWlJS1ZiUDFPbjJCcEEtOHdXNlpfSVZHOGtJeFBxbENlUkdwaWZBT2dnVHpnV0NCeEF0Ry1LZTJR?oc=5",
-  "date": "Fri, 16 Oct 2026",
+  "date": "Sat, 17 Oct 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Taj%20Palace%20Opens%20expansion%20real%20estate",
   "stage": "Detected"
  },
@@ -79,21 +79,6 @@
   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTzBZR3BHT2hfd3gzNlNUOW1ra2otNl9iSGFMOUVmTDNNRDFHMFJMd0ljTVlrMHRJcUJjNnRDWGZacmhCb1FIRVVCUUdqZmY2ZXc3eHFwYnZCQXA1SDI3TDBGYjdJTmYyczVabzBxSjJrZWZGZkstelhiSG9SSGpTdVk2Ukw?oc=5",
   "date": "Thu, 20 Aug 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Taj%20Palace%20Opens%20181-Key%20Hotel%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
-  "name": "Suba Hotels Opens New Quality Inn Serenity",
-  "category": "Pharmacy / Health",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "Suba Hotels Opens New Quality Inn Serenity in Lucknow - Asian Hospitality",
-  "source": "Asian Hospitality",
-  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX2x0ODkzUVNWV05ub3VsNWR0YW16blZIbGhTc2Zvc3NQN3RkVDg2UGFoNmJWckprYXFSYk5QQlpmVE14MVREcm83ZEZ1cFAyeE53UTFtZWZWUkxWZXpfR0pKSHdWY0IwOXVuc1drTzNhbTNyOWxBMThja3FIbkVoTGN3?oc=5",
-  "date": "Thu, 15 Oct 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Suba%20Hotels%20Opens%20New%20Quality%20Inn%20Serenity%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -247,6 +232,21 @@
   "stage": "Detected"
  },
  {
+  "name": "Stelatoes Expands Footprint",
+  "category": "General retail / office",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "Stelatoes Expands Footprint in Punjab with a New Store Launch in Jalandhar - Business Standard",
+  "source": "Business Standard",
+  "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNkowVHprSTZ0bm4wVlZqNUs5dko2SEVGaE5DblN6dV9aRmFZNUNIZmJYZnhwb1dGbmNOSm5zaXJXSU1DYmVDd2FpaThOcG82aV9TNFNLQXRLSlJ5Szg1ak1vNERXdUVUZTFyN3lHYkljV1FjZzA4RVU4UnJPamMzS3oyNHZxVkVsSTdPeWEwZ1lTSjI5UElJQVdNT0N2ck5NMktJdEFUYlFHR1BtUUJHRGxWNEN0bWgxMmN5TVR6eXFNRkxGbjRodV9IRkRBLV84Ym54UlhfS2N2UWV1STJTaGJaa1pGR1VqQ3pn0gHwAUFVX3lxTE9XdXk2bzBBdDJCOEppVGNuYjFYbnlybzAwQUV1TFhpWnd6d1hNS0RnbmVhWm9tMGFUSk5fUGlldko3b3ZDUUNrUGZMT1JTNWtDU3Zqb1BXRldReGFQcmhfYkxSMVRkRkZVVXk3eW5iSW1vcWpUQUdCU1JoTVFEZ1RfTktENG5NazNTMDRWVGU1Z05MYTIxY1lVR2VoVEdVY1BpdmJFZmF5U09HaXRYRDBFWDNyUkRMR2RYQTJla1o2ZGtLNEpSTm1tOGxQYUNtSHlWd0x4VWptenNmYW1OYTJfRHVJTThqcTZWTHNVYnNNVw?oc=5",
+  "date": "Thu, 03 Sep 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Stelatoes%20Expands%20Footprint%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
   "name": "Indian Jeweller (IJ)",
   "category": "Jewellery",
   "city": "Lucknow",
@@ -322,36 +322,6 @@
   "stage": "Detected"
  },
  {
-  "name": "Stelatoes Expands Footprint",
-  "category": "General retail / office",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "Stelatoes Expands Footprint in Punjab with a New Store Launch in Jalandhar - TheWire.in",
-  "source": "TheWire.in",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUk1ZS2k2aGs3YjFxZnBhNTJqaU5aUEFaNVNOZk5NcDJwMWZKRlJaQzdQWklsY1hOSDRuQmplQkVMYzVmVlBqb2tMM0YwTUtoMzhwc0NVNEFQRUZFZEdUalhydlZITGd4NVQ2bTc1OE5iZHdVbE1WRGIxMUx6QV9RWDlkdEtwUDV6SnY2bXc2NG9fQ0xwckpKcExsdkRyb0JJRVBleEdKeF9mSngzRWM3WndaY9IBuAFBVV95cUxOcW9wckNaVXBtVkVicG9LT09TMWRkZTIzVlEzV3pTUkJOd2pTd2k1MmNwT3ZDSThQOXNUV1haeWpTU0JUdVdfdzNYLUk2Q3owdnItWFFIZmtxRUM1NGsxZF9iamlOOGwtODRnVGFSWnRTTDB2Ykh2RDJBckNfUHpHS0V0TmxTV3hTXzR4cEZPNWlkbElDYVpaTmFTNklfMG1VaEFoNS1YUlctYmpJM0JoU0FSd1d0TWJM?oc=5",
-  "date": "Wed, 02 Sep 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Stelatoes%20Expands%20Footprint%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
-  "name": "UP Government Clears Rs 380 Crore First Instalment For New C",
-  "category": "General retail / office",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "UP Government Clears Rs 380 Crore First Instalment For New City Projects In Lucknow, Unnao And Rae Bareli - Swarajya",
-  "source": "Swarajya",
-  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTjY4NVlJaW9IeHNlTVA2LWVmZkFXZjl5ajRUN0F5Z3Y2RnJ4eEdDWHhSMkhHSWJFbGxnMElVVU93aUFQRzhWZndFVTdTTTVZT2ZaMG00RnEtaHBnMWtwUFBRbTlNOVU4T2RwTXgyMUVrTERQTF9XRUo0eUp6NUZpbmxpSUhleDJJYTRmS2NsVzdjd2ZzdUR4UHc1NkpkenA1eFl3Qjh5RHZZcWRQVU5jdlozVFI0cjN1LVFmSEM1TWJMQ0JadkE4LW4zUmVyR2lRcG1LakNn0gHmAUFVX3lxTE80Mk9samM5YXBqYnU4bWF5ZGFzcEZzQnprOUdGRl9tbFpfbGJPMzE2bU1IVFVNdmxqckFaX0pVV0V1aExrTVhiMk5LaDMyZzZ3Smx2NzVjUmlUV0I0aGY5WkdhemxQdHJvOXFuV2ZWWk90QUZTalJua3dBSko4ZmtkbFRjZFdOVjZNUXRWOWY0STFudGlvTFlDaFJCVkFWeEdrczlKT0xqWDlWT2N4dGJjaEEzOF83TzBXa3J1TEhXcWpxZmVOZFNZLWl5SEIyRVduSmVmS09wVUM3d01rX2xCVGdueUFB?oc=5",
-  "date": "Tue, 15 Sep 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=UP%20Government%20Clears%20Rs%20380%20Crore%20First%20Instalment%20For%20New%20C%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
   "name": "IHCL signs a greenfield Gateway property",
   "category": "Pharmacy / Health",
   "city": "Lucknow",
@@ -412,6 +382,21 @@
   "stage": "Detected"
  },
  {
+  "name": "UP Government Clears Rs 380 Crore First Instalment For New C",
+  "category": "General retail / office",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "UP Government Clears Rs 380 Crore First Instalment For New City Projects In Lucknow, Unnao And Rae Bareli - Swarajya",
+  "source": "Swarajya",
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTjY4NVlJaW9IeHNlTVA2LWVmZkFXZjl5ajRUN0F5Z3Y2RnJ4eEdDWHhSMkhHSWJFbGxnMElVVU93aUFQRzhWZndFVTdTTTVZT2ZaMG00RnEtaHBnMWtwUFBRbTlNOVU4T2RwTXgyMUVrTERQTF9XRUo0eUp6NUZpbmxpSUhleDJJYTRmS2NsVzdjd2ZzdUR4UHc1NkpkenA1eFl3Qjh5RHZZcWRQVU5jdlozVFI0cjN1LVFmSEM1TWJMQ0JadkE4LW4zUmVyR2lRcG1LakNn0gHmAUFVX3lxTE80Mk9samM5YXBqYnU4bWF5ZGFzcEZzQnprOUdGRl9tbFpfbGJPMzE2bU1IVFVNdmxqckFaX0pVV0V1aExrTVhiMk5LaDMyZzZ3Smx2NzVjUmlUV0I0aGY5WkdhemxQdHJvOXFuV2ZWWk90QUZTalJua3dBSko4ZmtkbFRjZFdOVjZNUXRWOWY0STFudGlvTFlDaFJCVkFWeEdrczlKT0xqWDlWT2N4dGJjaEEzOF83TzBXa3J1TEhXcWpxZmVOZFNZLWl5SEIyRVduSmVmS09wVUM3d01rX2xCVGdueUFB?oc=5",
+  "date": "Tue, 15 Sep 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=UP%20Government%20Clears%20Rs%20380%20Crore%20First%20Instalment%20For%20New%20C%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
   "name": "UP govt begins recruitment for 191 Civil Defence posts after",
   "category": "General retail / office",
   "city": "Lucknow",
@@ -424,6 +409,21 @@
   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZ0dCOHlYX2FCYW5qTndqcExvYmxWZVB0enRYaHFaTlpCbWlqV1lhOEEwT21FVkdveUVyUk5BS0phb0RnOTV4RGdxaDFtdnB5ZHlMNVlnb2NHRFU2SmJRRkR4UWVHdHU4RVEzQnZvenVaZTBVYkJkUTRGYjc0MXktTmR0QmQ5akpNQnpGX3dsOHZSRE1FZVU2dE9WQng0LTNiUmFfRUFPTWRiQ0JnSEVGakw2dmY2V25zMENkLUdTcDMySzc3RTJsdkpqRUxPVjhpVTRFOUdwalNUc1o2YnhrOFNJMG5adExPdVVLMdIB8gFBVV95cUxNMUF5V3RNLWZvMjFxNzd5YjktWThvN0N4TDVwcF80bUNxaDVCM0s1UzZ2Mm9udlE3aGpuSjMtVDZGU3FZXzZveEh1N0loT0kwOTJZMlJJNW9VSUFCc2VGMi1nTHVsd2lyd0ZqNHE3SVBvTzFmOHQ5WVFjeGpQeXBHWGRYN3NoaTdPaUF0dHUxWks2bmpKeWJNZW9lZFVkWjdHang1N3JtSkZIT0dEbGdSRi1qc1FXYUY5ZDd1T3hFdGVwZXZlRGFPY1FNV3RmV3h2T1Z5R2Q3MmVnOG1haW8wa0VwS2JieE9ZeG8wVUlEdzFZdw?oc=5",
   "date": "Thu, 17 Sep 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=UP%20govt%20begins%20recruitment%20for%20191%20Civil%20Defence%20posts%20after%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
+  "name": "Rural women building new UP, says CM",
+  "category": "General retail / office",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "Rural women building new UP, says CM - The Times of India",
+  "source": "The Times of India",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ2ZvNzE0WVJvTU0xNVM0Tk1LTVZpdXBscWNRcEd3elRxLUVpNkdTMU1RNjZ0eUxCcVRwN2l6NkhZWnF5cExDYXdNMzV5NUJzS0NwcFN5cmZZZHJVdFNiSFhvOHBxM0lRcWVaMTJlQjc3eXU5eHdGakl3d05wREhxSjFaajk3S3BnSDBJM3dlV2dwVHk5OXhpdHpzb1F2eHcxUjI5RmJiZzF0cDJXTUdZ0gG0AUFVX3lxTFBKeHMtN3hVdGEwYmhQMWlFeFIzUjNiX1Fucm1XWjk1bTl6TlY2Uk44Zjh6NWJoQS1hUHFYLXNEaUY0a2otU0JjYjdZRkpfWVhNektwOUstT09IRGhIQ0xGaURmODZ1YVBkQ09sOVp4NlBqeTd4MXZCRUt3LTVpS3Q1UWI3eUV1SmwtZ19jV2VZM2FIRjNDS0k2djlFRkUwelBiZXN4TWRvOUZNenlvcV9oRUdlRA?oc=5",
+  "date": "Wed, 14 Oct 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Rural%20women%20building%20new%20UP%2C%20says%20CM%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -574,21 +574,6 @@
   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTnc3U1ZPc3hFbUdfT2FHU20ydjZycGdHTDZUTVZxSTl2aE55emI0eGZmMmZoa2xRY1V6eXZrZmhfRm9oOGJVQjdMb0d3NzVQV0F6TlNTcnZnZXpoenJoeTU1S3NYa3IzYU9RU09kSFFOaFg2Q0YyTVpBOVdCLVVhQ2ZnRkNqdWtOb3FvX1ZRV1BsUWFuclRxaDdESllkRnRsQnVlczl1c0d0b0l1RkNQRXZnVGNfdUM0aENLaEN2LUtCV092ZGpwOVhTeEtHbFFvWlRUR1NOVmLSAd4BQVVfeXFMTmJvRDJvRDk4aldQSTFuWTN2RHFTOFU1UWN6SjF6X2swdkZjT1dsRVIyMnc2amZLUE1LekRIb29XcmNTYnNuaklMaEhlcEEwaFRMSk9kTl9VWktXODFOcUxKZW9oc3VQekpwc0VvcVJwb09BZXNsZGpBYUtjZlhtaTA3Uk5NX2diYlhfV3B4MjV2dmQteHZDMjBqM0FERFR5QUMySFBVZ3ZtV3o0QW8wdFRidnRwWmVyVGREUTEyc05WdDJaMXBjVEc2bWVkNVBIM1VfQXdXYkVxSTZMdGFR?oc=5",
   "date": "Thu, 17 Sep 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Dream%20big%2C%20explore%20unconventional%20careers%2C%20Shubhanshu%20urges%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
-  "name": "Kiaasa Retail Announces Six New Exclusive Stores Across Utta",
-  "category": "General retail / office",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "Kiaasa Retail Announces Six New Exclusive Stores Across Uttar Pradesh, Rajasthan and Bihar Ahead of Festive Season - www.malaysias",
-  "source": "www.malaysiasun.com",
-  "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVXVKN183MWdQTUxtd3BDX2x0aHZZOU5qUFdjdzMzSzZ6clpDLVhnRWNrMmhURGxnMnFBNlIxb3VtT0M1ejlFRDF6X3J0X1R5VDZuUWdOLVFMY1dmbUVIMWFCQUNKOGtWellHajhxMDRsaTVhd3Z1R2Z5WWpod2VWY0JycVZNZElPODhHcVJRRGt5VHpqVWVjZU1jQ2l6aDVKS1NZcjRIMXhzTWFKNzE2ZkpmQi1RLVYwSXQ4ZktfV2txTU1takJvSXVLYWs3THVyMy1ZZXVWV0U2Mm5tTHd3VEFCYWdSZ2RBRURndw?oc=5",
-  "date": "Wed, 07 Oct 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Kiaasa%20Retail%20Announces%20Six%20New%20Exclusive%20Stores%20Across%20Utta%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -757,18 +742,18 @@
   "stage": "Detected"
  },
  {
-  "name": "Sonu Sood takes a dig at crowds buying iPhone 18",
-  "category": "General retail / office",
+  "name": "Uniqlo India to focus",
+  "category": "Fashion / Footwear",
   "city": "Lucknow",
   "person": "",
   "budget": "",
   "space": "",
   "locality": "Lucknow",
-  "signal": "Sonu Sood takes a dig at crowds buying iPhone 18: Actor says ‘New EMIs won’t change society’; Vicky Kaushal... - Bhaskar English",
-  "source": "Bhaskar English",
-  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ255eXJhY0VoQ1FRM0ZGZUR0N2xfa20zczZaT0ptazIxVVhxLWFPc2RsbDdaVUdDSW01alM4eFNFSHVFN3JGeERRQ0ZwLVZ1VEFRU1pmOVdQQlkxTWZkWHltQ25wb0VRV3padHl5S0lidS1WN2FLQUJSY0x4SjJPYzRUOXQ0RlFfa2tYS2pqZGRGQjZCRkxIV2trZWlnRXVsR3RZNlpRbjQ3eVBZcWZELUVOZkhKUExHM0JfR0N2MDlEZ1dlOWJfSjMydU84QdIB0wFBVV95cUxQX211UzhONGFWWURzQVNGdFRTTzhXV1ZYSXpqSVc2N1NMc3NoNjk3cGIzRmkzbXREMWFhMmRFM1BEZEdESGNrYlpRRW0xTnVSRVlxdnIxZWgwSmFSb2c1QThBSjZ0RFM2bFg3TktJVUFDVzV3NEszdU1PcmlxdTdmdzFERGgzb1VjWl9LblJ0M0VCTExGV1FwdGUwTnUwZERPV0dlMl9Nb183dU1HcE1taF9hcXBVRndfQ2JEclVhOV9jNnpNMUFQNGZFeGxfbHVEYU5R?oc=5",
-  "date": "Sat, 19 Sep 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sonu%20Sood%20takes%20a%20dig%20at%20crowds%20buying%20iPhone%2018%20expansion%20real%20estate",
+  "signal": "Uniqlo India to focus expansion on six cities where it has a presence - Business Standard",
+  "source": "Business Standard",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQWU1LWR3UGtFcUJxWndoMk96bjFFeHl4RF9PVHFScTVWYkRoVnJ2a0ZMTnVFVThRU0d1Z3BWNWxVRGtXY0dBREFMNVFiMUdrRmpPUngwS21WaXp5RmFVSWdkNzdqMTlCUlgzeFFMNWJaQjJNWVhsdkZnZnlxenZtc2szeVE5S0U5b3ZqT2JCeks1cEFLbDNYWDFybDB4WVEzSUlzajFza3prdjFPMDE1RGR3WXBHbkNHOW1kN2FjWjk4elZQaGhCUXdza2dNd2cxNFhLZtIB2gFBVV95cUxNTk5oU3FMdDhZN1NqYlUzdzFqWklGNHdkcXgxTW9MR256eTNwbGprMVA0ek1RUDdjVzdWNUpXNEdxYUdZVDFkUkE0NXd0bjhLLXpHSFV5aVV0NWc0bm5aUHhSdU92MGtNZFFsQ0Eya0owTjd5SGdQaGhoN3BaUDJaT0duRW93Q3JNVHpOTEMtOHhYSjBUOEJIaEpUZUFoaTU1aTJocW01MU9ZVkI0SFpRRk1QRkJlc0xBWjI0Y0lRdlNTamhVelF1R0p0czZoZlE0TUt2SkRWcVB6UQ?oc=5",
+  "date": "Tue, 25 Aug 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Uniqlo%20India%20to%20focus%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -784,6 +769,21 @@
   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX3JocjlDTF90ZWoyZ1RsTkJ1Ymx1WTJWZThtcE5HdzkyVXRFSDZXdDZMSzJjcGo3TjlyRGtfOGl6UjIxVE1Nb2YtQmV1QVVqbE9PYk5LR1pfZkpXVVNaRm5oNWpybTFKM3N6WUlXRTJ3TnZoWXFQWVN6MEd4QUtnS3VlMVY0RGpGdlZvNUdJbms3SndkOVp0TFRiUVdqa0daV3NTeFBISmtLVGRYcEpSTkRqY0I2bUcydmpudDB1RXBtM03SAcgBQVVfeXFMT0FXUGVxN05ncmRVcG9FVWJfdHBLdmZXSmpjWlo2c3p3a2g0YWthOGxQSHN3ak9QbVN5RkloakZkYVUyX25CRkFYaHZmSWxWbUxZVVZtNmczQzRuc1lscldfcGc5WE91TnVjaFBwcVVzSTFhSzhPck5Pem5EQzlEY2tyNThpajlha0t4cUxoVXRXVUJFRF9rdG1QTF9CVzd1MTNGOEk3LUs4VUVwZFlkelh5cExuZ01YMVpUMmFiUVZabEhxUnltQms?oc=5",
   "date": "Fri, 18 Sep 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sales%20begin%20for%20the%20iPhone%2018%20Pro%20and%20Pro%20Max%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
+  "name": "Sonu Sood takes a dig at crowds buying iPhone 18",
+  "category": "General retail / office",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "Sonu Sood takes a dig at crowds buying iPhone 18: Actor says ‘New EMIs won’t change society’; Vicky Kaushal... - Bhaskar English",
+  "source": "Bhaskar English",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ255eXJhY0VoQ1FRM0ZGZUR0N2xfa20zczZaT0ptazIxVVhxLWFPc2RsbDdaVUdDSW01alM4eFNFSHVFN3JGeERRQ0ZwLVZ1VEFRU1pmOVdQQlkxTWZkWHltQ25wb0VRV3padHl5S0lidS1WN2FLQUJSY0x4SjJPYzRUOXQ0RlFfa2tYS2pqZGRGQjZCRkxIV2trZWlnRXVsR3RZNlpRbjQ3eVBZcWZELUVOZkhKUExHM0JfR0N2MDlEZ1dlOWJfSjMydU84QdIB0wFBVV95cUxQX211UzhONGFWWURzQVNGdFRTTzhXV1ZYSXpqSVc2N1NMc3NoNjk3cGIzRmkzbXREMWFhMmRFM1BEZEdESGNrYlpRRW0xTnVSRVlxdnIxZWgwSmFSb2c1QThBSjZ0RFM2bFg3TktJVUFDVzV3NEszdU1PcmlxdTdmdzFERGgzb1VjWl9LblJ0M0VCTExGV1FwdGUwTnUwZERPV0dlMl9Nb183dU1HcE1taF9hcXBVRndfQ2JEclVhOV9jNnpNMUFQNGZFeGxfbHVEYU5R?oc=5",
+  "date": "Sat, 19 Sep 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sonu%20Sood%20takes%20a%20dig%20at%20crowds%20buying%20iPhone%2018%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -847,6 +847,21 @@
   "stage": "Detected"
  },
  {
+  "name": "Kiaasa Retail Announces Six New Exclusive Stores Across Utta",
+  "category": "General retail / office",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "Kiaasa Retail Announces Six New Exclusive Stores Across Uttar Pradesh, Rajasthan and Bihar Ahead of Festive Season - Big News Netw",
+  "source": "Big News Network.com",
+  "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcEI1dWNpWUNUdVVFUlVnZll3WFdBQWo5bGdUZEVNYmxmMXV0ZW5ENm5DeFczbjIzMVdfN3dhMjJ4Q2EzdkJGRWxiV29zVzRLV3ozNUVTYmVzSUQ1U1JkZVFxY1FtQzRGazZ2Uk00aXlXQlVqYk1CeGNmS1pYTFhuVl82cXFSUDBYYlM4T3FyY3FzdnZEYjhwbk9EdXlJNUV0REw1MHQ4UW41eGQxdG15VmRDb213ZUFxejFJVF9fWVBJRVZORmZGaVdxcUIyZHZEQllzNFlkZE4yWkt1ckFXQ3BvVVRJLUxIcWNJLUtkd18?oc=5",
+  "date": "Wed, 07 Oct 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Kiaasa%20Retail%20Announces%20Six%20New%20Exclusive%20Stores%20Across%20Utta%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
   "name": "Kiaasa Retail To Open Six New Stores In UP, Rajasthan, Bihar",
   "category": "General retail / office",
   "city": "Lucknow",
@@ -874,21 +889,6 @@
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV1FuNHlyTjNxenRsWC04ZkRNS19WZDhLQ3lZakNJdjR0UmZabzdRLTUzNHFwMmhhTGZDaFVaUklzWEdYdjYwVmV0bnp2SDVmVGtsWDY3cEhOc1lzWk5GQlVraDZsS0VfcU1qWklRbVROUXdidEV5eVhVYUREWXlrSVdvb2wtOUxpOWcxdTBSMUJKTFRZVl9BZktJSURfWk5MamltLXdUZUJMY3NqRnNHdmxwb9IBuAFBVV95cUxOdHktOGpQc016VHY1N0tudzFJLWlMckhpWVpCcjl3R2lZUTlPbWxvWk4zdkJHUTdUN0U3a0wtN0NiUnF3aUIzbjFfZE9TdktTMXYySGpzcm9rOFFNaDdUWDN5RDZucDVkWnVIWnpGRnYtWURCQzQ2RUxLTURwdTRBMUFNZTZmclhyNnJMeVpJMkFhWDZ5NFJkSlVYY0VFdlpxaTNOZnhiU3dxZGJ1bkU0cm9aaFp5dkhw?oc=5",
   "date": "Mon, 12 Oct 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=PNG%20Jewellers%20Opens%2081st%20store%20In%20Ayodhya%2C%20Expands%20Uttar%20Pra%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
-  "name": "Sex toys, chats, white Audi",
-  "category": "General retail / office",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "Sex toys, chats, white Audi: New twists deepen mystery in Lucknow tycoon's death case after fall from influencer girlfriend's flat",
-  "source": "News24Online",
-  "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPckRWZHpaQ1FkWHNjRXdzZ196aDlyZE1qTTh1N2d5aWVISktpRlRvXzJZcWRma191bF9NQlF5djJ0N2c1aThMb2NFdjRuTGxZdG94QWdDeHhxdDR3TDB2empFOW5CODVtVE5hV3QtNU5lTFNGY090T3lPT3RST0RrNWFEMi1tYjVlNzFPNGhUOGlaNGdmVTNQRWFjbXJmLXVYNVVHNGFkR3dod2owelZKX2ZET1ZQc0ZUQ1hDN2JmMzBJSFZVcTAyeUcyRU9UdHFyZmRDREJYdVdaZVctRDNVQ0pIbk92OXBtazhDLWxDRkUzYm9vc3NB0gH7AUFVX3lxTE0yNFBpN093NEk2SlkzalJwV2lRS0JCdXkwZk0tMEYxdDBEUFVmLWFfVFF3a0Q5MVUxMmw5R2VFRmF6UVU4ZTVDcmlEZGJfVy12X3ZSNHc5Zm5ESG1QakpQNUVIWlVoeTFGZGJHUGJtNnk0bThUMWN2SS1XTF9LTk5yMy1VQUZjNWpLX3pYQm00TzJvMlNycU41UTFJU2hKbkFSaVNUd25ka2dsTlpwVDdjTUg0U0ZQdTNzMWVIU3dacmoyd3hZWmplQUZXaGhRLU1SZW5aWjJRaHNJX1RpdHdxaVVqazdRWXpfUGhSVkZoYUlVQ1F6a3F4eEQw?oc=5",
-  "date": "Tue, 13 Oct 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sex%20toys%2C%20chats%2C%20white%20Audi%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -952,6 +952,21 @@
   "stage": "Detected"
  },
  {
+  "name": "Facelets, The Bold Jewellery Trend Bringing Bling To Your Fa",
+  "category": "Jewellery",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "Facelets, The Bold Jewellery Trend Bringing Bling To Your Face - Free Press Journal",
+  "source": "Free Press Journal",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTTZkYmwwUXc4MTVKdzBkcGZGZnZfMUtmVmtac3lveUk4bWxPbFJBeUU3TEV1bXlEVWN5LU80bGgzX3ZiRnAwaTQtbGx1enJDQXZYZjB6X1J4TXRZU1FiSGVmeExycXgtSExYRERYbVVHZ3dmR09mNjZQUUhMWTZFZmFpRjVta3NtUFhxeHVjV2lRRk9oZVRqVTdpUEpGS0JNMVljSGVB0gGrAUFVX3lxTE8wQ19COUxjUUZlcjVpREFsbmwtWVcwcGdOSVBKamxobDdvbFFCUTBqMGlkbXlvVmN3a21xcG9EVmRXMTg4V3N5cmlJNEw0OUx6eTREcWRlUm5NMnlsa0thR2lLQ00xd25ScXBPT25hTWlUYXpiYmRqeDZEN2M4S25BUEFpSTdVYnNFZUpfOHNtdE03NnpOSW5VYmZldlBIQjZnalNxdmtBOGUyNA?oc=5",
+  "date": "Sat, 22 Aug 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Facelets%2C%20The%20Bold%20Jewellery%20Trend%20Bringing%20Bling%20To%20Your%20Fa%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
   "name": "Business News",
   "category": "General retail / office",
   "city": "Lucknow",
@@ -964,21 +979,6 @@
   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQbWlYZjhpMEhzZmJFclE3bTVwVno5TXhrRlhZRDVfZzBlNmJ5cHhYVlFiOFZPdEdka214RV9RUFBucDFISWpYZDBCckU4RzdSTHRmZ1gxWkdzM0ZqUXBaR1RKUzJuVG5xNVdENDMwX1NSRElsWDZneThBUjZybE91dERXazNqVWtzbXFZYWk2SUhPYUlLMXc0blNyZ01rWFd3OGRaMjM2czhxRC15VWsxT2NBVFlMeU1SaGtnTXIyRlF6TGM3Wm5OY1BfZWkyck5XbTJ2bFI2VDJMbFNGWG1WbG51eXBvTmtzQmhySDlXR18tZ3IxYTAtWmplRV9EZHZfdWExWHJudnTSAY4CQVVfeXFMUDZmZ1NMcGN6MHdmaWVUSmllTllRWlNFRktreWxGV2hYcml4TmJRZVl1ZlFidUlFUnhyUFNweC15Qnk5cElVRHg5cmZpMEgtSkNXSG9FUXJUT1F1YmZRSFFxZlZMeDNMSy1OUWhlOHhic1ZwcUJLb2JlRU53N1hXSS1UbXA3NGVCZVZrVThuQmlQV2VCVmVIdXotVXJaWmh5MFVTUlJBUFBhUUJWSzFuR2JfMU9SWUs2R3l1TEVtemE5SmpXN1RBLVE2VjJPNnBTVWlqRnZheWNCS3M1WU1vS0xsUHRVQjJhMFpaVkpFVzlVcDB5X3JNa0xpTkppV3NKWmJOa0hHelI0b1R5dW13?oc=5",
   "date": "Wed, 07 Oct 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Business%20News%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
-  "name": "Petrol, Diesel Price Today October 15",
-  "category": "General retail / office",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "Petrol, Diesel Price Today October 15: Fuel rates issued amid Houthi attacks on Saudi oil facilities; check latest rates in Delhi,",
-  "source": "News24Online",
-  "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOVXYzanRwYnlObXczXzJmaEJFMkpYelB0c2VDajQzNFJsZTQzRGhtRjFpem9yRjc4bW1SMnpYTmFjR0Zma1lweVdZRjdiNjZqLThvSXVvMUlnUWlBUXZXZExzOGVpNnB1Y1FkNkZSX29sZkhEZ25KaVJvQ3piNnBxWUd2X0luMjZCX0U4aUxKbXkxSU1YMXMwb09uYkgwakZqcjF1N0hXZjR5X0NKN2pkYVRGdmpOMFNKZFFFLXB5aXNPcXF1RHZSb0hlc2ZIZV9pZ29jTm1jMXB3QS1oMHNwWjZsX0FyLTlGYXZQLW1Gc1Q1SFFLQXRjczhZMUtWZnB5STY4SFgzQ1dLUnBmYmVVQ25IeDZ3djZZSzY3RmpscjcwNlJmRUN3YjJDTkZXY2tzbVVDc1FPc2haY1VUR2h1TUF6aF9nZ1Jt0gHMAkFVX3lxTFBNTGpkTVdSZU8zNVVYdXYtdHJhMnlDLTVwdlh2T2tQVWpIdmpaS19jUDktNkVYVUlzWEJyQkd6OHo5QlIyTlpHRjhjZGtnSVhXZV83TVBnYUhEemRQcWktTEhveS1wcTlDWW9NZVhqbXdFY2FuTVBQN3J2dnJLMXFMZTRmVkYzd1BMb2tvcVdfVmJxb1BSc3ZqM1hhQzViRHdZMjhCeVgzVWJQLVNlamc0WnpuMEF2ay13SzV5M3JibDZXa0JRZmFqSnptVTEtZ0w2RmZraTZLNFVoMk1vaGd0RW1NWUd1SVVnWjdVRDZMZ2J5Wmg1bWg3UmxVcW1mZWVfbEpzaXBzNXU1NDNRLU90U2ZKS0NCNGlfU0tSOHB5NGllRGctOFFJU0lKNkR2SU01eDhEZTN5akx3NVVTVGVKX2JLaXZUVFZCb2M5?oc=5",
-  "date": "Thu, 15 Oct 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Petrol%2C%20Diesel%20Price%20Today%20October%2015%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -1327,21 +1327,6 @@
   "stage": "Detected"
  },
  {
-  "name": "Toyota Corolla Altis On Road Price Lucknow Oct 2026",
-  "category": "Hospitality",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "Toyota Corolla Altis On Road Price Lucknow Oct 2026 - ₹19.33L - ZigWheels.com",
-  "source": "ZigWheels.com",
-  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qRHBFUkRLOU5Ya3cxWHplZDdpOGZrUEJpajFWbzd3ckpKbkpfUngzazJDUnlMSGhScU9Sd0lXZGk1OWNWd3JBdnRRaEN5MW9xOUU3cExESzdTNkRKaGpMUmR2YklCMTNmT3VSc0JDenZUNE9nWlg2WEt0bnduOEU?oc=5",
-  "date": "Sun, 11 Oct 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Toyota%20Corolla%20Altis%20On%20Road%20Price%20Lucknow%20Oct%202026%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
   "name": "Ather 450X[2020-2024] On Road Price Lucknow Oct 2026",
   "category": "General retail / office",
   "city": "Lucknow",
@@ -1357,6 +1342,21 @@
   "stage": "Detected"
  },
  {
+  "name": "Toyota Corolla Altis On Road Price Lucknow Oct 2026",
+  "category": "Hospitality",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "Toyota Corolla Altis On Road Price Lucknow Oct 2026 - ₹19.33L - ZigWheels.com",
+  "source": "ZigWheels.com",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qRHBFUkRLOU5Ya3cxWHplZDdpOGZrUEJpajFWbzd3ckpKbkpfUngzazJDUnlMSGhScU9Sd0lXZGk1OWNWd3JBdnRRaEN5MW9xOUU3cExESzdTNkRKaGpMUmR2YklCMTNmT3VSc0JDenZUNE9nWlg2WEt0bnduOEU?oc=5",
+  "date": "Sun, 11 Oct 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Toyota%20Corolla%20Altis%20On%20Road%20Price%20Lucknow%20Oct%202026%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
   "name": "Renault KWID 2015-2019 On Road Price Lucknow Oct 2026",
   "category": "General retail / office",
   "city": "Lucknow",
@@ -1369,6 +1369,21 @@
   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNGRLNGctSEFldVBmd3FXbGNEMW82N2w0QlNwWjRFYVNIZWNzaUVlUEhzT2s5SmlYbEZSNzI0UHpqdUVjV0xBTE5McVp5OXNQTDEyajBKZWFVcTI3b0VGck01WjRXT1JRWkM1NU1lV0hMLTB5WGVRaVBjTmFPQWVtQWtn?oc=5",
   "date": "Tue, 13 Oct 2026",
   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Renault%20KWID%202015-2019%20On%20Road%20Price%20Lucknow%20Oct%202026%20expansion%20real%20estate",
+  "stage": "Detected"
+ },
+ {
+  "name": "VW to increase dealership",
+  "category": "Auto / EV",
+  "city": "Lucknow",
+  "person": "",
+  "budget": "",
+  "space": "",
+  "locality": "Lucknow",
+  "signal": "VW to increase dealership in India - CarDekho",
+  "source": "CarDekho",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc25LSlV0SjNoLWhsNHVoS1lDRkpqdHJhMlBVVHNLTlZMLW9lODJIdGxDRlJ2YUpIQ21VNmlYN0RGal9xTzRjU281NlNvTjFRdUY1YnhISFlDMG5zT1JJbE5NalpSdllzMzBNeFpLdkFidGxwc2xFSzd1d0s1MDlEUHBBNnc3bUw50gGQAUFVX3lxTE94aTdzLTBKNkxxX1oxcUNfT0tyUGo1bXcza1FMb09zNXJxQi1aeFBIVGFMOXNMeFNub3pIdGVtTHB3U05oSHhDUEgyVnJ3QjJfRFRjNnhwbkVmNEh3MkxaRUJCLWJjUG4tOFJkQUpsd29lSllZaEhiOVE0V1VPQkR5UzlYckMwY0cwUlBRNFhrMA?oc=5",
+  "date": "Fri, 18 Sep 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=VW%20to%20increase%20dealership%20expansion%20real%20estate",
   "stage": "Detected"
  },
  {
@@ -1462,33 +1477,18 @@
   "stage": "Detected"
  },
  {
-  "name": "BMW leads the luxury electric vehicle segment",
-  "category": "Auto / EV",
+  "name": "Ather Konarc Price",
+  "category": "Fitness / Salon",
   "city": "Lucknow",
   "person": "",
   "budget": "",
   "space": "",
   "locality": "Lucknow",
-  "signal": "BMW leads the luxury electric vehicle segment in UP: BMW President & CEO - The Statesman",
-  "source": "The Statesman",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdWlGSUVwTk1TS0w1Q1RSalk5ZFhKQWMtUDM0UzJIajItUUpocVROSDFma2hqTnY0Qk92dy0ydUJYa1VLRGo3U0dvZC1RSVdVaWhsYlQ1TERDNHR6cXB1QllaNUpGM1hmVzd1YkZiYXNvX2k2TUxWYlN6M2tOSm9WWVA2a2gzRXZPOC1lUURxN21ZS09KZFctOFFwMjBaYlM1NDgyeEVHdlBmRUhJZ1N3YUJqeWIzQVVxZGlXaUJlSXJfODItN0tR0gHMAUFVX3lxTE9sVUw3elNZUy0xU1J2OEphY2JYbmdzNlVkMTI2QmwzcDJiZFlENTVsY0lKbk05MkUyTTBGNjNRZWZtdmRHQTdVQmw1cHdGS3hCcVhLOVJidkJvTHJkNXV3SnRla0lGby1fbU5IVWs3emcxSzVYdTZ4dU5EaXFJUGhPV1JCUHVXbWpIdGR5YUNhaVdwVDlXY0ZhbGFVeTA2cnRpdWFnVFhxVTNyVGhjSno0OGx4dmJTVU5lLTBrTDNTbG04cVpfY1F5d1Y3bw?oc=5",
-  "date": "Fri, 16 Oct 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=BMW%20leads%20the%20luxury%20electric%20vehicle%20segment%20expansion%20real%20estate",
-  "stage": "Detected"
- },
- {
-  "name": "Tata Aeris Price",
-  "category": "General retail / office",
-  "city": "Lucknow",
-  "person": "",
-  "budget": "",
-  "space": "",
-  "locality": "Lucknow",
-  "signal": "Tata Aeris Price in New Delhi (2026), Specs, Variants - carandbike",
-  "source": "carandbike",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzX2RXbWEzTWtTYVA1ZHd6WHEybE1WQzhscFp5QW1CR0ExdzZNTnVFLU5HLVFFTnZpVGVqekg5TktjQ044c1FXV3dlUE4wSHRPMHRabEYzQklrcFBoejhSVFEzV09vM1cw?oc=5",
-  "date": "Fri, 25 Sep 2026",
-  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Tata%20Aeris%20Price%20expansion%20real%20estate",
+  "signal": "Ather Konarc Price in Lucknow Starts at Rs. 110,963 - DriveSpark",
+  "source": "DriveSpark",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1OTZ0ajNzOV9fc0FTbHloVm04TVNuOXA3YlRlZHZSd1owYktKcDA4VHozR2FNQXZ5S05VTFRzQTh5ZHItVFpid05qVHoxWnZvTGNITDdBSVlNLUMtOFh2eTdkSGVNOEd5cWt5dkFENTg?oc=5",
+  "date": "Mon, 14 Sep 2026",
+  "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ather%20Konarc%20Price%20expansion%20real%20estate",
   "stage": "Detected"
  }
 ]
